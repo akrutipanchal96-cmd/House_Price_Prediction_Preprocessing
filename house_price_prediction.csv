@@ -1,0 +1,2001 @@
+House_ID,Location,Property_Type,Bedrooms,Bathrooms,Area_sqft,Age_Years,Floor,Total_Floors,Parking,Furnished,Balcony,Distance_to_Metro_km,Amenities_Score,Listed_Date,House_Price
+H0001,Vadodara,Apartment,3,3.0,1172.0,24,2,2,Yes,Furnished,3,10.9,5,2023-05-09,4150000
+H0002,Delhi,Apartment,4,3.0,1599.0,16,13,15,Yes,Furnished,1,2.8,10,2025-10-17,12123000
+H0003,Jaipur,Villa,4,4.0,1556.0,4,2,7,No,Semi-Furnished,3,10.0,8,2024-07-06,8431000
+H0004,Surat,Apartment,4,4.0,1664.0,1,4,11,Yes,Furnished,4,8.6,10,2025-11-25,6675000
+H0005,Vadodara,Apartment,3,3.0,1514.0,8,24,26,Yes,Semi-Furnished,3,11.6,8,2023-12-27,5130000
+H0006,Chennai,Penthouse,3,4.0,1625.0,5,13,29,Yes,Semi-Furnished,1,7.0,8,2025-02-03,12381000
+H0007,Pune,Villa,3,4.0,914.0,17,1,15,Yes,Semi-Furnished,3,1.3,9,2026-05-23,6563000
+H0008,Vadodara,Apartment,4,4.0,1682.0,13,4,5,Yes,Unfurnished,3,7.3,9,2023-10-14,4858000
+H0009,Jaipur,Row House,3,2.0,1404.0,18,6,7,Yes,Semi-Furnished,1,8.3,7,2025-02-06,6121000
+H0010,Surat,Penthouse,5,4.0,2186.0,13,13,17,Yes,Semi-Furnished,3,2.9,4,2025-07-13,11712000
+H0011,Delhi,Apartment,4,4.0,2092.0,7,28,29,Yes,Unfurnished,2,4.9,6,2024-01-04,14175000
+H0012,Jaipur,Villa,3,3.0,988.0,16,17,22,Yes,Semi-Furnished,3,7.3,8,2025-06-17,5434000
+H0013,Jaipur,Villa,2,3.0,500.0,2,15,29,Yes,Semi-Furnished,0,4.7,9,2026-04-24,2924000
+H0014,Pune,Apartment,2,1.0,1321.0,9,2,2,Yes,Semi-Furnished,0,4.7,4,2025-12-20,7088000
+H0015,Bangalore,Apartment,4,4.0,1886.0,16,4,7,No,Semi-Furnished,2,1.9,7,2023-09-19,11426000
+H0016,Surat,Apartment,2,2.0,847.0,10,5,10,Yes,Semi-Furnished,3,11.3,6,2025-02-26,2535000
+H0017,Mumbai,Villa,4,3.0,1781.0,7,11,16,Yes,Furnished,4,9.1,4,2023-04-21,21655000
+H0018,Jaipur,Apartment,3,3.0,1394.0,0,8,13,Yes,Furnished,3,0.3,6,2025-07-30,5431000
+H0019,Bangalore,Penthouse,3,3.0,1243.0,12,3,4,No,Furnished,0,9.3,10,2023-05-21,14448000
+H0020,Mumbai,Villa,4,3.0,1776.0,20,4,12,Yes,Semi-Furnished,1,9.0,5,2025-01-14,19567000
+H0021,Surat,Apartment,3,2.0,1414.0,3,3,16,Yes,Furnished,2,0.4,8,2024-06-18,5443000
+H0022,Ahmedabad,Villa,3,2.0,1713.0,6,2,4,Yes,Semi-Furnished,1,4.6,10,2023-03-20,10960000
+H0023,Chennai,Apartment,3,3.0,1523.0,13,4,15,Yes,Semi-Furnished,4,7.4,5,2025-11-20,7759000
+H0024,Bangalore,Villa,2,2.0,1263.0,4,3,3,Yes,Semi-Furnished,3,5.6,3,2024-05-23,10907000
+H0025,Hyderabad,Villa,4,4.0,1508.0,23,10,30,No,Semi-Furnished,4,9.4,7,2025-08-28,9195000
+H0026,Ahmedabad,Apartment,2,3.0,888.0,10,5,5,No,Unfurnished,1,5.3,8,2023-03-07,3351000
+H0027,Chennai,Apartment,4,4.0,1794.0,16,20,27,Yes,Semi-Furnished,3,2.1,10,2023-10-14,9830000
+H0028,Pune,Apartment,4,5.0,1404.0,4,18,20,Yes,Semi-Furnished,4,11.7,4,2026-04-14,7957000
+H0029,Vadodara,Apartment,2,1.0,1163.0,19,5,13,Yes,Unfurnished,0,3.1,6,2023-05-03,4446000
+H0030,Delhi,Apartment,3,3.0,1466.0,2,3,3,Yes,Semi-Furnished,0,8.7,9,2026-06-08,11406000
+H0031,Hyderabad,Apartment,3,3.0,1284.0,4,10,18,No,Semi-Furnished,2,2.0,3,2024-07-08,6335000
+H0032,Pune,Row House,2,,917.0,25,1,4,Yes,Furnished,0,4.1,7,2025-09-30,4899000
+H0033,Surat,Apartment,5,5.0,2376.0,14,3,11,Yes,Semi-Furnished,0,,7,2023-01-04,8825000
+H0034,Pune,Apartment,1,1.0,500.0,18,1,17,Yes,Unfurnished,1,2.5,7,2024-02-16,2621000
+H0035,Vadodara,Villa,2,3.0,1183.0,15,18,23,No,Semi-Furnished,0,5.6,4,2023-09-07,4111000
+H0036,Surat,Apartment,3,2.0,1305.0,7,6,10,Yes,Semi-Furnished,0,2.1,10,2024-03-28,5048000
+H0037,Hyderabad,Row House,3,3.0,1486.0,12,5,12,Yes,Semi-Furnished,1,6.8,8,2023-06-07,9459000
+H0038,Vadodara,Villa,3,4.0,1366.0,15,1,22,Yes,Unfurnished,0,8.1,5,2025-04-16,4839000
+H0039,Mumbai,Villa,3,3.0,1752.0,2,1,16,Yes,Furnished,0,1.0,3,2025-10-10,22448000
+H0040,Delhi,Apartment,3,3.0,1190.0,0,3,4,No,Semi-Furnished,2,10.5,10,2025-11-18,10193000
+H0041,Hyderabad,Apartment,3,2.0,1247.0,8,15,17,Yes,Furnished,0,2.5,4,2025-09-04,6774000
+H0042,Mumbai,Apartment,1,2.0,500.0,8,4,22,Yes,Semi-Furnished,0,2.9,6,2023-12-01,3821000
+H0043,Chennai,Penthouse,2,3.0,753.0,21,15,22,Yes,Semi-Furnished,2,8.0,4,2026-06-15,4929000
+H0044,Hyderabad,Apartment,2,2.0,1078.0,25,22,22,Yes,Furnished,1,5.8,6,2023-06-02,5158000
+H0045,Chennai,Apartment,2,2.0,1238.0,16,22,29,Yes,Semi-Furnished,0,6.1,6,2025-01-18,5174000
+H0046,Surat,Row House,3,2.0,1499.0,23,10,13,Yes,Semi-Furnished,4,1.8,7,2025-04-13,5853000
+H0047,Mumbai,Apartment,2,2.0,949.0,1,14,24,Yes,Furnished,1,9.7,4,2026-02-12,9793000
+H0048,Delhi,Apartment,2,2.0,789.0,8,6,6,Yes,Semi-Furnished,1,7.5,5,2025-03-18,5850000
+H0049,Vadodara,Apartment,2,2.0,1112.0,23,1,8,Yes,Furnished,0,1.9,6,2025-01-27,3401000
+H0050,Jaipur,Row House,4,4.0,1579.0,18,10,10,No,Semi-Furnished,2,4.7,9,2025-11-21,6615000
+H0051,Pune,Apartment,4,4.0,1507.0,12,9,22,Yes,Semi-Furnished,1,9.8,7,2024-06-15,8172000
+H0052,Ahmedabad,Villa,3,3.0,1294.0,4,7,19,Yes,Semi-Furnished,2,6.9,5,2023-02-22,8034000
+H0053,Delhi,Penthouse,4,4.0,1384.0,8,11,22,No,Semi-Furnished,4,1.6,10,2024-12-18,16062000
+H0054,Mumbai,Apartment,4,4.0,1501.0,12,7,9,Yes,Semi-Furnished,2,4.7,10,2026-05-03,14437000
+H0055,Jaipur,Villa,3,3.0,1689.0,0,2,13,Yes,Furnished,3,3.1,10,2023-12-11,10112000
+H0056,Delhi,Apartment,1,1.0,500.0,24,2,21,Yes,Unfurnished,2,6.4,4,2026-01-10,4546000
+H0057,Mumbai,Apartment,3,2.0,1136.0,14,2,3,Yes,Semi-Furnished,1,10.2,5,2023-01-01,9366000
+H0058,Bangalore,Penthouse,3,3.0,1363.0,3,7,11,Yes,Furnished,2,5.4,4,2023-06-16,14691000
+H0059,Bangalore,Row House,3,4.0,1372.0,3,19,20,Yes,Unfurnished,2,5.4,6,2023-11-13,9320000
+H0060,Chennai,Villa,3,4.0,1308.0,19,4,10,No,Furnished,3,10.9,10,2026-04-21,9015000
+H0061,Delhi,Apartment,3,2.0,989.0,9,14,26,Yes,Semi-Furnished,3,7.0,3,2025-08-22,7730000
+H0062,Bangalore,Apartment,3,2.0,1503.0,24,3,25,Yes,Semi-Furnished,0,6.9,3,2025-06-16,8262000
+H0063,Mumbai,Apartment,4,4.0,1670.0,5,7,9,Yes,Semi-Furnished,1,3.4,10,2023-09-30,16731000
+H0064,Chennai,Apartment,2,3.0,1170.0,23,7,25,Yes,Unfurnished,0,7.4,8,2024-01-08,4900000
+H0065,Mumbai,Apartment,3,3.0,1234.0,11,4,25,Yes,Semi-Furnished,3,7.0,8,2025-06-18,12136000
+H0066,Chennai,Apartment,3,2.0,1527.0,19,23,25,Yes,Furnished,2,4.9,6,2023-07-20,8104000
+H0067,Delhi,Apartment,3,4.0,1583.0,15,1,2,No,Unfurnished,3,11.9,5,2026-04-30,8785000
+H0068,Jaipur,Apartment,3,3.0,1266.0,2,1,7,No,Unfurnished,4,10.6,4,2023-05-20,4652000
+H0069,Vadodara,Apartment,1,1.0,708.0,13,10,13,Yes,Semi-Furnished,2,9.1,10,2023-11-02,2535000
+H0070,Hyderabad,Apartment,3,3.0,1111.0,0,4,26,Yes,Semi-Furnished,0,6.6,3,2026-05-04,6908000
+H0071,Jaipur,Penthouse,2,1.0,997.0,9,23,25,Yes,Furnished,2,5.7,10,2025-12-20,7671000
+H0072,Surat,Apartment,3,4.0,1570.0,14,13,20,No,Semi-Furnished,4,2.5,4,2023-12-26,5869000
+H0073,Mumbai,Row House,3,4.0,1443.0,6,16,28,Yes,Furnished,3,3.9,6,2023-11-03,15875000
+H0074,Surat,Row House,3,4.0,1783.0,3,16,18,Yes,Furnished,1,9.4,5,2023-11-29,7340000
+H0075,Jaipur,Apartment,2,3.0,1053.0,13,3,3,Yes,Semi-Furnished,1,5.6,9,2026-01-11,5008000
+H0076,Chennai,Penthouse,3,3.0,1284.0,23,2,12,No,Furnished,1,10.6,4,2023-11-30,8451000
+H0077,Hyderabad,Apartment,2,2.0,1461.0,15,18,19,No,Furnished,3,2.0,10,2024-05-31,7790000
+H0078,Hyderabad,Apartment,4,4.0,2044.0,13,1,24,Yes,Semi-Furnished,1,6.2,5,2024-12-31,9633000
+H0079,Ahmedabad,Apartment,4,4.0,1461.0,2,18,29,No,Furnished,4,7.9,9,2025-07-12,7573000
+H0080,Hyderabad,Apartment,5,4.0,2009.0,16,8,23,Yes,Furnished,3,6.3,3,2025-02-04,10022000
+H0081,Vadodara,Apartment,4,3.0,1563.0,20,11,12,Yes,Furnished,1,10.7,4,2025-02-23,5291000
+H0082,Hyderabad,Apartment,3,4.0,1466.0,13,15,19,No,Furnished,0,11.9,7,2023-01-21,8108000
+H0083,Jaipur,Villa,2,1.0,1053.0,17,1,9,No,Semi-Furnished,3,1.7,3,2025-05-28,3817000
+H0084,Ahmedabad,Villa,2,2.0,1051.0,2,1,16,Yes,Unfurnished,3,1.8,5,2023-06-26,5364000
+H0085,Jaipur,Apartment,3,3.0,1057.0,21,10,10,Yes,Semi-Furnished,2,1.8,6,2023-01-22,4331000
+H0086,Jaipur,Villa,3,3.0,1235.0,18,4,16,No,Semi-Furnished,1,8.3,7,2025-04-16,6205000
+H0087,Pune,Apartment,4,4.0,1723.0,2,6,8,No,Furnished,0,4.7,8,2025-08-17,10782000
+H0088,Ahmedabad,Apartment,2,1.0,622.0,11,8,21,No,Furnished,4,8.9,4,2024-07-01,2834000
+H0089,Jaipur,Penthouse,4,4.0,1593.0,21,13,14,Yes,Furnished,3,5.0,10,2023-09-07,8886000
+H0090,Pune,Apartment,3,4.0,1594.0,4,2,14,No,Semi-Furnished,4,7.6,8,2024-10-22,9269000
+H0091,Pune,Apartment,3,4.0,1070.0,9,1,2,No,Semi-Furnished,4,9.3,3,2025-08-09,6102000
+H0092,Ahmedabad,Apartment,2,3.0,,8,19,21,Yes,Semi-Furnished,4,6.7,10,2026-01-01,6595000
+H0093,Surat,Apartment,1,1.0,746.0,0,2,5,No,Semi-Furnished,2,6.6,4,2026-01-19,2500000
+H0094,Chennai,Row House,3,3.0,1298.0,12,4,25,Yes,Furnished,4,1.3,4,2026-04-14,7234000
+H0095,Vadodara,Apartment,3,2.0,1233.0,2,4,5,Yes,Semi-Furnished,1,5.1,7,2023-05-06,3911000
+H0096,Chennai,Row House,2,2.0,1100.0,18,2,5,Yes,Semi-Furnished,1,6.7,7,2026-05-12,5628000
+H0097,Hyderabad,Apartment,3,3.0,1208.0,10,7,14,Yes,Semi-Furnished,0,5.7,7,2026-06-23,6664000
+H0098,Vadodara,Apartment,4,4.0,1617.0,15,3,3,Yes,Semi-Furnished,0,10.8,7,2024-09-02,5371000
+H0099,Hyderabad,Apartment,4,3.0,1746.0,5,26,29,No,Semi-Furnished,4,10.9,6,2025-10-06,9171000
+H0100,Jaipur,Villa,4,5.0,1367.0,23,25,27,Yes,Unfurnished,4,9.9,10,2023-02-13,6764000
+H0101,Mumbai,Apartment,2,1.0,689.0,2,4,24,Yes,Unfurnished,2,4.7,10,2024-07-01,6956000
+H0102,Ahmedabad,Row House,2,3.0,893.0,18,7,16,No,Semi-Furnished,4,8.7,5,2026-04-06,3852000
+H0103,Vadodara,Penthouse,3,3.0,1436.0,5,2,5,Yes,Semi-Furnished,4,4.9,7,2024-03-10,7962000
+H0104,Vadodara,Apartment,3,4.0,1206.0,7,26,28,Yes,Furnished,4,3.0,3,2025-11-19,4285000
+H0105,Jaipur,Row House,2,3.0,914.0,21,7,7,Yes,Unfurnished,3,4.3,10,2025-03-04,4416000
+H0106,Surat,Penthouse,2,2.0,660.0,12,4,4,Yes,Semi-Furnished,3,1.1,4,2023-12-23,3143000
+H0107,Pune,Villa,3,3.0,1518.0,11,1,8,Yes,Furnished,2,4.2,8,2026-06-25,12293000
+H0108,Jaipur,Apartment,2,2.0,990.0,9,4,7,No,Semi-Furnished,2,5.7,7,2023-09-10,2609000
+H0109,Bangalore,Apartment,2,1.0,1006.0,2,2,4,Yes,Furnished,1,11.5,3,2025-02-23,7028000
+H0110,Pune,Apartment,2,1.0,1038.0,3,1,5,No,Semi-Furnished,2,4.0,6,2024-12-21,5942000
+H0111,Ahmedabad,Apartment,1,1.0,564.0,0,5,11,Yes,Semi-Furnished,1,10.9,3,2025-01-06,2468000
+H0112,Pune,Apartment,3,2.0,1263.0,12,19,22,Yes,Furnished,4,3.0,8,2025-06-18,7129000
+H0113,Surat,Penthouse,3,2.0,1553.0,23,4,10,Yes,Furnished,2,2.5,8,2023-05-03,7745000
+H0114,Pune,Apartment,3,3.0,1378.0,3,6,7,Yes,Unfurnished,2,6.4,3,2024-11-15,6446000
+H0115,Ahmedabad,Villa,2,2.0,920.0,21,26,30,Yes,Semi-Furnished,2,8.2,6,2023-05-23,4857000
+H0116,Surat,Row House,2,3.0,948.0,10,17,21,Yes,Unfurnished,1,0.8,10,2025-09-29,4277000
+H0117,Chennai,Row House,3,2.0,1345.0,18,7,28,Yes,Semi-Furnished,1,2.9,8,2025-07-26,7241000
+H0118,Vadodara,Apartment,3,3.0,1318.0,10,8,12,Yes,Semi-Furnished,0,5.6,6,2024-05-25,5448000
+H0119,Vadodara,Penthouse,3,2.0,1430.0,11,7,8,Yes,Semi-Furnished,1,4.2,4,2023-02-26,6943000
+H0120,Hyderabad,Apartment,2,2.0,782.0,10,7,19,Yes,Furnished,1,8.6,7,2023-02-11,3668000
+H0121,Chennai,Apartment,4,3.0,1595.0,5,1,5,Yes,Furnished,3,6.3,8,2025-03-31,9300000
+H0122,Chennai,Villa,2,2.0,1051.0,11,5,6,Yes,Furnished,2,2.2,3,2026-02-18,6796000
+H0123,Pune,Apartment,3,4.0,1324.0,8,4,5,Yes,Furnished,1,10.8,10,2023-12-09,9283000
+H0124,Vadodara,Apartment,3,4.0,1525.0,24,1,5,Yes,Unfurnished,2,3.7,5,2023-11-28,4148000
+H0125,Ahmedabad,Apartment,3,4.0,1424.0,9,15,28,Yes,Furnished,2,8.9,5,2023-12-07,6401000
+H0126,Delhi,Apartment,2,2.0,851.0,2,5,14,Yes,Semi-Furnished,3,9.4,9,2023-12-07,7995000
+H0127,Delhi,Apartment,3,2.0,1454.0,2,8,17,No,,2,11.6,4,2025-04-28,9230000
+H0128,Surat,Apartment,4,3.0,1965.0,19,15,26,Yes,Furnished,1,6.1,5,2023-07-01,6557000
+H0129,Vadodara,Villa,2,2.0,1030.0,22,5,15,Yes,Semi-Furnished,2,7.5,4,2025-09-10,4157000
+H0130,Vadodara,Villa,2,2.0,1070.0,15,9,12,No,Furnished,0,4.2,10,2026-05-18,4772000
+H0131,Delhi,Apartment,2,2.0,919.0,2,9,30,Yes,Semi-Furnished,0,8.2,7,2024-06-06,6138000
+H0132,Vadodara,Apartment,4,5.0,1929.0,9,3,3,Yes,Furnished,3,5.7,9,2023-07-01,7499000
+H0133,Pune,Apartment,2,1.0,845.0,23,22,23,Yes,Semi-Furnished,1,5.4,4,2023-09-08,3945000
+H0134,Bangalore,Apartment,5,5.0,2211.0,10,6,15,Yes,Semi-Furnished,3,10.3,6,2023-05-18,14687000
+H0135,Mumbai,Penthouse,3,3.0,1813.0,7,4,25,No,Unfurnished,0,0.9,6,2026-05-26,23395000
+H0136,Chennai,Apartment,5,5.0,2247.0,5,11,25,No,Unfurnished,1,10.6,9,2025-01-20,11006000
+H0137,Hyderabad,Apartment,4,4.0,1674.0,19,10,28,Yes,Semi-Furnished,2,10.3,10,2024-03-29,8691000
+H0138,Surat,Villa,3,2.0,1274.0,10,3,8,No,Semi-Furnished,1,,10,2025-06-01,6462000
+H0139,Bangalore,Villa,2,1.0,937.0,20,1,27,Yes,Semi-Furnished,4,6.0,6,2023-03-28,7523000
+H0140,Delhi,Villa,2,1.0,1103.0,11,12,12,Yes,Semi-Furnished,1,4.5,8,2023-10-20,10579000
+H0141,Chennai,Apartment,2,2.0,976.0,15,5,5,No,Unfurnished,2,11.9,6,2023-04-02,4455000
+H0142,Vadodara,Apartment,3,2.0,1233.0,17,6,8,Yes,Furnished,4,1.6,6,2023-07-27,3981000
+H0143,Hyderabad,Apartment,2,2.0,833.0,12,26,30,Yes,Semi-Furnished,3,7.2,10,2026-05-12,5155000
+H0144,Vadodara,Apartment,2,2.0,977.0,21,7,17,Yes,Semi-Furnished,1,8.3,6,2023-07-05,3011000
+H0145,Ahmedabad,Villa,3,3.0,1358.0,2,17,27,Yes,Semi-Furnished,3,11.2,6,2026-01-13,8070000
+H0146,Ahmedabad,Penthouse,4,5.0,1832.0,14,3,7,Yes,Furnished,1,9.4,8,2023-06-05,12459000
+H0147,Hyderabad,Villa,2,1.0,1115.0,21,7,28,Yes,Semi-Furnished,0,7.8,6,2023-10-20,6859000
+H0148,Hyderabad,Penthouse,1,1.0,1041.0,20,4,7,Yes,Semi-Furnished,0,1.7,6,2024-06-16,7605000
+H0149,Delhi,Apartment,1,1.0,500.0,13,3,3,Yes,Unfurnished,2,4.7,7,2023-06-10,3238000
+H0150,Hyderabad,Villa,4,4.0,1874.0,17,3,25,No,Semi-Furnished,0,1.9,10,2025-04-30,13836000
+H0151,Pune,Apartment,3,3.0,1368.0,13,9,9,No,Furnished,4,10.6,10,2023-06-05,7814000
+H0152,Vadodara,Apartment,2,1.0,618.0,4,18,28,Yes,Furnished,4,9.1,8,2023-05-23,2932000
+H0153,Bangalore,Apartment,2,2.0,1175.0,20,6,8,No,Furnished,1,9.2,6,2024-07-15,7991000
+H0154,Jaipur,Apartment,2,2.0,1026.0,13,20,28,Yes,Semi-Furnished,3,7.9,4,2023-02-04,4574000
+H0155,Hyderabad,Apartment,2,1.0,1094.0,24,22,26,Yes,Semi-Furnished,4,6.2,9,2023-08-12,5118000
+H0156,Surat,Row House,4,4.0,1444.0,7,14,25,Yes,Furnished,1,2.1,10,2024-10-29,7507000
+H0157,Ahmedabad,Apartment,4,4.0,1710.0,22,3,15,Yes,Semi-Furnished,3,4.2,7,2024-01-28,7037000
+H0158,Pune,Apartment,3,3.0,1156.0,14,10,10,Yes,Semi-Furnished,0,1.9,8,2024-02-12,7111000
+H0159,Chennai,Apartment,4,4.0,2139.0,14,14,16,Yes,Furnished,1,8.8,5,2023-10-24,10161000
+H0160,Jaipur,Penthouse,2,2.0,1156.0,18,26,26,Yes,Furnished,3,2.2,3,2023-11-19,5986000
+H0161,Bangalore,Villa,3,3.0,1227.0,25,7,23,Yes,Unfurnished,2,8.5,8,2023-02-08,8978000
+H0162,Jaipur,Villa,4,5.0,1473.0,19,7,19,No,Semi-Furnished,2,8.4,9,2024-05-19,6827000
+H0163,Hyderabad,Apartment,2,2.0,985.0,5,5,13,Yes,Semi-Furnished,4,5.7,7,2025-01-22,5675000
+H0164,Delhi,Villa,3,2.0,1547.0,18,3,24,No,Semi-Furnished,3,1.9,6,2026-02-14,14541000
+H0165,Ahmedabad,Apartment,2,3.0,638.0,24,18,20,No,Semi-Furnished,2,4.0,7,2023-08-28,2860000
+H0166,Ahmedabad,Penthouse,2,2.0,782.0,7,4,14,Yes,Semi-Furnished,4,4.0,3,2024-11-17,4895000
+H0167,Chennai,Villa,2,3.0,751.0,5,6,8,Yes,Semi-Furnished,1,8.5,3,2025-01-09,4826000
+H0168,Delhi,Apartment,3,4.0,1506.0,19,4,26,Yes,Unfurnished,1,1.6,8,2025-09-23,9644000
+H0169,Vadodara,Apartment,3,4.0,1283.0,22,11,11,No,Unfurnished,3,10.0,6,2024-05-01,3389000
+H0170,Mumbai,Apartment,4,3.0,1691.0,14,8,11,Yes,Semi-Furnished,3,9.2,6,2025-02-03,14720000
+H0171,Pune,Apartment,3,2.0,1381.0,2,1,3,Yes,Furnished,3,2.5,4,2024-09-14,7763000
+H0172,Ahmedabad,Apartment,4,3.0,1592.0,9,5,15,Yes,Semi-Furnished,3,8.7,3,2025-01-05,6663000
+H0173,Surat,Villa,4,4.0,1490.0,14,13,14,Yes,Semi-Furnished,2,8.1,6,2023-10-25,5627000
+H0174,Ahmedabad,Apartment,2,1.0,1197.0,23,22,23,No,Semi-Furnished,2,9.1,3,2025-12-11,3275000
+H0175,Jaipur,Apartment,3,2.0,1613.0,15,8,30,Yes,Furnished,4,2.5,10,2025-01-02,6437000
+H0176,Ahmedabad,Apartment,2,3.0,982.0,16,7,7,No,Furnished,2,2.1,4,2025-09-27,4323000
+H0177,Ahmedabad,Apartment,3,2.0,1395.0,18,1,10,Yes,Semi-Furnished,1,3.1,5,2023-10-31,6443000
+H0178,Mumbai,Row House,4,4.0,1977.0,10,5,14,Yes,Furnished,4,4.6,3,2024-10-25,20442000
+H0179,Mumbai,Apartment,2,1.0,978.0,15,4,10,No,Semi-Furnished,2,9.6,10,2025-06-17,9265000
+H0180,Bangalore,Villa,3,3.0,1275.0,4,4,14,Yes,Semi-Furnished,3,8.9,10,2026-02-15,13003000
+H0181,Vadodara,Penthouse,3,3.0,1357.0,4,3,6,No,Semi-Furnished,2,11.1,10,2025-03-01,7884000
+H0182,Surat,Villa,3,3.0,1601.0,25,2,15,Yes,Furnished,0,1.0,4,2024-10-08,6771000
+H0183,Ahmedabad,Penthouse,2,2.0,960.0,13,2,6,Yes,Furnished,4,0.4,4,2023-07-28,6485000
+H0184,Ahmedabad,Apartment,2,2.0,830.0,17,1,10,Yes,Furnished,2,8.5,9,2026-02-24,3212000
+H0185,Pune,Row House,1,2.0,576.0,25,6,9,No,Furnished,2,3.6,4,2024-06-02,3252000
+H0186,Mumbai,Apartment,2,2.0,1068.0,7,7,8,No,Semi-Furnished,1,4.2,7,2026-05-30,9889000
+H0187,Surat,Apartment,1,2.0,647.0,4,5,9,Yes,Semi-Furnished,3,6.7,8,2023-03-18,2402000
+H0188,Chennai,Villa,3,4.0,1450.0,6,16,23,Yes,Furnished,3,1.5,6,2023-12-04,10190000
+H0189,Bangalore,Row House,2,1.0,801.0,15,3,4,Yes,Furnished,1,7.8,3,2025-05-12,5349000
+H0190,Vadodara,Penthouse,4,4.0,,22,8,24,Yes,Furnished,1,4.1,8,2025-07-01,9631000
+H0191,Delhi,Apartment,3,2.0,1355.0,13,9,25,Yes,Unfurnished,0,7.7,7,2025-03-17,8881000
+H0192,Vadodara,Apartment,3,2.0,1222.0,4,11,16,Yes,Semi-Furnished,4,10.1,3,2026-02-14,4239000
+H0193,Jaipur,Row House,3,4.0,1487.0,23,2,9,No,Unfurnished,3,2.3,8,2026-03-26,5298000
+H0194,Ahmedabad,Apartment,3,3.0,1268.0,8,1,2,Yes,Unfurnished,1,11.2,7,2024-07-25,4714000
+H0195,Bangalore,Penthouse,4,4.0,1467.0,3,5,8,No,Semi-Furnished,1,6.5,10,2026-04-22,17793000
+H0196,Jaipur,Penthouse,2,2.0,770.0,3,4,20,Yes,Semi-Furnished,4,11.1,6,2024-02-28,5206000
+H0197,Surat,Apartment,2,3.0,917.0,15,3,3,Yes,Furnished,1,2.7,4,2024-11-03,3644000
+H0198,Delhi,Apartment,3,4.0,1454.0,23,9,15,No,Semi-Furnished,0,7.4,8,2025-11-05,10087000
+H0199,Mumbai,Apartment,2,3.0,794.0,16,5,19,Yes,Furnished,4,5.0,10,2025-07-14,8119000
+H0200,Bangalore,Apartment,1,2.0,507.0,14,3,16,No,Unfurnished,0,9.4,8,2023-04-08,2883000
+H0201,Bangalore,Row House,2,3.0,731.0,3,6,15,No,Furnished,2,7.4,10,2023-10-27,6869000
+H0202,Ahmedabad,Apartment,2,3.0,1127.0,5,3,25,Yes,Semi-Furnished,3,6.1,3,2025-01-16,5588000
+H0203,Hyderabad,Row House,3,3.0,1659.0,15,21,26,Yes,Furnished,1,11.0,4,2023-10-01,9302000
+H0204,Bangalore,Apartment,2,1.0,1240.0,3,3,20,Yes,Unfurnished,4,4.7,9,2023-09-18,9195000
+H0205,Pune,Row House,4,4.0,1924.0,5,6,20,Yes,Furnished,0,2.9,6,2026-06-16,12622000
+H0206,Delhi,Apartment,4,4.0,1905.0,4,10,23,Yes,Semi-Furnished,3,7.4,10,2025-07-24,15517000
+H0207,Delhi,Apartment,3,3.0,977.0,15,5,28,Yes,Semi-Furnished,3,7.6,3,2023-11-28,6979000
+H0208,Pune,Apartment,3,4.0,1382.0,24,25,27,Yes,Semi-Furnished,1,5.4,5,2023-04-25,7024000
+H0209,Chennai,Villa,4,4.0,1661.0,15,3,18,Yes,Semi-Furnished,3,6.0,5,2023-09-25,10756000
+H0210,Pune,Villa,2,1.0,1108.0,9,22,23,Yes,Unfurnished,1,11.5,5,2023-01-12,7236000
+H0211,Pune,Penthouse,4,4.0,1293.0,8,24,29,Yes,Furnished,2,8.9,6,2023-03-14,11207000
+H0212,Delhi,Apartment,4,4.0,1785.0,3,7,20,Yes,Unfurnished,1,1.6,10,2025-10-12,13685000
+H0213,Vadodara,Apartment,3,2.0,1311.0,13,22,28,Yes,Semi-Furnished,0,2.8,5,2025-05-23,5267000
+H0214,Delhi,Apartment,3,3.0,1551.0,3,8,17,Yes,Unfurnished,3,11.7,8,2024-02-10,10886000
+H0215,Hyderabad,Apartment,2,2.0,1229.0,11,1,21,Yes,Semi-Furnished,3,8.8,9,2023-06-27,7198000
+H0216,Ahmedabad,Apartment,3,3.0,1183.0,23,25,26,Yes,Semi-Furnished,3,11.0,3,2025-02-10,4100000
+H0217,Jaipur,Row House,4,5.0,1591.0,9,4,20,Yes,Unfurnished,1,,9,2025-08-03,6278000
+H0218,Vadodara,Row House,1,1.0,591.0,3,2,2,No,Semi-Furnished,4,9.0,9,2024-02-04,2443000
+H0219,Mumbai,Row House,4,3.0,2062.0,17,7,20,Yes,Semi-Furnished,1,8.7,9,2023-09-27,20778000
+H0220,Jaipur,Penthouse,2,2.0,961.0,12,6,8,Yes,Furnished,0,3.7,8,2024-04-30,5982000
+H0221,Ahmedabad,Apartment,2,1.0,720.0,12,13,30,No,Furnished,1,6.7,5,2023-02-28,4686000
+H0222,Hyderabad,Apartment,2,2.0,841.0,13,10,24,No,Semi-Furnished,3,7.6,9,2024-10-03,4187000
+H0223,Hyderabad,Apartment,1,1.0,586.0,17,7,12,Yes,Semi-Furnished,2,5.9,10,2025-06-05,3478000
+H0224,Mumbai,Penthouse,3,3.0,1393.0,0,2,6,Yes,Semi-Furnished,0,10.0,9,2023-09-23,21205000
+H0225,Vadodara,Apartment,2,2.0,823.0,20,1,18,Yes,Furnished,2,10.0,3,2023-03-16,2997000
+H0226,Chennai,Apartment,5,5.0,2037.0,15,4,12,Yes,Semi-Furnished,0,10.3,10,2026-01-18,10117000
+H0227,Pune,Apartment,3,2.0,1173.0,14,16,25,No,Semi-Furnished,0,9.7,8,2024-05-19,6568000
+H0228,Vadodara,Apartment,2,2.0,1155.0,21,16,27,Yes,Semi-Furnished,3,6.0,6,2023-12-23,3729000
+H0229,Chennai,Row House,3,3.0,1200.0,24,2,9,No,Unfurnished,1,4.8,4,2023-06-03,5210000
+H0230,Hyderabad,Penthouse,4,4.0,1666.0,4,8,11,Yes,Semi-Furnished,3,10.0,8,2026-05-26,14156000
+H0231,Delhi,Apartment,3,3.0,1261.0,5,10,13,No,Furnished,3,6.0,7,2024-04-30,9787000
+H0232,Ahmedabad,Row House,1,1.0,500.0,5,7,11,Yes,Unfurnished,3,3.2,5,2026-02-27,2583000
+H0233,Mumbai,Villa,4,4.0,1595.0,2,8,14,Yes,Semi-Furnished,2,6.2,7,2023-03-07,20857000
+H0234,Ahmedabad,Apartment,4,4.0,1971.0,15,11,27,Yes,Semi-Furnished,0,2.0,10,2026-03-13,9519000
+H0235,Surat,Apartment,2,3.0,732.0,11,6,19,Yes,Furnished,4,8.4,4,2024-01-15,2873000
+H0236,Surat,Apartment,1,1.0,500.0,3,1,11,Yes,Semi-Furnished,1,4.2,6,2024-02-11,1553000
+H0237,Vadodara,Apartment,3,2.0,1110.0,0,12,20,No,Furnished,3,3.3,8,2023-10-04,4582000
+H0238,Hyderabad,Row House,2,2.0,934.0,3,6,21,Yes,Semi-Furnished,0,11.5,6,2024-09-06,4865000
+H0239,Hyderabad,Apartment,4,3.0,2089.0,0,13,18,No,Furnished,1,9.4,4,2023-11-10,12840000
+H0240,Pune,Row House,2,1.0,926.0,20,17,21,Yes,Furnished,4,9.5,7,2024-07-02,5046000
+H0241,Pune,Apartment,4,5.0,1762.0,7,1,17,Yes,Furnished,4,7.6,8,2026-06-26,11470000
+H0242,Pune,Apartment,3,3.0,1207.0,23,6,6,No,Furnished,3,10.1,5,2024-04-05,6467000
+H0243,Delhi,Apartment,2,2.0,939.0,4,4,4,Yes,Furnished,4,9.2,3,2024-02-03,6496000
+H0244,Jaipur,Apartment,2,1.0,1171.0,25,24,28,Yes,Semi-Furnished,4,7.3,9,2024-03-26,4414000
+H0245,Bangalore,Apartment,3,3.0,1376.0,1,15,16,Yes,Furnished,1,11.5,6,2024-04-15,10201000
+H0246,Jaipur,Row House,3,3.0,1734.0,11,11,27,Yes,Semi-Furnished,1,2.5,10,2025-08-13,7718000
+H0247,Ahmedabad,Apartment,4,5.0,1977.0,21,2,3,No,Furnished,3,11.3,4,2024-12-07,7928000
+H0248,Jaipur,Villa,2,3.0,934.0,16,8,14,Yes,Unfurnished,0,5.0,8,2023-04-13,4255000
+H0249,Delhi,Apartment,2,3.0,931.0,6,10,23,Yes,Unfurnished,3,6.5,10,2023-11-24,6312000
+H0250,Ahmedabad,Apartment,1,1.0,844.0,10,7,9,No,Furnished,2,1.7,7,2024-08-23,3932000
+H0251,Jaipur,Apartment,3,2.0,1375.0,3,7,24,Yes,Semi-Furnished,4,6.6,5,2023-09-03,5312000
+H0252,Delhi,Villa,1,2.0,804.0,4,10,28,Yes,Furnished,0,7.5,10,2025-12-17,9097000
+H0253,Bangalore,Apartment,3,4.0,1711.0,5,4,18,No,Unfurnished,1,12.0,7,2023-04-15,10692000
+H0254,Jaipur,Apartment,3,4.0,1313.0,10,1,5,Yes,Semi-Furnished,2,11.7,5,2024-11-22,4272000
+H0255,Delhi,Apartment,4,3.0,1813.0,0,18,20,No,Furnished,2,11.6,8,2025-08-29,14536000
+H0256,Pune,Apartment,2,1.0,1126.0,24,10,23,Yes,Furnished,4,4.4,3,2025-12-28,5240000
+H0257,Hyderabad,Apartment,2,3.0,1088.0,9,19,26,No,Furnished,1,11.9,3,2025-09-19,5824000
+H0258,Pune,Apartment,3,4.0,1487.0,19,2,10,No,Semi-Furnished,0,5.6,10,2023-06-02,7516000
+H0259,Hyderabad,Row House,3,3.0,1110.0,23,4,24,Yes,Semi-Furnished,1,10.3,9,2025-11-24,7156000
+H0260,Mumbai,Villa,2,3.0,797.0,20,5,16,Yes,Semi-Furnished,4,2.8,10,2025-08-14,9785000
+H0261,Mumbai,Apartment,4,4.0,1661.0,10,18,29,Yes,Semi-Furnished,2,6.2,4,2025-11-04,14623000
+H0262,Mumbai,Apartment,4,4.0,1969.0,23,1,10,Yes,Furnished,4,,4,2026-02-03,15926000
+H0263,Bangalore,Row House,2,3.0,728.0,16,10,25,Yes,Furnished,3,11.4,5,2024-12-30,4903000
+H0264,Pune,Villa,2,1.0,1224.0,7,21,22,Yes,Furnished,2,8.3,5,2023-03-15,9759000
+H0265,Hyderabad,Apartment,3,3.0,1490.0,12,9,10,Yes,Unfurnished,4,9.6,5,2025-05-05,6637000
+H0266,Delhi,Row House,3,2.0,1558.0,19,15,15,No,Furnished,0,2.4,10,2023-10-12,12360000
+H0267,Ahmedabad,Apartment,1,2.0,500.0,17,12,24,Yes,Semi-Furnished,0,8.7,5,2026-05-05,1769000
+H0268,Delhi,Apartment,3,3.0,,21,21,22,Yes,Furnished,0,7.5,9,2023-10-07,9918000
+H0269,Ahmedabad,Villa,3,3.0,1404.0,15,9,17,Yes,Furnished,3,1.4,10,2025-02-25,7684000
+H0270,Surat,Apartment,2,1.0,996.0,1,14,25,Yes,Semi-Furnished,1,1.6,8,2024-11-16,3868000
+H0271,Delhi,Row House,3,2.0,1403.0,4,13,24,Yes,Semi-Furnished,0,1.6,8,2025-08-26,12913000
+H0272,Jaipur,Villa,4,5.0,1700.0,17,26,26,Yes,Semi-Furnished,3,8.8,3,2026-03-22,7525000
+H0273,Jaipur,Apartment,1,1.0,574.0,2,6,27,No,Semi-Furnished,0,2.0,4,2023-10-18,2690000
+H0274,Vadodara,Apartment,2,2.0,1136.0,21,4,18,No,Semi-Furnished,3,5.8,9,2025-07-20,3290000
+H0275,Pune,Apartment,3,4.0,1140.0,16,4,14,Yes,Furnished,0,4.5,4,2026-03-11,6849000
+H0276,Ahmedabad,Apartment,4,4.0,2028.0,15,1,10,Yes,Semi-Furnished,1,6.7,6,2025-02-06,7722000
+H0277,Ahmedabad,Villa,5,4.0,2327.0,5,3,16,Yes,Semi-Furnished,4,8.6,4,2023-11-08,13491000
+H0278,Pune,Apartment,3,4.0,1176.0,18,3,8,Yes,Furnished,0,8.3,4,2024-10-07,6289000
+H0279,Bangalore,Apartment,3,2.0,1419.0,6,1,2,Yes,Semi-Furnished,4,6.3,7,2025-11-21,10711000
+H0280,Vadodara,Villa,3,2.0,1512.0,17,2,2,Yes,Furnished,0,5.7,7,2023-01-26,6586000
+H0281,Bangalore,Apartment,3,4.0,1128.0,13,1,6,Yes,Furnished,1,5.0,9,2023-09-12,7939000
+H0282,Bangalore,Villa,2,3.0,958.0,5,13,25,Yes,Semi-Furnished,4,10.4,6,2025-12-15,9199000
+H0283,Bangalore,Apartment,2,3.0,936.0,7,9,10,Yes,Unfurnished,3,4.2,5,2023-10-20,6662000
+H0284,Pune,Row House,2,3.0,834.0,14,11,13,Yes,Unfurnished,0,3.3,6,2024-09-28,4902000
+H0285,Bangalore,Apartment,3,4.0,1367.0,14,1,7,Yes,Furnished,0,9.0,6,2023-08-18,9435000
+H0286,Jaipur,Apartment,1,1.0,500.0,14,25,29,No,Semi-Furnished,3,4.5,3,2023-02-22,1500000
+H0287,Mumbai,Apartment,4,4.0,1997.0,15,1,14,No,Semi-Furnished,1,10.2,8,2025-08-11,18123000
+H0288,Surat,Apartment,2,2.0,837.0,0,16,27,Yes,Furnished,2,4.1,4,2023-04-11,3412000
+H0289,Ahmedabad,Villa,2,3.0,1093.0,10,18,29,Yes,Semi-Furnished,0,8.5,3,2025-03-14,6263000
+H0290,Ahmedabad,Villa,3,2.0,1052.0,24,2,9,Yes,Semi-Furnished,3,0.8,9,2025-05-18,5965000
+H0291,Surat,Villa,3,3.0,1321.0,4,14,16,Yes,Unfurnished,2,,8,2023-09-24,7230000
+H0292,Pune,Apartment,2,2.0,952.0,4,6,7,Yes,Furnished,0,4.3,9,2023-01-02,6024000
+H0293,Delhi,Apartment,2,2.0,915.0,20,23,28,Yes,Furnished,4,9.9,4,2023-01-22,5924000
+H0294,Pune,Apartment,5,4.0,2079.0,5,3,7,Yes,Unfurnished,3,11.6,9,2024-07-31,12075000
+H0295,Ahmedabad,Apartment,2,3.0,830.0,1,1,5,Yes,Semi-Furnished,4,5.7,6,2023-07-31,4549000
+H0296,Ahmedabad,Row House,2,3.0,1086.0,5,3,12,Yes,Unfurnished,1,10.0,10,2026-06-13,6068000
+H0297,Surat,Apartment,4,5.0,1930.0,13,2,22,No,Furnished,2,8.5,4,2024-06-12,6559000
+H0298,Bangalore,Apartment,1,1.0,535.0,10,8,19,Yes,Semi-Furnished,3,11.6,5,2024-01-23,3760000
+H0299,Pune,Apartment,3,3.0,1153.0,3,1,4,Yes,Semi-Furnished,0,9.8,5,2023-01-14,6075000
+H0300,Hyderabad,Penthouse,2,2.0,1273.0,23,1,4,Yes,Furnished,0,1.2,6,2024-06-02,9542000
+H0301,Surat,Villa,2,1.0,792.0,24,2,13,Yes,Semi-Furnished,2,8.6,9,2026-05-30,3800000
+H0302,Jaipur,Row House,2,2.0,687.0,8,2,28,Yes,Semi-Furnished,4,6.6,7,2024-09-07,3403000
+H0303,Ahmedabad,Apartment,2,2.0,588.0,23,9,22,Yes,Furnished,4,0.5,5,2025-08-19,2287000
+H0304,Surat,Apartment,2,1.0,968.0,2,20,22,Yes,Furnished,3,3.2,6,2024-02-07,3435000
+H0305,Pune,Row House,1,1.0,511.0,25,5,7,Yes,Semi-Furnished,3,11.1,3,2023-10-14,3337000
+H0306,Ahmedabad,Villa,4,5.0,1936.0,15,6,22,Yes,Semi-Furnished,4,11.1,7,2024-01-19,11225000
+H0307,Delhi,Apartment,2,3.0,1060.0,10,26,29,Yes,Unfurnished,3,9.6,5,2026-06-24,6635000
+H0308,Surat,Villa,3,3.0,1402.0,3,4,7,Yes,Furnished,4,11.8,10,2026-01-19,8458000
+H0309,Vadodara,Penthouse,4,4.0,1701.0,0,9,9,Yes,Furnished,2,9.7,6,2025-04-05,10234000
+H0310,Ahmedabad,Villa,3,2.0,1550.0,24,9,16,Yes,Unfurnished,3,0.4,6,2023-11-08,6326000
+H0311,Pune,Villa,1,1.0,886.0,20,7,19,Yes,Unfurnished,4,3.7,3,2024-12-26,5017000
+H0312,Mumbai,Apartment,4,4.0,1932.0,21,12,21,Yes,Furnished,3,0.7,10,2023-02-12,18847000
+H0313,Hyderabad,Apartment,2,1.0,867.0,15,26,30,Yes,Semi-Furnished,0,1.4,3,2026-01-02,3523000
+H0314,Chennai,Apartment,2,1.0,1091.0,18,5,17,No,Furnished,0,2.9,7,2025-01-23,4521000
+H0315,Bangalore,Penthouse,3,3.0,1278.0,15,5,7,No,Furnished,1,6.2,8,2025-09-19,13883000
+H0316,Chennai,Penthouse,3,4.0,1151.0,10,12,29,Yes,Furnished,4,10.2,5,2025-05-25,9670000
+H0317,Pune,Penthouse,3,4.0,1188.0,25,20,22,No,Furnished,1,10.4,6,2025-01-03,8943000
+H0318,Jaipur,Apartment,2,2.0,886.0,7,9,18,Yes,Unfurnished,4,7.5,7,2023-05-24,3093000
+H0319,Jaipur,Villa,3,3.0,1369.0,22,7,10,No,Semi-Furnished,3,11.2,9,2023-07-28,5428000
+H0320,Mumbai,Villa,2,2.0,1321.0,0,7,20,Yes,Unfurnished,4,6.2,7,2026-01-27,15729000
+H0321,Bangalore,Villa,4,3.0,1591.0,25,19,19,Yes,Semi-Furnished,0,10.7,9,2024-11-30,12491000
+H0322,Vadodara,Villa,2,2.0,1188.0,20,20,26,Yes,Semi-Furnished,3,5.6,3,2023-04-24,4364000
+H0323,Mumbai,Penthouse,4,4.0,,25,23,24,Yes,Semi-Furnished,0,3.5,6,2023-06-24,21024000
+H0324,Chennai,Apartment,3,3.0,987.0,8,3,6,Yes,Unfurnished,3,11.0,4,2023-09-28,3939000
+H0325,Mumbai,Apartment,4,4.0,1659.0,11,27,29,No,Semi-Furnished,4,4.8,8,2023-03-04,15153000
+H0326,Chennai,Apartment,3,3.0,1562.0,21,6,7,Yes,Semi-Furnished,4,6.2,8,2025-10-04,7721000
+H0327,Ahmedabad,Apartment,3,3.0,1412.0,7,5,13,Yes,Unfurnished,0,4.1,3,2025-03-06,5076000
+H0328,Jaipur,Villa,2,3.0,1023.0,25,12,12,Yes,Furnished,2,8.1,9,2023-08-13,5264000
+H0329,Ahmedabad,Penthouse,2,2.0,1189.0,16,3,17,Yes,Semi-Furnished,4,11.9,6,2023-06-10,7747000
+H0330,Hyderabad,Apartment,2,2.0,763.0,9,17,21,Yes,Unfurnished,2,0.6,10,2025-11-25,4268000
+H0331,Bangalore,Apartment,4,3.0,1561.0,6,7,18,Yes,Unfurnished,3,10.8,7,2024-01-16,10189000
+H0332,Vadodara,Villa,4,4.0,1343.0,18,10,21,Yes,Furnished,2,0.3,8,2023-11-14,5776000
+H0333,Chennai,Apartment,3,3.0,1508.0,24,7,10,Yes,Semi-Furnished,0,4.6,7,2024-12-08,6551000
+H0334,Vadodara,Apartment,2,1.0,1051.0,5,1,2,Yes,Semi-Furnished,1,2.3,5,2024-03-31,3760000
+H0335,Chennai,Apartment,2,2.0,1080.0,20,2,27,Yes,Furnished,1,9.2,4,2023-12-10,4098000
+H0336,Pune,Apartment,3,4.0,1137.0,23,1,4,Yes,Semi-Furnished,0,0.9,3,2025-11-29,4342000
+H0337,Mumbai,Apartment,3,4.0,1061.0,23,4,22,No,Furnished,1,6.8,9,2024-02-18,9520000
+H0338,Hyderabad,Apartment,4,5.0,1512.0,18,18,24,Yes,Furnished,0,3.8,8,2026-05-30,8650000
+H0339,Jaipur,Apartment,5,4.0,1984.0,17,8,10,Yes,Semi-Furnished,4,1.9,10,2023-08-13,7737000
+H0340,Chennai,Row House,2,2.0,1230.0,14,23,23,Yes,Semi-Furnished,2,9.3,5,2026-03-23,5711000
+H0341,Vadodara,Apartment,3,3.0,1530.0,1,1,20,Yes,Semi-Furnished,1,2.8,10,2023-10-07,6481000
+H0342,Hyderabad,Villa,3,3.0,1268.0,13,2,14,Yes,Semi-Furnished,4,2.9,5,2025-11-28,8678000
+H0343,Delhi,Apartment,2,3.0,1004.0,20,2,24,Yes,Furnished,1,3.5,4,2024-12-29,7218000
+H0344,Delhi,Apartment,2,2.0,828.0,9,4,15,Yes,Furnished,3,7.2,3,2024-09-12,5735000
+H0345,Ahmedabad,Villa,1,1.0,616.0,15,3,21,Yes,Furnished,0,8.0,3,2025-09-01,3616000
+H0346,Jaipur,Apartment,4,3.0,1545.0,6,17,20,Yes,Furnished,0,0.5,7,2024-07-26,6869000
+H0347,Pune,Apartment,3,3.0,1485.0,7,14,24,Yes,Semi-Furnished,4,3.1,3,2024-05-03,8402000
+H0348,Vadodara,Villa,3,3.0,1197.0,9,2,28,Yes,Semi-Furnished,3,5.3,5,2025-10-04,5810000
+H0349,Mumbai,Villa,4,5.0,1895.0,14,16,28,Yes,Furnished,2,4.2,7,2025-07-25,23470000
+H0350,Mumbai,Apartment,3,3.0,1273.0,7,3,8,Yes,Furnished,3,10.6,3,2026-05-06,11783000
+H0351,Vadodara,Apartment,2,2.0,808.0,12,1,5,Yes,Semi-Furnished,3,9.5,9,2026-04-10,2755000
+H0352,Bangalore,Villa,3,2.0,1640.0,11,13,13,No,Furnished,2,,9,2025-02-22,16035000
+H0353,Pune,Apartment,3,2.0,1382.0,7,1,24,Yes,Unfurnished,2,4.3,4,2024-05-22,6184000
+H0354,Hyderabad,Villa,4,3.0,1692.0,14,25,28,Yes,Semi-Furnished,3,8.5,5,2024-02-09,10538000
+H0355,Chennai,Villa,3,3.0,1486.0,25,7,15,Yes,Furnished,1,10.2,6,2025-02-10,10213000
+H0356,Bangalore,Row House,3,2.0,1109.0,11,2,3,Yes,,1,7.3,4,2024-10-25,9692000
+H0357,Chennai,Apartment,2,1.0,1149.0,10,2,2,Yes,Semi-Furnished,3,9.5,4,2023-05-11,6047000
+H0358,Chennai,Penthouse,4,3.0,1725.0,18,21,29,Yes,Furnished,1,9.1,3,2023-10-08,12184000
+H0359,Bangalore,Apartment,1,2.0,658.0,13,5,19,Yes,Furnished,2,7.0,7,2024-02-24,5133000
+H0360,Ahmedabad,Apartment,2,3.0,671.0,17,4,21,Yes,Furnished,2,4.0,10,2026-04-30,3780000
+H0361,Delhi,Apartment,2,2.0,881.0,12,3,9,Yes,Semi-Furnished,1,9.0,7,2024-09-28,7224000
+H0362,Chennai,Villa,1,1.0,551.0,3,4,4,Yes,Semi-Furnished,2,2.7,9,2025-03-18,3912000
+H0363,Bangalore,Apartment,2,2.0,1135.0,16,10,27,Yes,Furnished,0,9.4,5,2023-12-14,7155000
+H0364,Bangalore,Apartment,4,3.0,1872.0,18,4,7,No,Semi-Furnished,2,9.7,3,2024-03-04,10721000
+H0365,Surat,Apartment,4,3.0,1679.0,8,18,23,Yes,Semi-Furnished,3,9.9,7,2024-06-30,6577000
+H0366,Ahmedabad,Penthouse,2,1.0,1007.0,22,5,14,No,Semi-Furnished,4,5.8,9,2025-07-28,5963000
+H0367,Jaipur,Penthouse,2,2.0,1176.0,6,5,10,No,Furnished,1,2.6,8,2024-02-06,6962000
+H0368,Surat,Villa,2,2.0,914.0,0,5,10,No,Semi-Furnished,1,1.5,10,2025-12-06,5553000
+H0369,Surat,Apartment,2,1.0,894.0,6,10,21,No,Unfurnished,2,9.0,6,2024-10-26,2485000
+H0370,Vadodara,Apartment,1,1.0,500.0,25,1,10,Yes,Furnished,2,10.7,8,2025-01-19,2546000
+H0371,Delhi,Villa,4,4.0,1700.0,6,6,16,Yes,Furnished,4,7.9,10,2025-08-17,19531000
+H0372,Bangalore,Apartment,2,3.0,637.0,19,11,14,Yes,Furnished,4,2.0,3,2024-09-28,5148000
+H0373,Delhi,Apartment,3,3.0,1329.0,6,2,23,Yes,Furnished,3,11.2,3,2025-05-28,10855000
+H0374,Pune,Villa,1,1.0,728.0,7,7,17,No,Semi-Furnished,0,11.9,7,2023-03-28,5543000
+H0375,Vadodara,Row House,4,4.0,1368.0,15,3,3,No,Unfurnished,3,5.4,10,2024-05-29,5955000
+H0376,Jaipur,Villa,3,2.0,1572.0,2,21,27,Yes,Unfurnished,1,7.3,4,2025-09-30,7445000
+H0377,Delhi,Villa,4,5.0,1691.0,12,5,15,Yes,Furnished,2,9.4,3,2026-04-03,15832000
+H0378,Mumbai,Row House,4,4.0,1745.0,9,21,28,Yes,Semi-Furnished,3,8.9,4,2026-05-31,17509000
+H0379,Chennai,Apartment,2,2.0,860.0,17,2,7,Yes,Semi-Furnished,2,11.6,5,2025-05-10,3866000
+H0380,Pune,Apartment,2,1.0,642.0,6,1,3,Yes,Semi-Furnished,2,1.6,9,2025-07-04,4507000
+H0381,Ahmedabad,Row House,3,2.0,1209.0,20,3,9,Yes,Semi-Furnished,3,7.1,5,2024-03-26,6104000
+H0382,Jaipur,Apartment,2,3.0,1328.0,20,4,5,No,Furnished,3,8.4,10,2023-12-07,4247000
+H0383,Pune,Villa,3,3.0,1153.0,4,13,22,Yes,Semi-Furnished,4,,10,2024-02-25,10978000
+H0384,Chennai,Villa,1,2.0,500.0,22,18,25,No,Semi-Furnished,0,10.5,7,2024-01-16,3724000
+H0385,Vadodara,Villa,1,1.0,575.0,24,4,15,Yes,Semi-Furnished,4,11.7,5,2023-01-05,2054000
+H0386,Chennai,Villa,3,3.0,1335.0,23,9,12,No,Semi-Furnished,0,6.3,8,2024-10-09,8190000
+H0387,Surat,Row House,3,3.0,1292.0,21,24,25,Yes,Furnished,3,10.0,10,2025-10-24,5524000
+H0388,Chennai,Penthouse,3,3.0,1353.0,6,13,29,No,Furnished,0,5.3,8,2023-11-12,11417000
+H0389,Surat,Apartment,2,2.0,1066.0,24,14,15,Yes,Unfurnished,1,5.2,8,2026-01-06,3231000
+H0390,Vadodara,Penthouse,3,3.0,1244.0,21,11,13,Yes,Semi-Furnished,4,3.3,7,2024-06-14,6157000
+H0391,Hyderabad,Apartment,2,2.0,985.0,16,17,17,Yes,Unfurnished,4,9.9,7,2023-12-21,4210000
+H0392,Surat,Apartment,2,3.0,1134.0,3,1,7,No,Furnished,4,11.8,8,2025-11-22,5560000
+H0393,Ahmedabad,Apartment,3,3.0,1171.0,23,6,21,Yes,Semi-Furnished,2,3.3,4,2024-10-23,4066000
+H0394,Chennai,Apartment,2,1.0,532.0,22,1,2,Yes,Semi-Furnished,2,1.0,8,2026-03-08,3049000
+H0395,Chennai,Apartment,2,2.0,1071.0,15,4,13,Yes,Unfurnished,3,9.8,4,2026-05-04,4175000
+H0396,Ahmedabad,Row House,2,2.0,1401.0,18,1,8,Yes,Furnished,3,7.6,5,2023-05-07,6554000
+H0397,Mumbai,Villa,2,2.0,949.0,9,8,9,No,Furnished,2,11.5,4,2023-12-15,11809000
+H0398,Bangalore,Villa,2,2.0,986.0,2,1,10,Yes,Semi-Furnished,4,3.3,10,2025-12-03,10226000
+H0399,Hyderabad,Apartment,2,3.0,897.0,2,1,3,Yes,Unfurnished,2,1.1,3,2025-01-11,4558000
+H0400,Jaipur,Row House,2,2.0,1236.0,16,15,18,No,Unfurnished,0,6.1,6,2024-12-28,4144000
+H0401,Surat,Row House,1,2.0,536.0,9,18,21,No,Unfurnished,4,1.3,3,2023-09-01,1500000
+H0402,Ahmedabad,Penthouse,3,2.0,1316.0,16,7,14,No,Unfurnished,2,3.4,3,2023-01-09,7139000
+H0403,Vadodara,Apartment,2,1.0,1114.0,21,1,6,Yes,Furnished,3,1.8,7,2024-12-12,3325000
+H0404,Surat,Apartment,2,2.0,863.0,16,4,11,Yes,Furnished,2,2.9,6,2025-04-25,2939000
+H0405,Bangalore,Apartment,2,1.0,719.0,20,12,13,Yes,Furnished,1,1.5,7,2026-01-07,4682000
+H0406,Vadodara,Apartment,3,4.0,1509.0,3,13,18,Yes,Furnished,2,11.5,4,2026-04-28,5297000
+H0407,Pune,Apartment,4,4.0,1644.0,20,4,22,Yes,Unfurnished,4,3.6,8,2023-03-27,7303000
+H0408,Chennai,Row House,3,3.0,1174.0,22,5,7,Yes,Unfurnished,2,5.5,9,2023-09-28,5209000
+H0409,Pune,Apartment,3,2.0,1728.0,5,1,4,Yes,Furnished,3,10.8,9,2024-05-27,11327000
+H0410,Surat,Apartment,3,4.0,1318.0,11,1,29,Yes,Semi-Furnished,0,8.2,9,2025-11-09,5306000
+H0411,Bangalore,Apartment,3,4.0,1439.0,24,7,16,No,Unfurnished,1,7.5,4,2023-05-10,7410000
+H0412,Hyderabad,Apartment,3,2.0,1355.0,21,1,8,Yes,Semi-Furnished,4,8.6,6,2025-04-17,7343000
+H0413,Surat,Apartment,2,3.0,790.0,24,1,7,Yes,Furnished,3,10.0,5,2025-02-08,2361000
+H0414,Ahmedabad,Apartment,2,3.0,1074.0,19,2,5,No,Semi-Furnished,1,10.6,4,2025-10-27,3119000
+H0415,Delhi,Apartment,2,2.0,1007.0,16,15,20,Yes,Semi-Furnished,2,7.8,3,2025-05-01,6840000
+H0416,Surat,Penthouse,4,5.0,1631.0,16,6,6,Yes,Semi-Furnished,1,10.7,6,2025-07-25,7430000
+H0417,Chennai,Row House,3,2.0,1428.0,9,2,4,No,Semi-Furnished,0,6.6,6,2025-06-19,7788000
+H0418,Chennai,Apartment,3,3.0,1257.0,6,9,27,No,Furnished,1,3.5,4,2024-04-17,6523000
+H0419,Surat,Apartment,2,1.0,751.0,15,4,26,Yes,Unfurnished,1,10.6,4,2026-01-30,3514000
+H0420,Vadodara,Penthouse,3,3.0,1133.0,12,7,10,Yes,Semi-Furnished,2,6.6,7,2023-12-04,5568000
+H0421,Delhi,Apartment,2,1.0,999.0,2,6,7,Yes,Semi-Furnished,2,10.9,7,2023-11-15,7530000
+H0422,Ahmedabad,Apartment,2,1.0,881.0,1,11,14,Yes,Unfurnished,4,0.8,3,2025-11-14,4004000
+H0423,Surat,Penthouse,4,4.0,2020.0,15,13,28,Yes,Furnished,2,5.0,10,2024-12-21,11952000
+H0424,Vadodara,Apartment,3,4.0,1342.0,5,11,23,Yes,Furnished,1,11.4,6,2023-05-23,4884000
+H0425,Chennai,Villa,2,1.0,809.0,5,19,29,Yes,Unfurnished,0,3.2,9,2024-10-18,5554000
+H0426,Chennai,Apartment,4,4.0,1778.0,12,8,21,Yes,Furnished,2,11.3,5,2026-03-18,8633000
+H0427,Bangalore,Apartment,2,2.0,717.0,6,1,5,Yes,Semi-Furnished,4,11.5,5,2025-12-14,5289000
+H0428,Surat,Apartment,5,5.0,2135.0,4,3,3,Yes,Furnished,4,10.6,6,2024-04-15,7656000
+H0429,Delhi,Penthouse,2,2.0,1007.0,23,17,27,Yes,Furnished,1,6.9,3,2023-12-29,11128000
+H0430,Mumbai,Apartment,2,3.0,985.0,6,2,5,Yes,Semi-Furnished,2,7.9,9,2024-10-11,10198000
+H0431,Delhi,Apartment,2,1.0,1185.0,1,1,9,Yes,Furnished,2,10.5,7,2023-07-28,9204000
+H0432,Chennai,Villa,2,2.0,1418.0,16,11,14,Yes,Semi-Furnished,4,9.4,7,2026-04-23,8705000
+H0433,Chennai,Apartment,2,2.0,1071.0,12,5,11,Yes,Semi-Furnished,2,7.7,7,2025-12-24,4831000
+H0434,Pune,Apartment,3,2.0,1562.0,24,16,19,Yes,Unfurnished,1,11.8,5,2024-07-02,6428000
+H0435,Chennai,Row House,4,3.0,2208.0,20,10,10,Yes,Semi-Furnished,0,8.3,5,2026-02-09,11097000
+H0436,Ahmedabad,Apartment,4,4.0,1569.0,20,2,2,Yes,Furnished,1,11.7,3,2023-09-20,7100000
+H0437,Jaipur,Penthouse,2,1.0,974.0,15,2,14,Yes,Unfurnished,2,1.0,5,2026-01-04,4724000
+H0438,Surat,Penthouse,3,3.0,1264.0,25,16,19,Yes,Semi-Furnished,1,1.9,4,2026-04-16,4824000
+H0439,Delhi,Villa,2,2.0,1102.0,19,3,16,Yes,Semi-Furnished,3,5.6,5,2025-02-04,9110000
+H0440,Jaipur,Apartment,1,1.0,599.0,1,3,3,Yes,Unfurnished,3,4.8,7,2023-01-01,2099000
+H0441,Vadodara,Row House,3,3.0,1203.0,4,10,12,Yes,Semi-Furnished,2,9.5,3,2023-05-28,4712000
+H0442,Mumbai,Apartment,3,3.0,1352.0,17,30,30,Yes,Semi-Furnished,2,2.2,6,2025-05-25,11490000
+H0443,Ahmedabad,Villa,2,3.0,1138.0,6,5,15,Yes,Semi-Furnished,0,11.7,6,2025-09-12,5631000
+H0444,Delhi,Apartment,1,1.0,500.0,10,20,23,No,Furnished,1,4.0,3,2026-02-26,2983000
+H0445,Jaipur,Apartment,5,5.0,2006.0,24,16,16,Yes,Furnished,0,5.3,4,2024-05-27,6387000
+H0446,Mumbai,Apartment,1,1.0,500.0,24,5,15,Yes,Semi-Furnished,2,3.5,6,2024-09-20,4605000
+H0447,Pune,Row House,3,3.0,1409.0,10,12,17,No,Furnished,2,7.1,7,2025-08-29,9234000
+H0448,Ahmedabad,Row House,3,4.0,1573.0,21,23,24,No,Furnished,4,1.0,6,2026-03-18,6235000
+H0449,Ahmedabad,Apartment,2,2.0,588.0,16,30,30,Yes,Furnished,0,2.1,6,2024-10-14,2427000
+H0450,Pune,Apartment,2,2.0,967.0,15,13,16,Yes,Semi-Furnished,2,9.0,7,2026-02-02,5914000
+H0451,Surat,Villa,2,2.0,784.0,12,9,20,Yes,Semi-Furnished,3,2.5,5,2024-04-10,3415000
+H0452,Pune,Apartment,3,2.0,1531.0,21,17,28,Yes,Semi-Furnished,4,3.1,4,2025-02-02,7054000
+H0453,Ahmedabad,Apartment,3,3.0,1307.0,4,4,10,Yes,Semi-Furnished,1,9.6,9,2025-10-16,6311000
+H0454,Ahmedabad,Villa,3,2.0,1374.0,19,4,6,Yes,Semi-Furnished,4,1.4,7,2025-07-17,7605000
+H0455,Jaipur,Apartment,5,5.0,2150.0,15,4,6,Yes,Semi-Furnished,1,5.4,7,2025-03-04,7873000
+H0456,Chennai,Row House,3,2.0,1552.0,21,9,12,Yes,Semi-Furnished,3,0.6,8,2025-06-18,8743000
+H0457,Mumbai,Apartment,3,4.0,1719.0,21,5,29,Yes,Semi-Furnished,1,4.4,3,2024-11-05,13059000
+H0458,Pune,Apartment,3,4.0,1146.0,15,12,21,No,Unfurnished,0,8.5,10,2025-10-05,6236000
+H0459,Mumbai,Apartment,3,3.0,1179.0,15,1,26,Yes,Unfurnished,1,1.4,4,2026-05-11,9147000
+H0460,Pune,Penthouse,3,4.0,1408.0,13,20,25,Yes,Unfurnished,1,10.7,5,2023-10-08,9562000
+H0461,Vadodara,Apartment,3,3.0,1203.0,5,28,29,Yes,Unfurnished,4,10.9,8,2025-07-04,5049000
+H0462,Ahmedabad,Villa,3,3.0,1518.0,1,4,5,Yes,Semi-Furnished,3,1.5,9,2026-01-22,10430000
+H0463,Chennai,Apartment,1,2.0,747.0,13,9,21,Yes,Semi-Furnished,1,11.9,7,2023-11-20,3440000
+H0464,Jaipur,Penthouse,3,3.0,1252.0,15,13,19,No,Semi-Furnished,0,3.8,9,2025-03-01,6929000
+H0465,Chennai,Apartment,2,1.0,813.0,22,17,26,No,Semi-Furnished,4,1.3,9,2025-12-21,4076000
+H0466,Chennai,Apartment,2,2.0,901.0,19,1,4,Yes,Unfurnished,3,0.4,9,2023-07-06,4219000
+H0467,Chennai,Villa,2,1.0,969.0,12,4,5,Yes,Semi-Furnished,3,5.1,8,2025-07-03,6601000
+H0468,Mumbai,Apartment,3,3.0,1407.0,14,14,15,Yes,Unfurnished,2,7.7,10,2024-06-25,12377000
+H0469,Pune,Apartment,3,3.0,944.0,11,3,8,Yes,Furnished,0,4.2,5,2025-06-15,5812000
+H0470,Hyderabad,Row House,2,3.0,776.0,8,7,27,Yes,Unfurnished,4,10.1,8,2024-09-30,4895000
+H0471,Vadodara,Apartment,3,3.0,1277.0,25,3,9,Yes,Semi-Furnished,4,8.7,8,2024-03-11,4125000
+H0472,Delhi,Villa,3,4.0,1207.0,17,1,25,Yes,Semi-Furnished,0,4.4,10,2023-08-01,12014000
+H0473,Chennai,Apartment,2,3.0,500.0,20,12,17,Yes,Furnished,3,8.9,8,2025-03-28,2927000
+H0474,Surat,Penthouse,3,3.0,1010.0,13,15,21,Yes,Semi-Furnished,1,11.3,7,2025-08-19,5663000
+H0475,Mumbai,Apartment,4,4.0,1515.0,19,11,16,No,Unfurnished,0,1.4,7,2026-03-03,12330000
+H0476,Jaipur,Apartment,4,3.0,1729.0,24,2,8,Yes,Furnished,4,3.9,3,2025-08-17,6071000
+H0477,Delhi,Row House,3,3.0,1271.0,3,2,27,Yes,Semi-Furnished,0,5.7,6,2025-07-05,11115000
+H0478,Hyderabad,Penthouse,3,2.0,1236.0,7,4,18,Yes,Semi-Furnished,3,6.1,4,2025-09-19,9394000
+H0479,Surat,Apartment,1,1.0,693.0,7,17,23,Yes,Unfurnished,2,6.6,3,2025-07-03,1851000
+H0480,Hyderabad,Apartment,2,2.0,1093.0,21,17,23,Yes,Semi-Furnished,2,3.8,5,2026-05-27,5820000
+H0481,Delhi,Row House,2,2.0,977.0,21,8,23,Yes,Furnished,1,8.1,8,2024-02-25,8311000
+H0482,Chennai,Apartment,5,5.0,2172.0,15,7,13,No,Semi-Furnished,1,7.8,7,2023-11-15,10700000
+H0483,Surat,Villa,2,2.0,796.0,23,14,19,Yes,Semi-Furnished,3,7.1,8,2026-03-26,3742000
+H0484,Hyderabad,Villa,2,2.0,817.0,9,24,25,Yes,Furnished,1,1.6,7,2023-07-07,6642000
+H0485,Jaipur,Apartment,4,4.0,1443.0,24,13,15,Yes,Semi-Furnished,2,5.9,9,2023-06-11,5239000
+H0486,Pune,Apartment,4,3.0,1705.0,20,4,16,No,Unfurnished,3,4.5,4,2023-05-09,7396000
+H0487,Ahmedabad,Villa,3,3.0,1491.0,16,6,16,No,,3,6.0,3,2023-10-31,6515000
+H0488,Pune,Apartment,1,1.0,794.0,0,5,6,Yes,Furnished,3,11.1,3,2026-01-17,5417000
+H0489,Delhi,Apartment,1,1.0,506.0,17,4,17,Yes,Unfurnished,0,5.9,5,2025-07-05,2824000
+H0490,Mumbai,Row House,2,2.0,1039.0,9,3,6,Yes,Semi-Furnished,1,0.5,9,2026-03-31,11686000
+H0491,Ahmedabad,Apartment,2,3.0,500.0,25,2,3,Yes,Furnished,4,5.4,3,2025-07-10,2157000
+H0492,Vadodara,Villa,1,1.0,500.0,20,7,21,Yes,Furnished,2,9.9,3,2025-11-25,2668000
+H0493,Jaipur,Apartment,3,3.0,1268.0,3,14,29,Yes,Furnished,1,9.4,6,2026-06-04,5556000
+H0494,Vadodara,Apartment,4,4.0,2018.0,0,12,26,Yes,Unfurnished,2,6.3,10,2023-05-31,7371000
+H0495,Surat,Apartment,2,3.0,1021.0,3,4,10,Yes,Furnished,1,3.2,4,2024-08-15,4091000
+H0496,Ahmedabad,Apartment,3,3.0,1439.0,3,8,23,Yes,Furnished,4,5.7,8,2023-02-16,6811000
+H0497,Vadodara,Apartment,3,2.0,1430.0,25,23,28,No,Semi-Furnished,2,6.9,10,2025-07-28,4667000
+H0498,Vadodara,Apartment,2,2.0,958.0,3,2,10,Yes,Semi-Furnished,4,12.0,3,2024-10-21,3271000
+H0499,Hyderabad,Penthouse,3,4.0,1626.0,16,5,5,Yes,Semi-Furnished,2,7.8,5,2023-08-19,11677000
+H0500,Pune,Apartment,2,1.0,535.0,8,8,16,Yes,Semi-Furnished,0,8.4,8,2025-09-28,2715000
+H0501,Hyderabad,Apartment,2,3.0,976.0,18,9,12,Yes,Furnished,0,6.1,7,2023-06-14,4952000
+H0502,Ahmedabad,Apartment,3,3.0,1553.0,12,1,2,Yes,Unfurnished,2,4.4,9,2024-12-24,6800000
+H0503,Ahmedabad,Apartment,2,2.0,610.0,3,16,19,Yes,Furnished,2,9.8,9,2025-03-30,4290000
+H0504,Delhi,Apartment,5,5.0,2301.0,4,4,30,Yes,Semi-Furnished,4,6.1,3,2025-12-25,16018000
+H0505,Hyderabad,Apartment,2,2.0,813.0,12,1,2,Yes,Semi-Furnished,3,11.9,3,2026-01-08,3681000
+H0506,Bangalore,Apartment,3,3.0,1370.0,22,4,9,Yes,Furnished,2,5.6,8,2023-05-20,9405000
+H0507,Pune,Apartment,3,3.0,1210.0,15,6,26,Yes,Unfurnished,1,1.1,10,2024-02-04,6992000
+H0508,Ahmedabad,Apartment,2,1.0,1123.0,21,4,17,No,Semi-Furnished,1,8.3,7,2023-05-10,5295000
+H0509,Delhi,Villa,1,2.0,500.0,4,16,27,Yes,Furnished,1,0.8,6,2025-09-11,6039000
+H0510,Hyderabad,Apartment,3,4.0,1502.0,7,23,29,Yes,Unfurnished,0,3.2,4,2025-02-04,7295000
+H0511,Pune,Apartment,4,5.0,1828.0,15,23,23,Yes,Semi-Furnished,4,4.4,6,2024-03-21,9976000
+H0512,Hyderabad,Villa,4,4.0,1607.0,0,13,19,No,Semi-Furnished,0,9.0,10,2023-01-29,12696000
+H0513,Vadodara,Apartment,3,4.0,1440.0,22,5,23,Yes,Semi-Furnished,1,6.1,5,2026-05-10,4778000
+H0514,Delhi,Row House,3,3.0,1231.0,5,10,10,Yes,Unfurnished,2,0.6,8,2026-06-14,10385000
+H0515,Pune,Apartment,3,2.0,1362.0,10,8,13,No,Furnished,1,7.5,3,2025-03-09,6066000
+H0516,Chennai,Apartment,3,3.0,1295.0,15,7,20,Yes,Furnished,2,5.1,6,2023-10-16,6679000
+H0517,Surat,Apartment,3,3.0,1512.0,4,14,26,Yes,Semi-Furnished,4,11.1,4,2026-06-29,6178000
+H0518,Surat,Apartment,3,3.0,1447.0,15,7,19,Yes,Furnished,3,6.1,5,2025-09-03,4857000
+H0519,Pune,Villa,4,4.0,1744.0,6,22,28,No,Semi-Furnished,2,8.6,9,2023-04-10,12655000
+H0520,Hyderabad,Apartment,2,2.0,827.0,18,2,6,Yes,Semi-Furnished,0,2.9,10,2024-02-26,4601000
+H0521,Delhi,Row House,4,3.0,1522.0,0,18,28,Yes,Furnished,1,9.2,6,2024-10-04,14802000
+H0522,Surat,Apartment,3,4.0,1374.0,8,2,3,Yes,Furnished,1,8.7,3,2024-11-24,5236000
+H0523,Delhi,Apartment,2,2.0,836.0,17,2,8,Yes,Semi-Furnished,1,10.9,4,2024-12-06,5527000
+H0524,Surat,Villa,1,2.0,500.0,12,18,28,Yes,Unfurnished,2,0.7,3,2023-01-18,1682000
+H0525,Vadodara,Apartment,2,2.0,711.0,25,10,11,Yes,Semi-Furnished,4,5.5,3,2024-04-15,1686000
+H0526,Hyderabad,Apartment,3,2.0,1643.0,14,7,16,Yes,Semi-Furnished,2,8.2,5,2024-12-23,8331000
+H0527,Vadodara,Villa,4,4.0,1631.0,2,26,26,Yes,Furnished,0,1.4,4,2025-10-27,7828000
+H0528,Surat,Penthouse,2,1.0,1145.0,23,7,8,Yes,Semi-Furnished,1,5.1,7,2024-02-23,5979000
+H0529,Chennai,Apartment,4,4.0,1686.0,9,7,29,No,Furnished,2,11.3,9,2024-01-15,9461000
+H0530,Chennai,Penthouse,4,5.0,1973.0,8,5,6,Yes,Semi-Furnished,1,5.4,10,2024-05-22,15600000
+H0531,Vadodara,Row House,2,3.0,1160.0,12,1,16,No,Semi-Furnished,0,11.8,3,2023-04-24,4001000
+H0532,Chennai,Penthouse,4,3.0,1601.0,15,14,21,Yes,Unfurnished,3,1.0,10,2025-05-01,11333000
+H0533,Surat,Apartment,5,5.0,1792.0,2,18,29,Yes,Semi-Furnished,3,8.7,4,2024-05-25,5871000
+H0534,Pune,Villa,3,2.0,1007.0,21,13,21,Yes,Semi-Furnished,3,7.1,3,2025-04-30,6299000
+H0535,Vadodara,Apartment,4,4.0,1604.0,22,9,16,Yes,Semi-Furnished,1,6.2,6,2025-09-02,5069000
+H0536,Mumbai,Row House,5,5.0,2490.0,14,8,11,No,Unfurnished,2,11.7,6,2024-09-05,22084000
+H0537,Hyderabad,Apartment,3,4.0,1276.0,16,8,25,No,Semi-Furnished,1,1.8,4,2024-04-13,6230000
+H0538,Chennai,Apartment,2,3.0,976.0,13,10,27,Yes,Furnished,4,10.8,9,2023-04-03,5418000
+H0539,Chennai,Villa,4,4.0,1985.0,6,17,30,Yes,Unfurnished,2,8.4,5,2026-01-30,11995000
+H0540,Ahmedabad,Apartment,3,3.0,1370.0,19,6,27,Yes,Furnished,0,3.3,7,2024-05-07,6135000
+H0541,Bangalore,Row House,3,3.0,1364.0,15,15,15,Yes,Furnished,3,10.8,6,2025-02-01,10645000
+H0542,Vadodara,Row House,2,3.0,1062.0,20,15,27,Yes,Furnished,2,5.3,5,2025-09-15,4023000
+H0543,Jaipur,Villa,3,4.0,1402.0,7,25,27,Yes,Unfurnished,2,9.8,7,2024-04-23,6453000
+H0544,Chennai,Apartment,2,2.0,932.0,3,8,11,Yes,Furnished,3,4.8,6,2025-05-26,5058000
+H0545,Hyderabad,Villa,4,4.0,1620.0,19,15,18,Yes,Unfurnished,0,10.3,7,2023-06-16,9956000
+H0546,Mumbai,Apartment,2,2.0,964.0,23,3,22,No,Semi-Furnished,1,7.7,8,2023-05-20,6927000
+H0547,Chennai,Apartment,2,2.0,1147.0,14,6,15,No,Furnished,1,2.0,3,2023-04-04,5051000
+H0548,Mumbai,Penthouse,3,4.0,1671.0,4,2,3,Yes,Semi-Furnished,2,7.9,4,2026-04-19,22644000
+H0549,Surat,Apartment,1,,603.0,12,8,17,No,Furnished,3,2.5,6,2024-07-29,1701000
+H0550,Surat,Apartment,3,3.0,1486.0,5,13,14,Yes,Semi-Furnished,4,5.1,6,2025-10-24,5366000
+H0551,Bangalore,Row House,4,3.0,1799.0,4,26,28,Yes,Semi-Furnished,0,2.3,10,2024-08-28,14899000
+H0552,Pune,Apartment,4,4.0,1734.0,16,4,10,Yes,Semi-Furnished,1,0.6,3,2026-03-01,8460000
+H0553,Jaipur,Apartment,2,3.0,1043.0,6,7,8,Yes,Furnished,0,2.8,6,2024-08-06,4470000
+H0554,Ahmedabad,Row House,2,1.0,1164.0,5,13,17,Yes,Semi-Furnished,0,6.6,6,2025-03-26,6506000
+H0555,Bangalore,Apartment,4,3.0,1590.0,1,8,11,No,Unfurnished,0,5.9,8,2024-08-15,11769000
+H0556,Delhi,Villa,4,4.0,1489.0,10,8,25,No,Semi-Furnished,3,6.2,6,2024-11-16,12973000
+H0557,Ahmedabad,Row House,3,2.0,1254.0,6,14,23,Yes,Unfurnished,3,3.2,6,2025-08-20,5483000
+H0558,Vadodara,Row House,3,3.0,1388.0,21,6,10,Yes,Furnished,3,8.3,6,2025-09-13,5035000
+H0559,Hyderabad,Villa,2,1.0,1107.0,20,1,23,Yes,Unfurnished,2,8.5,5,2025-12-11,6489000
+H0560,Delhi,Apartment,4,4.0,1572.0,7,2,24,Yes,Furnished,3,4.5,6,2024-03-21,12405000
+H0561,Delhi,Apartment,3,4.0,902.0,4,6,8,Yes,Furnished,2,10.6,3,2023-08-25,6650000
+H0562,Bangalore,Penthouse,2,2.0,858.0,17,13,17,Yes,Unfurnished,1,7.8,8,2025-12-03,6622000
+H0563,Pune,Row House,2,2.0,915.0,21,1,10,Yes,Unfurnished,1,8.6,6,2025-05-31,5419000
+H0564,Bangalore,Apartment,4,4.0,1541.0,15,24,28,Yes,Semi-Furnished,1,3.5,7,2025-02-04,10470000
+H0565,Vadodara,Apartment,1,2.0,500.0,13,24,25,Yes,Furnished,1,0.3,8,2025-07-25,2337000
+H0566,Chennai,Apartment,2,3.0,1106.0,11,27,30,Yes,Furnished,1,10.4,8,2023-12-25,5899000
+H0567,Chennai,Apartment,3,4.0,1364.0,16,4,18,Yes,Semi-Furnished,3,9.9,7,2024-10-07,6782000
+H0568,Pune,Villa,2,1.0,1012.0,4,2,21,Yes,Unfurnished,4,1.7,3,2024-11-20,5695000
+H0569,Vadodara,Apartment,2,2.0,886.0,13,5,8,Yes,Furnished,3,4.7,5,2024-04-06,2640000
+H0570,Pune,Row House,4,5.0,1614.0,5,10,12,Yes,Unfurnished,4,8.0,9,2023-04-11,10882000
+H0571,Mumbai,Villa,4,3.0,1685.0,14,4,9,Yes,Furnished,3,7.9,10,2024-11-22,22641000
+H0572,Chennai,Apartment,4,3.0,1840.0,6,8,8,No,Unfurnished,1,10.4,9,2025-09-10,9740000
+H0573,Delhi,Villa,4,3.0,1482.0,13,3,29,Yes,Unfurnished,0,1.9,3,2025-02-07,11255000
+H0574,Jaipur,Apartment,3,3.0,1647.0,17,17,20,Yes,Semi-Furnished,4,5.3,5,2023-09-25,6977000
+H0575,Hyderabad,Apartment,4,3.0,1853.0,0,5,21,Yes,Semi-Furnished,0,1.4,4,2025-06-01,11561000
+H0576,Vadodara,Villa,2,2.0,854.0,5,10,13,Yes,Unfurnished,1,4.9,7,2024-02-12,3471000
+H0577,Ahmedabad,Penthouse,3,3.0,1496.0,2,8,8,Yes,Semi-Furnished,4,0.5,10,2025-11-26,10954000
+H0578,Pune,Penthouse,5,4.0,2370.0,4,9,9,Yes,Semi-Furnished,0,10.8,8,2024-04-12,22012000
+H0579,Hyderabad,Apartment,2,3.0,891.0,11,7,8,No,Semi-Furnished,3,6.5,8,2023-09-16,4498000
+H0580,Ahmedabad,Apartment,2,1.0,911.0,10,4,7,Yes,Furnished,1,10.2,8,2024-05-23,4360000
+H0581,Hyderabad,Villa,3,3.0,1619.0,12,1,26,Yes,Unfurnished,3,1.0,7,2023-11-05,9983000
+H0582,Jaipur,Apartment,2,2.0,1331.0,15,1,10,Yes,Furnished,3,3.0,7,2024-09-16,4783000
+H0583,Ahmedabad,Apartment,2,1.0,955.0,17,15,28,Yes,Unfurnished,1,3.3,10,2023-04-20,4038000
+H0584,Bangalore,Apartment,4,4.0,1542.0,16,1,14,Yes,Furnished,4,4.8,9,2024-11-09,11044000
+H0585,Surat,Villa,5,5.0,2065.0,16,2,8,Yes,Semi-Furnished,2,9.7,9,2025-01-11,8710000
+H0586,Bangalore,Apartment,3,3.0,1536.0,10,1,9,No,Furnished,2,4.8,9,2025-06-25,12028000
+H0587,Chennai,Villa,2,1.0,765.0,19,20,23,Yes,Furnished,1,2.7,5,2023-09-25,5791000
+H0588,Surat,Row House,1,1.0,513.0,9,9,18,No,Furnished,2,1.1,8,2025-11-21,2466000
+H0589,Bangalore,Apartment,4,4.0,1803.0,15,12,18,Yes,Semi-Furnished,0,1.2,3,2025-07-28,10942000
+H0590,Surat,Apartment,3,4.0,1184.0,1,4,17,Yes,Semi-Furnished,4,9.2,5,2025-03-21,4117000
+H0591,Surat,Apartment,2,1.0,1147.0,16,13,23,Yes,Unfurnished,3,5.5,8,2026-04-15,3512000
+H0592,Delhi,Row House,3,3.0,1475.0,21,3,3,Yes,Furnished,3,8.8,7,2023-04-14,12295000
+H0593,Pune,Apartment,2,1.0,1312.0,19,9,9,No,Semi-Furnished,1,8.3,7,2026-06-13,6844000
+H0594,Pune,Apartment,3,3.0,1491.0,9,1,18,Yes,Semi-Furnished,3,1.9,7,2026-01-21,8695000
+H0595,Delhi,Apartment,4,5.0,1577.0,12,1,14,Yes,Furnished,0,2.0,8,2023-07-20,12499000
+H0596,Hyderabad,Penthouse,3,2.0,1445.0,11,4,19,No,Semi-Furnished,0,9.1,9,2025-06-17,12476000
+H0597,Mumbai,Apartment,3,2.0,1528.0,14,1,25,No,Semi-Furnished,1,8.7,7,2025-01-12,13796000
+H0598,Hyderabad,Villa,2,2.0,1137.0,6,22,29,Yes,Semi-Furnished,3,4.7,4,2025-07-13,8279000
+H0599,Ahmedabad,Row House,3,3.0,1210.0,21,10,23,No,Furnished,2,1.2,7,2024-08-19,5608000
+H0600,Ahmedabad,Apartment,3,2.0,1189.0,20,2,29,Yes,Semi-Furnished,2,0.4,10,2025-11-24,6130000
+H0601,Surat,Penthouse,2,2.0,745.0,25,11,11,No,Furnished,4,3.7,10,2026-02-14,3679000
+H0602,Bangalore,Apartment,3,3.0,1639.0,12,1,3,Yes,Semi-Furnished,1,0.4,8,2024-11-18,10720000
+H0603,Bangalore,Row House,2,2.0,1062.0,11,3,3,No,Unfurnished,4,3.0,9,2025-07-08,7277000
+H0604,Pune,Villa,4,4.0,1602.0,11,3,28,No,Semi-Furnished,2,5.2,5,2025-02-26,10605000
+H0605,Vadodara,Row House,3,3.0,1373.0,1,9,15,Yes,Semi-Furnished,2,1.7,7,2024-02-03,6064000
+H0606,Hyderabad,Apartment,5,5.0,2128.0,4,9,17,Yes,Furnished,2,1.5,9,2024-08-19,13358000
+H0607,Chennai,Apartment,2,2.0,775.0,24,1,8,Yes,Unfurnished,4,10.8,9,2023-04-27,4048000
+H0608,Jaipur,Apartment,4,4.0,1757.0,24,21,22,Yes,Furnished,1,7.1,6,2023-12-28,5067000
+H0609,Bangalore,Apartment,3,2.0,1384.0,1,13,22,Yes,Semi-Furnished,0,11.2,4,2023-07-23,9686000
+H0610,Jaipur,Apartment,3,4.0,1698.0,22,3,25,No,Unfurnished,0,4.3,10,2026-03-15,5265000
+H0611,Surat,Apartment,2,3.0,832.0,25,4,13,Yes,Semi-Furnished,2,8.2,8,2024-03-19,2725000
+H0612,Jaipur,Apartment,3,3.0,1042.0,19,4,29,Yes,Semi-Furnished,1,2.7,7,2024-12-27,3423000
+H0613,Chennai,Apartment,4,3.0,1561.0,12,11,24,Yes,Semi-Furnished,1,7.5,6,2025-05-10,7730000
+H0614,Delhi,Penthouse,2,2.0,789.0,2,28,29,No,Furnished,3,1.8,8,2025-05-17,9541000
+H0615,Chennai,Apartment,2,2.0,873.0,10,7,15,Yes,Semi-Furnished,3,0.3,5,2025-02-05,5128000
+H0616,Jaipur,Apartment,3,2.0,1162.0,15,26,26,Yes,Furnished,4,11.2,4,2026-06-08,4761000
+H0617,Chennai,Apartment,3,3.0,1498.0,0,3,5,No,Semi-Furnished,3,6.8,9,2026-05-11,8696000
+H0618,Mumbai,Apartment,2,2.0,749.0,18,24,27,Yes,Furnished,4,11.1,7,2023-12-28,6177000
+H0619,Surat,Row House,2,2.0,954.0,10,3,5,Yes,Unfurnished,0,4.2,5,2024-01-30,4013000
+H0620,Hyderabad,Apartment,2,2.0,1310.0,8,10,19,Yes,Furnished,2,4.1,8,2023-09-05,8156000
+H0621,Delhi,Villa,3,3.0,1450.0,13,1,4,No,Semi-Furnished,1,5.0,6,2025-07-02,12848000
+H0622,Bangalore,Row House,3,3.0,1431.0,8,1,2,Yes,Semi-Furnished,0,8.6,8,2025-01-30,11475000
+H0623,Ahmedabad,Penthouse,4,4.0,2084.0,6,12,18,Yes,Semi-Furnished,0,6.9,10,2024-10-17,14485000
+H0624,Hyderabad,Villa,5,5.0,2374.0,15,2,8,No,Furnished,4,11.1,8,2023-12-22,17180000
+H0625,Ahmedabad,Penthouse,3,4.0,1452.0,2,7,17,Yes,Semi-Furnished,2,0.6,4,2023-08-29,9935000
+H0626,Surat,Row House,1,1.0,500.0,18,3,6,Yes,Furnished,4,8.6,7,2023-08-17,1879000
+H0627,Delhi,Villa,1,1.0,546.0,3,19,20,No,Semi-Furnished,0,4.2,5,2024-09-12,5224000
+H0628,Pune,Apartment,2,2.0,937.0,6,3,8,Yes,Semi-Furnished,1,2.4,4,2025-07-19,6511000
+H0629,Bangalore,Villa,4,4.0,1678.0,22,12,15,No,Semi-Furnished,3,6.3,6,2025-05-04,12733000
+H0630,Mumbai,Apartment,3,3.0,1388.0,11,2,3,Yes,Furnished,4,6.2,9,2024-06-12,14239000
+H0631,Pune,Villa,2,3.0,1013.0,17,3,4,No,Unfurnished,0,1.9,7,2023-09-24,5784000
+H0632,Surat,Apartment,2,2.0,726.0,4,5,18,Yes,Semi-Furnished,3,2.7,9,2026-02-26,2338000
+H0633,Hyderabad,Apartment,3,4.0,1644.0,22,14,17,Yes,Furnished,3,5.1,4,2023-08-08,8401000
+H0634,Mumbai,Apartment,3,3.0,1424.0,22,5,9,No,Semi-Furnished,0,5.1,6,2026-01-10,11156000
+H0635,Chennai,Apartment,2,1.0,903.0,21,11,19,Yes,Unfurnished,2,4.0,6,2024-07-14,4653000
+H0636,Jaipur,Apartment,5,4.0,2190.0,25,12,16,Yes,Furnished,0,2.0,5,2025-11-09,7851000
+H0637,Mumbai,Apartment,3,2.0,1517.0,9,5,8,No,Semi-Furnished,1,0.4,10,2025-11-26,14284000
+H0638,Surat,Apartment,2,1.0,686.0,11,16,28,Yes,Semi-Furnished,3,11.7,8,2024-01-17,2319000
+H0639,Vadodara,Apartment,4,4.0,1731.0,7,10,10,No,Furnished,1,11.3,6,2023-02-08,6485000
+H0640,Jaipur,Penthouse,1,1.0,500.0,18,2,7,Yes,Unfurnished,4,6.0,10,2026-02-06,2217000
+H0641,Ahmedabad,Apartment,4,4.0,2228.0,14,12,19,Yes,Semi-Furnished,3,11.9,6,2024-03-04,8671000
+H0642,Bangalore,Apartment,5,5.0,2175.0,0,5,19,Yes,Furnished,2,8.2,8,2025-12-23,16510000
+H0643,Ahmedabad,Villa,3,2.0,1138.0,2,16,26,Yes,Unfurnished,0,1.1,3,2026-04-13,6415000
+H0644,Mumbai,Villa,3,3.0,1998.0,17,12,27,Yes,Semi-Furnished,4,1.7,6,2025-03-01,21963000
+H0645,Ahmedabad,Apartment,2,3.0,854.0,17,23,25,Yes,Unfurnished,1,11.0,7,2023-02-01,3613000
+H0646,Surat,Row House,4,4.0,1712.0,1,2,15,No,Semi-Furnished,4,7.7,9,2025-08-02,6983000
+H0647,Chennai,Row House,3,2.0,1325.0,4,14,15,Yes,Semi-Furnished,2,10.2,9,2024-06-14,7517000
+H0648,Hyderabad,Apartment,3,2.0,1197.0,0,13,15,Yes,Unfurnished,0,10.8,4,2023-04-16,6532000
+H0649,Bangalore,Apartment,4,4.0,1795.0,9,6,26,Yes,Furnished,4,5.5,8,2024-04-26,13308000
+H0650,Ahmedabad,Row House,5,5.0,1752.0,19,5,5,Yes,Semi-Furnished,1,0.9,8,2023-07-25,8196000
+H0651,Ahmedabad,Villa,4,4.0,1945.0,9,1,5,Yes,Semi-Furnished,4,2.5,8,2026-06-24,11353000
+H0652,Mumbai,Apartment,2,2.0,747.0,4,14,16,Yes,Furnished,0,1.1,7,2025-04-14,7636000
+H0653,Hyderabad,Penthouse,5,5.0,2075.0,17,4,16,Yes,Semi-Furnished,4,2.5,8,2023-03-30,17335000
+H0654,Pune,Apartment,3,3.0,1485.0,20,13,19,Yes,Furnished,1,5.1,7,2025-10-31,8302000
+H0655,Ahmedabad,Apartment,4,4.0,1713.0,25,10,15,Yes,Semi-Furnished,0,1.7,10,2025-12-08,7215000
+H0656,Surat,Apartment,3,3.0,1321.0,14,17,27,Yes,Semi-Furnished,2,2.3,10,2025-06-14,4634000
+H0657,Vadodara,Penthouse,2,2.0,768.0,19,2,2,Yes,Unfurnished,2,5.5,9,2026-04-09,4027000
+H0658,Bangalore,Apartment,2,3.0,1327.0,7,8,11,No,Furnished,3,4.3,5,2023-05-23,8563000
+H0659,Ahmedabad,Villa,3,3.0,1446.0,16,15,30,Yes,Semi-Furnished,4,5.8,3,2023-07-26,7684000
+H0660,Surat,Apartment,4,4.0,1555.0,11,8,21,Yes,Furnished,1,5.3,8,2024-05-23,6449000
+H0661,Surat,Apartment,2,2.0,982.0,20,7,11,Yes,Semi-Furnished,4,7.8,9,2026-05-09,4030000
+H0662,Bangalore,Apartment,3,4.0,1142.0,11,8,11,Yes,Semi-Furnished,0,11.3,3,2023-01-05,6299000
+H0663,Pune,Villa,2,3.0,1260.0,25,18,28,No,Semi-Furnished,3,1.6,9,2023-07-30,8828000
+H0664,Surat,Apartment,4,3.0,1786.0,0,3,25,No,Unfurnished,1,1.5,8,2023-01-29,6478000
+H0665,Vadodara,Apartment,3,3.0,1174.0,25,1,3,Yes,Unfurnished,4,10.3,7,2026-04-28,3075000
+H0666,Surat,Row House,1,1.0,676.0,25,17,30,Yes,Furnished,1,6.2,9,2023-07-07,1710000
+H0667,Surat,Apartment,2,2.0,900.0,3,24,29,Yes,Furnished,0,9.3,4,2026-03-19,3377000
+H0668,Surat,Row House,1,1.0,500.0,7,24,28,Yes,Semi-Furnished,3,2.8,3,2024-06-08,2209000
+H0669,Chennai,Apartment,3,2.0,1419.0,0,7,9,No,Semi-Furnished,1,10.0,3,2025-08-03,6137000
+H0670,Chennai,Villa,2,3.0,1014.0,14,1,2,Yes,Furnished,0,11.1,7,2023-06-06,6563000
+H0671,Pune,Apartment,2,3.0,1155.0,17,2,2,Yes,Semi-Furnished,2,7.7,10,2023-03-21,5878000
+H0672,Ahmedabad,Row House,4,3.0,1762.0,0,3,5,Yes,Semi-Furnished,1,1.5,3,2024-10-21,8638000
+H0673,Surat,Apartment,4,4.0,1769.0,10,8,8,Yes,Semi-Furnished,3,10.8,5,2024-09-17,5689000
+H0674,Hyderabad,Apartment,3,3.0,1379.0,22,5,10,Yes,Unfurnished,1,9.6,7,2023-08-20,7334000
+H0675,Ahmedabad,Apartment,5,4.0,2437.0,1,4,17,No,Semi-Furnished,1,9.1,3,2023-06-09,10732000
+H0676,Pune,Apartment,1,1.0,500.0,0,2,6,Yes,Furnished,0,0.7,3,2023-12-10,2586000
+H0677,Delhi,Apartment,3,4.0,1435.0,11,2,3,Yes,Furnished,4,9.6,3,2023-07-24,9595000
+H0678,Ahmedabad,Row House,3,2.0,1461.0,15,13,29,Yes,Unfurnished,4,1.9,7,2025-09-21,5736000
+H0679,Ahmedabad,Apartment,3,2.0,1413.0,21,10,24,Yes,Unfurnished,1,2.9,10,2025-04-17,5511000
+H0680,Jaipur,Penthouse,2,2.0,887.0,21,10,12,Yes,Semi-Furnished,3,7.1,4,2023-11-01,5368000
+H0681,Mumbai,Villa,3,4.0,1372.0,9,12,19,Yes,Semi-Furnished,3,3.4,6,2024-10-31,17280000
+H0682,Jaipur,Villa,3,3.0,1333.0,17,1,26,Yes,Unfurnished,0,8.0,9,2024-02-04,6182000
+H0683,Vadodara,Apartment,3,2.0,1703.0,14,21,26,Yes,Semi-Furnished,1,7.4,8,2023-04-16,5555000
+H0684,Chennai,Apartment,2,2.0,868.0,16,20,20,No,Unfurnished,1,1.6,9,2026-01-10,4121000
+H0685,Chennai,Penthouse,2,3.0,786.0,9,4,14,Yes,Semi-Furnished,4,8.0,3,2023-12-08,5826000
+H0686,Mumbai,Row House,2,1.0,949.0,2,7,25,No,Semi-Furnished,0,11.1,9,2025-09-12,11152000
+H0687,Bangalore,Apartment,2,1.0,936.0,25,9,12,Yes,Semi-Furnished,2,2.2,6,2025-08-09,5712000
+H0688,Bangalore,Apartment,3,3.0,1385.0,20,8,21,Yes,Furnished,3,7.3,6,2023-02-18,9314000
+H0689,Pune,Apartment,2,1.0,868.0,15,13,20,Yes,Furnished,3,4.3,3,2023-07-25,4024000
+H0690,Mumbai,Row House,4,3.0,1770.0,5,14,18,No,Semi-Furnished,1,5.7,3,2026-05-26,17523000
+H0691,Ahmedabad,Apartment,2,3.0,973.0,2,4,6,Yes,Unfurnished,0,3.7,8,2025-03-01,4487000
+H0692,Bangalore,Apartment,2,3.0,1113.0,8,8,14,Yes,Semi-Furnished,2,4.4,10,2023-08-19,7989000
+H0693,Surat,Row House,3,4.0,1367.0,10,21,28,Yes,Semi-Furnished,3,0.6,6,2025-06-01,4966000
+H0694,Hyderabad,Apartment,1,1.0,568.0,20,18,21,Yes,Furnished,0,11.8,4,2024-12-26,2974000
+H0695,Ahmedabad,Apartment,3,3.0,1443.0,12,2,2,Yes,Furnished,2,7.6,6,2023-10-11,8655000
+H0696,Vadodara,Villa,3,4.0,1506.0,17,11,11,No,Semi-Furnished,1,6.2,4,2023-10-03,5364000
+H0697,Surat,Row House,2,2.0,773.0,25,3,9,Yes,Semi-Furnished,4,4.8,10,2024-03-08,3092000
+H0698,Surat,Apartment,1,1.0,500.0,21,21,25,Yes,Semi-Furnished,3,6.6,9,2026-04-23,2529000
+H0699,Mumbai,Apartment,2,2.0,1255.0,23,2,30,Yes,Furnished,3,4.7,5,2024-09-24,11372000
+H0700,Pune,Apartment,2,2.0,1077.0,21,3,9,Yes,Unfurnished,2,4.5,4,2023-08-04,4519000
+H0701,Vadodara,Apartment,2,1.0,911.0,3,4,20,Yes,Semi-Furnished,4,5.7,8,2023-04-07,3973000
+H0702,Bangalore,Villa,2,2.0,954.0,21,6,7,No,Unfurnished,0,3.5,7,2025-08-12,7394000
+H0703,Mumbai,Apartment,2,3.0,879.0,23,5,13,Yes,Semi-Furnished,1,2.4,10,2026-02-16,7546000
+H0704,Bangalore,Apartment,3,3.0,1388.0,7,10,29,No,Furnished,0,6.8,9,2023-12-31,10830000
+H0705,Mumbai,Apartment,3,3.0,1175.0,12,4,8,No,Semi-Furnished,2,10.2,3,2025-10-04,9595000
+H0706,Mumbai,Villa,3,4.0,1501.0,9,2,17,Yes,Semi-Furnished,3,2.1,10,2024-09-09,19391000
+H0707,Mumbai,Apartment,2,2.0,982.0,1,5,10,Yes,Semi-Furnished,3,0.7,5,2024-02-01,10270000
+H0708,Pune,Penthouse,2,2.0,988.0,7,5,22,Yes,Semi-Furnished,0,3.2,6,2024-04-02,8817000
+H0709,Mumbai,Apartment,4,3.0,1589.0,5,23,26,No,Furnished,1,11.8,4,2023-11-14,14230000
+H0710,Delhi,Penthouse,3,3.0,1444.0,15,1,23,Yes,Semi-Furnished,2,10.0,5,2024-01-17,14479000
+H0711,Hyderabad,Penthouse,4,5.0,1593.0,17,4,11,Yes,Unfurnished,1,7.3,9,2023-05-22,11452000
+H0712,Bangalore,Apartment,2,2.0,825.0,16,11,11,Yes,Furnished,2,11.2,7,2024-04-01,5746000
+H0713,Ahmedabad,Apartment,3,2.0,1366.0,5,5,11,Yes,Furnished,1,5.5,10,2024-05-15,7384000
+H0714,Jaipur,Apartment,3,4.0,1801.0,12,12,21,Yes,Unfurnished,0,11.8,4,2023-11-19,5908000
+H0715,Vadodara,Apartment,2,3.0,981.0,22,12,30,Yes,Furnished,4,3.8,8,2025-09-26,4119000
+H0716,Chennai,Apartment,3,4.0,888.0,13,16,17,No,Semi-Furnished,2,3.1,6,2023-09-25,4928000
+H0717,Pune,Apartment,3,3.0,1234.0,25,2,2,No,Semi-Furnished,0,7.8,6,2024-05-01,5267000
+H0718,Ahmedabad,Apartment,2,2.0,1073.0,20,17,18,Yes,Semi-Furnished,3,4.7,4,2025-05-27,4144000
+H0719,Surat,Penthouse,2,3.0,747.0,9,21,27,Yes,Semi-Furnished,3,7.6,10,2024-11-09,3525000
+H0720,Delhi,Apartment,4,4.0,1900.0,23,10,22,No,Furnished,1,3.9,7,2026-03-29,12242000
+H0721,Chennai,Penthouse,4,4.0,1779.0,10,17,30,Yes,Furnished,3,7.5,10,2023-01-14,14097000
+H0722,Jaipur,Apartment,2,2.0,1128.0,12,1,15,No,Semi-Furnished,4,3.5,3,2025-09-30,2940000
+H0723,Ahmedabad,Row House,2,2.0,849.0,11,18,20,Yes,Semi-Furnished,2,0.9,3,2024-12-05,4768000
+H0724,Chennai,Apartment,2,2.0,835.0,8,2,22,Yes,Semi-Furnished,1,11.0,6,2023-06-04,4725000
+H0725,Ahmedabad,Apartment,3,4.0,1452.0,3,4,22,Yes,Semi-Furnished,2,10.6,9,2023-04-11,7388000
+H0726,Delhi,Villa,2,2.0,949.0,6,11,18,Yes,Furnished,2,11.7,9,2024-07-25,11094000
+H0727,Jaipur,Apartment,5,4.0,2138.0,23,1,15,No,Furnished,0,8.7,7,2025-12-02,7887000
+H0728,Surat,Apartment,2,2.0,1232.0,21,2,9,Yes,Unfurnished,3,8.3,6,2026-05-01,3643000
+H0729,Mumbai,Row House,2,2.0,1059.0,1,6,22,Yes,Semi-Furnished,2,,3,2024-09-12,10755000
+H0730,Bangalore,Apartment,3,3.0,992.0,6,9,22,Yes,Furnished,4,1.8,6,2025-10-11,8359000
+H0731,Surat,Apartment,4,5.0,1894.0,8,5,10,No,Furnished,4,2.5,10,2024-04-09,8203000
+H0732,Mumbai,Villa,3,2.0,1476.0,4,4,9,Yes,Furnished,3,3.7,4,2026-04-01,18888000
+H0733,Pune,Row House,3,4.0,1563.0,14,13,14,No,Furnished,3,10.7,9,2023-12-17,10796000
+H0734,Hyderabad,Villa,5,4.0,1981.0,17,9,18,Yes,Unfurnished,1,2.3,9,2023-08-22,11369000
+H0735,Vadodara,Apartment,1,1.0,608.0,3,8,20,Yes,Unfurnished,1,11.1,8,2024-02-07,2583000
+H0736,Vadodara,Villa,4,4.0,1770.0,18,20,29,Yes,Unfurnished,1,6.4,4,2023-12-17,6210000
+H0737,Bangalore,Apartment,2,2.0,778.0,19,3,8,Yes,Unfurnished,3,8.7,8,2026-04-05,6118000
+H0738,Jaipur,Villa,4,4.0,1920.0,25,8,18,Yes,Unfurnished,2,1.6,7,2026-03-17,8311000
+H0739,Delhi,Row House,3,3.0,1307.0,6,2,2,Yes,Semi-Furnished,0,3.4,3,2023-01-28,9324000
+H0740,Jaipur,Villa,2,1.0,1157.0,25,5,6,Yes,Furnished,1,11.5,7,2023-09-16,5087000
+H0741,Delhi,Row House,4,4.0,1616.0,7,23,26,Yes,Semi-Furnished,0,3.4,7,2024-09-11,13758000
+H0742,Jaipur,Apartment,1,1.0,500.0,16,6,7,Yes,Furnished,4,3.8,3,2025-05-25,1940000
+H0743,Hyderabad,Villa,2,1.0,906.0,12,3,27,Yes,Furnished,3,2.6,5,2026-05-19,6601000
+H0744,Pune,Penthouse,3,2.0,1392.0,23,1,3,Yes,Furnished,4,1.8,5,2024-06-26,11286000
+H0745,Pune,Apartment,2,1.0,854.0,20,9,28,Yes,Semi-Furnished,1,3.0,6,2024-03-28,4221000
+H0746,Mumbai,Row House,3,2.0,798.0,22,7,26,Yes,Furnished,2,7.8,5,2024-11-27,8000000
+H0747,Chennai,Apartment,1,1.0,619.0,10,4,17,No,Furnished,1,5.6,4,2024-02-08,3737000
+H0748,Pune,Villa,2,2.0,1018.0,0,7,23,No,Semi-Furnished,0,6.8,9,2025-10-15,9114000
+H0749,Pune,Penthouse,2,2.0,1074.0,1,5,6,Yes,Unfurnished,1,1.7,8,2025-12-25,9605000
+H0750,Surat,Villa,2,2.0,882.0,16,3,6,Yes,Semi-Furnished,2,9.7,9,2025-06-01,4115000
+H0751,Surat,Apartment,3,3.0,1272.0,4,13,13,No,Unfurnished,2,9.5,7,2024-07-28,3945000
+H0752,Mumbai,Villa,3,4.0,1609.0,5,3,4,Yes,Furnished,3,0.6,9,2026-06-05,22709000
+H0753,Chennai,Apartment,4,5.0,1466.0,25,2,17,Yes,Furnished,3,4.8,6,2026-01-29,6944000
+H0754,Bangalore,Row House,4,5.0,1706.0,24,5,7,No,Semi-Furnished,2,1.1,7,2024-02-27,11535000
+H0755,Surat,Apartment,2,3.0,976.0,23,6,16,Yes,Semi-Furnished,2,9.6,3,2026-03-08,3345000
+H0756,Bangalore,Apartment,3,2.0,1459.0,6,16,16,Yes,Semi-Furnished,0,8.9,10,2026-02-28,11089000
+H0757,Ahmedabad,Villa,2,1.0,981.0,20,7,30,No,Semi-Furnished,1,10.9,9,2024-07-02,5468000
+H0758,Surat,Apartment,2,2.0,784.0,14,8,17,Yes,Semi-Furnished,3,3.1,5,2024-04-12,2619000
+H0759,Hyderabad,Villa,3,3.0,1560.0,18,6,21,Yes,Unfurnished,0,5.6,10,2023-04-21,9466000
+H0760,Chennai,Villa,1,2.0,550.0,15,8,14,Yes,Semi-Furnished,1,2.5,3,2023-06-02,3716000
+H0761,Mumbai,Row House,2,2.0,650.0,24,7,13,Yes,Furnished,3,4.6,6,2025-07-05,6570000
+H0762,Ahmedabad,Villa,4,5.0,1788.0,12,2,11,Yes,Semi-Furnished,0,6.4,8,2025-01-31,10677000
+H0763,Chennai,Apartment,3,3.0,1436.0,4,14,15,Yes,Furnished,4,0.9,4,2026-06-19,7811000
+H0764,Hyderabad,Apartment,3,4.0,1703.0,2,2,3,Yes,Furnished,4,8.7,5,2024-12-20,8924000
+H0765,Chennai,Apartment,1,1.0,624.0,2,25,30,No,Furnished,3,6.7,3,2025-05-29,3986000
+H0766,Hyderabad,Apartment,2,3.0,683.0,18,4,4,Yes,Semi-Furnished,0,10.0,8,2024-11-12,3490000
+H0767,Hyderabad,Apartment,4,4.0,1490.0,13,6,10,Yes,Furnished,1,3.5,10,2025-02-07,9714000
+H0768,Bangalore,Villa,2,,1177.0,15,4,12,Yes,Furnished,1,10.9,9,2023-10-06,11506000
+H0769,Jaipur,Villa,3,3.0,1205.0,21,7,12,Yes,Semi-Furnished,0,12.0,5,2023-12-29,4917000
+H0770,Ahmedabad,Apartment,1,1.0,500.0,16,3,26,Yes,Semi-Furnished,4,11.1,7,2026-04-13,1929000
+H0771,Chennai,Penthouse,3,3.0,,3,5,23,No,Semi-Furnished,0,9.4,4,2024-08-23,10866000
+H0772,Delhi,Row House,1,1.0,500.0,12,1,11,No,Semi-Furnished,4,9.8,9,2026-03-04,3812000
+H0773,Ahmedabad,Penthouse,4,3.0,1920.0,7,15,27,Yes,Furnished,4,7.0,10,2023-10-21,13731000
+H0774,Jaipur,Villa,4,3.0,1585.0,18,10,15,Yes,Furnished,1,2.5,8,2025-05-20,7774000
+H0775,Ahmedabad,Apartment,4,3.0,2015.0,4,3,10,Yes,Furnished,3,8.2,5,2026-05-14,9935000
+H0776,Pune,Apartment,2,2.0,1107.0,1,8,21,Yes,Unfurnished,2,8.6,9,2023-03-14,6900000
+H0777,Delhi,Apartment,4,3.0,1620.0,14,25,28,Yes,Semi-Furnished,0,11.8,4,2023-09-16,10398000
+H0778,Jaipur,Apartment,3,3.0,1051.0,1,9,22,No,Furnished,4,6.6,8,2026-03-17,3682000
+H0779,Bangalore,Row House,2,2.0,1365.0,10,10,11,Yes,Furnished,0,3.5,7,2026-06-02,11508000
+H0780,Chennai,Penthouse,3,,1312.0,12,2,23,Yes,Unfurnished,3,8.3,10,2026-02-02,8947000
+H0781,Vadodara,Apartment,1,1.0,500.0,22,20,30,Yes,Semi-Furnished,3,11.8,7,2023-12-22,1500000
+H0782,Jaipur,Apartment,2,3.0,1200.0,9,5,10,Yes,Unfurnished,2,2.4,3,2024-07-24,3792000
+H0783,Mumbai,Penthouse,3,3.0,1520.0,2,19,30,Yes,Furnished,2,4.1,10,2024-07-26,25503000
+H0784,Chennai,Apartment,2,1.0,1163.0,4,5,6,Yes,Furnished,4,6.6,6,2025-03-27,5991000
+H0785,Jaipur,Apartment,3,3.0,1332.0,2,1,9,Yes,Semi-Furnished,2,2.3,3,2025-12-29,4752000
+H0786,Pune,Penthouse,2,2.0,1289.0,5,6,12,Yes,Semi-Furnished,4,0.6,4,2024-03-22,10379000
+H0787,Vadodara,Apartment,4,4.0,1514.0,12,2,2,Yes,Semi-Furnished,1,4.2,10,2025-02-21,5208000
+H0788,Pune,Apartment,5,4.0,2051.0,9,15,22,Yes,Semi-Furnished,4,10.4,3,2025-06-27,10450000
+H0789,Vadodara,Apartment,4,4.0,1820.0,18,10,11,Yes,Semi-Furnished,2,0.8,8,2025-08-01,5850000
+H0790,Mumbai,Row House,2,3.0,1160.0,7,2,2,No,Semi-Furnished,0,5.3,5,2025-06-14,11931000
+H0791,Chennai,Villa,2,3.0,1069.0,17,16,27,Yes,Furnished,2,9.2,8,2025-07-18,7420000
+H0792,Bangalore,Apartment,3,3.0,1335.0,2,9,23,Yes,Semi-Furnished,3,11.5,3,2024-09-28,8732000
+H0793,Pune,Apartment,1,1.0,500.0,23,1,8,Yes,Unfurnished,2,11.8,6,2025-07-14,2270000
+H0794,Pune,Apartment,1,1.0,761.0,23,11,29,Yes,Furnished,1,5.2,8,2024-06-14,4870000
+H0795,Hyderabad,Apartment,3,2.0,1488.0,16,9,15,Yes,Semi-Furnished,4,11.4,8,2023-04-29,8346000
+H0796,Vadodara,Villa,3,3.0,1193.0,7,3,6,Yes,Semi-Furnished,3,0.7,8,2023-03-07,6003000
+H0797,Surat,Apartment,5,5.0,1987.0,9,13,18,Yes,Unfurnished,4,9.0,6,2023-09-02,5755000
+H0798,Chennai,Row House,2,1.0,852.0,1,2,23,Yes,Semi-Furnished,4,7.8,10,2023-02-26,5738000
+H0799,Vadodara,Apartment,2,2.0,829.0,11,14,27,Yes,Semi-Furnished,2,3.2,8,2025-12-03,2713000
+H0800,Hyderabad,Apartment,2,2.0,1135.0,22,6,22,Yes,Unfurnished,0,6.2,4,2024-06-07,4348000
+H0801,Ahmedabad,Apartment,4,4.0,1828.0,5,7,7,No,Unfurnished,3,1.8,7,2024-02-28,7276000
+H0802,Vadodara,Apartment,3,3.0,1450.0,1,16,17,Yes,Semi-Furnished,1,10.5,6,2024-01-30,5783000
+H0803,Bangalore,Apartment,4,3.0,1785.0,20,5,12,Yes,Semi-Furnished,1,4.5,4,2024-03-25,10992000
+H0804,Chennai,Apartment,4,3.0,1793.0,22,11,11,Yes,Furnished,0,7.6,6,2025-08-11,8200000
+H0805,Hyderabad,Apartment,3,3.0,1065.0,23,6,16,Yes,Semi-Furnished,0,2.2,6,2025-02-01,5333000
+H0806,Ahmedabad,Villa,3,2.0,1493.0,2,3,8,Yes,Unfurnished,2,2.7,10,2024-03-18,8732000
+H0807,Delhi,Apartment,2,3.0,849.0,16,14,24,No,Unfurnished,1,11.9,7,2025-08-24,5097000
+H0808,Hyderabad,Penthouse,3,2.0,1344.0,6,2,3,No,Furnished,3,9.1,5,2025-06-10,11881000
+H0809,Delhi,Row House,3,2.0,1265.0,20,11,13,Yes,Semi-Furnished,0,11.6,10,2024-06-17,10211000
+H0810,Chennai,Apartment,3,2.0,1376.0,4,3,20,Yes,,0,3.8,10,2023-06-06,6858000
+H0811,Pune,Apartment,4,5.0,1853.0,22,2,13,Yes,Unfurnished,0,2.2,4,2023-03-30,8179000
+H0812,Hyderabad,Apartment,5,5.0,1968.0,0,1,17,Yes,Semi-Furnished,3,6.2,6,2023-07-21,12305000
+H0813,Mumbai,Apartment,4,3.0,1795.0,7,6,7,Yes,Semi-Furnished,1,6.1,9,2025-09-06,17282000
+H0814,Delhi,Apartment,3,3.0,1269.0,11,4,4,No,Furnished,3,2.3,6,2024-04-06,10094000
+H0815,Bangalore,Penthouse,3,4.0,1588.0,13,1,3,Yes,Semi-Furnished,3,8.9,3,2024-12-09,14949000
+H0816,Mumbai,Villa,2,2.0,749.0,15,12,21,Yes,Furnished,2,4.5,8,2024-03-29,10347000
+H0817,Jaipur,Apartment,1,1.0,500.0,9,5,6,Yes,Unfurnished,0,2.5,5,2024-01-15,2313000
+H0818,Jaipur,Penthouse,3,3.0,1285.0,14,11,12,Yes,Semi-Furnished,1,4.2,7,2024-02-05,7281000
+H0819,Ahmedabad,Apartment,3,2.0,1183.0,20,6,27,Yes,Semi-Furnished,2,6.9,9,2026-01-07,4867000
+H0820,Pune,Penthouse,1,2.0,510.0,23,16,26,Yes,Semi-Furnished,2,8.8,4,2024-07-04,3878000
+H0821,Chennai,Villa,4,4.0,1655.0,25,3,4,Yes,Unfurnished,4,5.9,6,2025-07-24,8826000
+H0822,Hyderabad,Apartment,2,2.0,966.0,14,4,4,Yes,Furnished,0,6.4,8,2025-10-09,6080000
+H0823,Surat,Apartment,2,1.0,1131.0,9,12,23,Yes,Furnished,1,1.9,4,2025-09-04,3045000
+H0824,Bangalore,Apartment,3,2.0,1363.0,20,3,6,Yes,Unfurnished,1,11.0,10,2024-10-22,7599000
+H0825,Delhi,Row House,2,2.0,979.0,6,23,23,Yes,Unfurnished,1,11.2,7,2025-06-21,7787000
+H0826,Chennai,Apartment,1,1.0,500.0,25,2,24,Yes,Unfurnished,0,8.3,5,2024-03-20,2287000
+H0827,Mumbai,Row House,2,1.0,926.0,2,7,12,Yes,Furnished,1,0.5,3,2023-02-21,9831000
+H0828,Jaipur,Apartment,3,3.0,1274.0,1,2,4,Yes,Furnished,3,6.6,10,2026-06-28,6142000
+H0829,Bangalore,Apartment,3,,1473.0,5,5,14,Yes,Furnished,3,7.7,5,2023-11-25,11017000
+H0830,Surat,Apartment,3,2.0,1212.0,20,7,22,Yes,Furnished,0,11.9,10,2025-02-08,4594000
+H0831,Hyderabad,Apartment,3,3.0,1195.0,8,3,9,Yes,,1,12.0,3,2024-05-12,6938000
+H0832,Ahmedabad,Row House,1,2.0,607.0,9,14,21,Yes,Furnished,4,10.3,4,2023-05-05,4001000
+H0833,Surat,Apartment,5,5.0,2506.0,3,11,11,Yes,Semi-Furnished,4,1.0,5,2023-07-23,9151000
+H0834,Bangalore,Apartment,1,1.0,518.0,2,1,3,No,Furnished,4,11.5,10,2025-02-06,4567000
+H0835,Surat,Apartment,5,4.0,2180.0,8,3,5,Yes,Semi-Furnished,3,7.5,5,2024-10-04,6901000
+H0836,Bangalore,Apartment,3,3.0,1521.0,23,10,19,Yes,Unfurnished,4,9.7,5,2025-11-10,8665000
+H0837,Bangalore,Apartment,5,5.0,2242.0,21,15,20,Yes,Furnished,1,5.1,7,2024-08-12,15480000
+H0838,Vadodara,Apartment,2,3.0,1043.0,16,2,5,Yes,Semi-Furnished,1,4.0,4,2023-12-28,2800000
+H0839,Delhi,Penthouse,3,3.0,1333.0,13,3,21,Yes,Furnished,4,5.7,9,2023-12-27,16121000
+H0840,Jaipur,Apartment,2,1.0,936.0,9,7,27,Yes,Furnished,2,2.0,3,2026-02-13,2724000
+H0841,Vadodara,Apartment,1,1.0,500.0,12,10,10,Yes,Semi-Furnished,4,4.5,5,2023-02-24,1500000
+H0842,Hyderabad,Apartment,3,3.0,1438.0,11,9,17,Yes,Semi-Furnished,2,10.3,4,2023-10-19,7067000
+H0843,Vadodara,Apartment,2,2.0,1033.0,0,14,27,Yes,Semi-Furnished,0,0.7,9,2025-12-10,3300000
+H0844,Pune,Row House,3,2.0,1479.0,21,7,7,No,Unfurnished,0,2.1,8,2025-04-21,7671000
+H0845,Pune,Apartment,2,1.0,862.0,18,14,26,Yes,Semi-Furnished,1,1.8,7,2025-02-23,4540000
+H0846,Jaipur,Apartment,2,2.0,1099.0,18,3,5,Yes,Furnished,3,5.0,7,2023-09-11,4541000
+H0847,Surat,Villa,4,4.0,1954.0,5,1,10,No,Semi-Furnished,1,12.0,8,2024-05-06,8777000
+H0848,Delhi,Apartment,3,3.0,1131.0,12,4,28,No,Furnished,1,2.3,4,2025-09-11,8256000
+H0849,Jaipur,Apartment,3,4.0,1297.0,18,10,14,Yes,Semi-Furnished,3,2.0,3,2024-07-26,4034000
+H0850,Bangalore,Row House,3,2.0,1562.0,12,6,10,Yes,Semi-Furnished,1,11.0,4,2025-05-08,10564000
+H0851,Mumbai,Penthouse,4,5.0,1633.0,25,6,7,Yes,Furnished,3,10.6,4,2025-09-19,19961000
+H0852,Delhi,Row House,2,2.0,1045.0,21,22,22,Yes,Unfurnished,1,0.7,6,2025-08-18,7426000
+H0853,Delhi,Apartment,3,2.0,1352.0,20,5,20,No,Unfurnished,0,9.1,9,2023-08-13,8072000
+H0854,Bangalore,Apartment,5,5.0,2210.0,3,3,15,Yes,Unfurnished,2,8.0,7,2023-04-13,14740000
+H0855,Bangalore,Apartment,3,4.0,1357.0,23,2,22,Yes,Furnished,1,9.3,3,2025-08-27,8305000
+H0856,Ahmedabad,Apartment,3,3.0,1484.0,1,3,16,No,Semi-Furnished,2,6.1,6,2025-12-07,8239000
+H0857,Jaipur,Penthouse,3,2.0,1166.0,14,1,4,Yes,Unfurnished,4,11.9,8,2025-01-06,5987000
+H0858,Bangalore,Apartment,3,4.0,1186.0,11,3,6,Yes,Furnished,1,0.8,4,2023-08-21,8079000
+H0859,Pune,Penthouse,3,4.0,1614.0,6,19,22,No,Unfurnished,0,3.0,8,2023-08-16,13357000
+H0860,Hyderabad,Villa,1,1.0,928.0,19,17,19,No,Furnished,3,4.9,7,2025-10-03,6241000
+H0861,Mumbai,Apartment,2,3.0,949.0,17,2,15,No,Furnished,0,5.6,6,2024-06-05,8557000
+H0862,Jaipur,Apartment,4,5.0,2059.0,22,11,17,Yes,Semi-Furnished,2,11.1,9,2023-01-13,6464000
+H0863,Chennai,Villa,2,3.0,811.0,12,12,15,No,Semi-Furnished,3,6.9,6,2024-03-20,5049000
+H0864,Pune,Apartment,3,3.0,1254.0,16,3,10,Yes,Semi-Furnished,0,0.8,3,2023-12-06,5963000
+H0865,Surat,Penthouse,2,3.0,1212.0,3,2,16,Yes,Unfurnished,0,5.1,9,2024-08-20,6285000
+H0866,Bangalore,Apartment,3,4.0,1495.0,24,8,8,No,Furnished,0,5.2,4,2023-06-06,8912000
+H0867,Chennai,Apartment,1,1.0,839.0,13,6,15,Yes,Furnished,3,11.6,10,2024-10-17,4609000
+H0868,Bangalore,Villa,2,1.0,1034.0,19,7,7,No,Unfurnished,0,7.3,10,2025-09-29,8558000
+H0869,Delhi,Row House,5,5.0,1968.0,12,1,22,Yes,Furnished,0,7.7,3,2026-03-27,16134000
+H0870,Pune,Apartment,4,4.0,1790.0,2,6,16,Yes,Semi-Furnished,2,8.6,6,2026-04-23,10439000
+H0871,Delhi,Penthouse,3,2.0,1566.0,25,18,21,Yes,Semi-Furnished,0,9.3,9,2025-03-08,15711000
+H0872,Ahmedabad,Apartment,3,3.0,1326.0,25,6,9,Yes,Furnished,0,7.7,6,2024-05-05,4465000
+H0873,Delhi,Penthouse,3,4.0,1298.0,17,3,3,Yes,Furnished,4,3.1,3,2025-04-14,13310000
+H0874,Ahmedabad,Villa,3,4.0,1437.0,13,7,9,Yes,Semi-Furnished,3,10.5,6,2025-08-09,8573000
+H0875,Ahmedabad,Apartment,3,3.0,1249.0,14,1,2,No,Unfurnished,4,8.9,9,2023-12-23,4513000
+H0876,Chennai,Apartment,1,2.0,603.0,2,9,27,Yes,Semi-Furnished,2,9.0,5,2024-12-17,3599000
+H0877,Bangalore,Penthouse,3,4.0,1361.0,0,3,18,Yes,Semi-Furnished,4,12.0,7,2023-12-28,15049000
+H0878,Surat,Apartment,3,3.0,1262.0,25,12,20,Yes,Semi-Furnished,1,9.7,4,2026-06-01,3677000
+H0879,Delhi,Villa,5,5.0,2327.0,23,4,6,No,Furnished,3,10.0,7,2026-05-12,21534000
+H0880,Pune,Apartment,1,1.0,666.0,16,18,23,Yes,Furnished,0,11.4,4,2023-01-08,3639000
+H0881,Ahmedabad,Penthouse,3,4.0,1286.0,2,8,21,Yes,Semi-Furnished,4,2.1,9,2024-04-16,9963000
+H0882,Bangalore,Villa,3,3.0,1347.0,13,9,17,Yes,Furnished,4,6.1,6,2023-06-21,11476000
+H0883,Mumbai,Row House,3,3.0,1301.0,2,5,8,Yes,Furnished,0,7.1,10,2023-04-06,16266000
+H0884,Jaipur,Apartment,2,3.0,835.0,12,8,8,Yes,Semi-Furnished,0,4.2,9,2024-11-04,3794000
+H0885,Chennai,Villa,3,3.0,1044.0,14,10,19,Yes,Semi-Furnished,2,10.1,3,2024-08-30,6448000
+H0886,Surat,Villa,2,1.0,863.0,17,17,19,Yes,Furnished,4,9.2,10,2024-04-18,4404000
+H0887,Vadodara,Apartment,2,3.0,838.0,13,3,3,No,Semi-Furnished,4,8.7,3,2024-09-05,2827000
+H0888,Chennai,Apartment,3,3.0,1371.0,20,1,16,No,Semi-Furnished,1,12.0,6,2024-11-19,5632000
+H0889,Mumbai,Apartment,3,4.0,1429.0,25,7,15,Yes,Furnished,1,3.3,4,2025-06-16,12153000
+H0890,Jaipur,Villa,3,3.0,1206.0,2,18,19,Yes,Unfurnished,4,8.9,6,2023-04-20,5801000
+H0891,Mumbai,Apartment,4,4.0,1817.0,18,24,30,No,Furnished,1,6.8,4,2024-12-10,14947000
+H0892,Delhi,Apartment,2,3.0,778.0,7,2,10,Yes,Unfurnished,4,4.0,6,2026-02-26,4949000
+H0893,Ahmedabad,Villa,2,1.0,927.0,3,3,15,Yes,Furnished,3,2.2,10,2025-08-22,6494000
+H0894,Surat,Apartment,3,3.0,1242.0,3,5,6,Yes,Unfurnished,2,10.8,6,2025-05-20,4195000
+H0895,Hyderabad,Apartment,2,1.0,1084.0,18,12,12,Yes,Furnished,1,7.3,6,2026-03-06,6042000
+H0896,Ahmedabad,Row House,2,2.0,971.0,10,3,9,No,Semi-Furnished,4,10.0,10,2024-10-10,4996000
+H0897,Hyderabad,Row House,2,3.0,930.0,0,1,6,Yes,Semi-Furnished,1,6.7,3,2026-04-02,5654000
+H0898,Jaipur,Apartment,1,1.0,500.0,7,21,30,Yes,Semi-Furnished,2,2.9,4,2023-12-15,2199000
+H0899,Bangalore,Apartment,4,4.0,1691.0,14,5,12,Yes,Semi-Furnished,3,4.2,8,2024-04-07,11181000
+H0900,Vadodara,Villa,2,3.0,1279.0,0,2,6,Yes,Furnished,0,4.8,6,2025-06-03,6633000
+H0901,Pune,Apartment,3,3.0,1260.0,6,14,18,Yes,Semi-Furnished,0,11.7,7,2026-03-20,7597000
+H0902,Ahmedabad,Apartment,1,1.0,636.0,20,13,23,Yes,Furnished,1,0.4,7,2023-09-03,3003000
+H0903,Surat,Apartment,3,3.0,1330.0,19,1,5,No,Unfurnished,4,11.8,9,2026-02-07,3946000
+H0904,Mumbai,Apartment,2,2.0,1031.0,19,6,16,No,Furnished,2,11.8,9,2025-03-08,9222000
+H0905,Surat,Apartment,3,4.0,1501.0,23,6,20,No,Semi-Furnished,3,12.0,3,2025-05-19,4725000
+H0906,Jaipur,Apartment,3,3.0,1286.0,10,19,23,No,Semi-Furnished,3,5.9,5,2025-12-26,4915000
+H0907,Hyderabad,Villa,2,1.0,1078.0,13,1,3,Yes,Semi-Furnished,3,11.6,8,2025-12-09,7234000
+H0908,Mumbai,Row House,3,4.0,1846.0,21,10,25,Yes,Furnished,0,4.9,3,2025-03-26,16858000
+H0909,Pune,Apartment,2,2.0,1052.0,15,3,18,Yes,Semi-Furnished,2,0.6,5,2024-05-29,6196000
+H0910,Pune,Villa,3,4.0,1640.0,13,2,13,Yes,Semi-Furnished,0,2.9,3,2023-08-14,11380000
+H0911,Ahmedabad,Row House,2,2.0,1037.0,11,21,26,No,Unfurnished,1,11.4,9,2024-07-31,4145000
+H0912,Jaipur,Apartment,4,5.0,,16,19,25,No,Semi-Furnished,3,0.5,7,2024-05-20,5669000
+H0913,Bangalore,Apartment,1,1.0,600.0,13,5,18,Yes,Semi-Furnished,2,6.7,6,2023-06-04,4245000
+H0914,Jaipur,Villa,3,3.0,1291.0,9,9,11,Yes,Semi-Furnished,3,1.2,4,2023-04-21,6754000
+H0915,Hyderabad,Villa,2,1.0,843.0,23,11,29,No,Furnished,0,3.7,9,2024-04-27,5938000
+H0916,Surat,Penthouse,2,2.0,937.0,13,10,26,No,Semi-Furnished,0,1.3,6,2025-03-18,4942000
+H0917,Pune,Apartment,3,2.0,1322.0,17,17,19,Yes,Furnished,0,10.4,7,2023-10-01,8005000
+H0918,Surat,Row House,4,4.0,1559.0,21,4,20,No,Semi-Furnished,3,7.2,10,2023-06-04,6615000
+H0919,Surat,Apartment,2,2.0,1438.0,8,18,19,Yes,Semi-Furnished,2,10.9,4,2026-04-05,4812000
+H0920,Surat,Apartment,2,1.0,1095.0,16,12,14,Yes,Semi-Furnished,2,8.4,5,2025-11-08,3731000
+H0921,Pune,Villa,2,1.0,994.0,5,2,15,Yes,Unfurnished,1,11.7,5,2023-12-11,6435000
+H0922,Chennai,Apartment,2,1.0,966.0,7,1,25,Yes,Semi-Furnished,3,6.3,7,2025-01-04,4942000
+H0923,Delhi,Apartment,2,1.0,1166.0,25,14,17,Yes,Semi-Furnished,1,7.8,4,2024-07-22,6757000
+H0924,Hyderabad,Apartment,3,2.0,1724.0,12,8,19,Yes,Semi-Furnished,1,7.0,6,2023-10-21,8839000
+H0925,Chennai,Apartment,1,1.0,673.0,17,2,27,No,Semi-Furnished,1,6.0,7,2024-10-06,2990000
+H0926,Hyderabad,Apartment,1,1.0,572.0,4,19,19,Yes,Furnished,1,10.2,5,2023-12-04,3859000
+H0927,Mumbai,Row House,3,3.0,1615.0,5,15,17,Yes,Furnished,0,7.8,10,2024-03-27,20095000
+H0928,Jaipur,Apartment,2,1.0,976.0,20,2,18,Yes,Furnished,1,9.7,7,2023-12-10,3120000
+H0929,Jaipur,Villa,2,2.0,1028.0,18,4,8,Yes,Semi-Furnished,2,9.5,10,2024-12-17,5464000
+H0930,Vadodara,Penthouse,2,2.0,1130.0,3,1,13,Yes,Unfurnished,1,2.5,6,2024-09-22,5178000
+H0931,Jaipur,Row House,3,2.0,1280.0,6,3,3,Yes,Furnished,0,7.9,3,2025-02-03,5175000
+H0932,Pune,Apartment,2,3.0,576.0,3,5,11,Yes,Semi-Furnished,4,2.6,10,2023-03-26,3336000
+H0933,Bangalore,Row House,3,3.0,1272.0,24,2,6,Yes,Unfurnished,4,7.1,10,2025-01-06,8645000
+H0934,Ahmedabad,Apartment,2,2.0,1089.0,10,1,22,Yes,Unfurnished,4,8.2,8,2024-10-21,5078000
+H0935,Vadodara,Villa,3,2.0,1476.0,11,4,4,Yes,Semi-Furnished,3,12.0,8,2023-08-15,6605000
+H0936,Ahmedabad,Villa,2,2.0,1192.0,13,20,20,No,Furnished,2,0.7,9,2023-04-19,7692000
+H0937,Hyderabad,Penthouse,3,4.0,1279.0,12,6,14,Yes,Furnished,0,1.4,8,2023-05-15,11281000
+H0938,Ahmedabad,Apartment,4,3.0,2035.0,9,4,13,Yes,Furnished,4,1.2,3,2025-07-26,7730000
+H0939,Ahmedabad,Villa,3,3.0,1383.0,17,3,4,Yes,Furnished,0,5.0,6,2023-10-18,8278000
+H0940,Vadodara,Apartment,2,2.0,1059.0,15,6,7,Yes,Furnished,0,9.9,9,2025-04-01,3635000
+H0941,Mumbai,Penthouse,2,2.0,1113.0,4,7,15,Yes,Semi-Furnished,3,10.2,4,2025-11-18,14996000
+H0942,Surat,Row House,2,2.0,701.0,7,1,5,No,Furnished,4,8.9,10,2024-01-29,3592000
+H0943,Jaipur,Apartment,2,1.0,769.0,13,2,14,No,Furnished,1,10.8,7,2023-01-27,3065000
+H0944,Jaipur,Row House,2,2.0,763.0,4,13,20,Yes,Furnished,0,4.1,6,2023-01-13,3771000
+H0945,Pune,Apartment,4,5.0,1943.0,25,10,19,Yes,Semi-Furnished,4,1.3,3,2024-07-07,8882000
+H0946,Vadodara,Apartment,2,2.0,895.0,23,24,30,Yes,Semi-Furnished,0,1.0,10,2025-07-21,2643000
+H0947,Pune,Apartment,3,2.0,1715.0,7,4,4,Yes,Semi-Furnished,3,10.3,9,2024-03-20,11060000
+H0948,Bangalore,Apartment,3,2.0,1351.0,24,10,21,Yes,Furnished,3,8.8,5,2023-08-12,8489000
+H0949,Bangalore,Villa,3,4.0,1085.0,25,6,7,Yes,Semi-Furnished,1,8.5,8,2023-01-21,9048000
+H0950,Pune,Apartment,1,1.0,500.0,5,14,17,No,Furnished,3,4.3,8,2024-04-11,3042000
+H0951,Vadodara,Apartment,4,4.0,1771.0,15,20,21,Yes,Furnished,4,4.7,6,2026-06-02,5311000
+H0952,Pune,Row House,2,1.0,1043.0,3,22,25,No,Unfurnished,3,11.5,10,2024-10-14,6288000
+H0953,Jaipur,Penthouse,3,3.0,1173.0,11,3,4,No,Unfurnished,1,1.0,8,2024-09-09,5462000
+H0954,Chennai,Penthouse,3,3.0,1452.0,10,6,13,No,Semi-Furnished,2,9.4,8,2025-02-18,10291000
+H0955,Delhi,Row House,3,3.0,1500.0,2,1,20,Yes,Unfurnished,0,3.9,10,2024-04-02,11922000
+H0956,Ahmedabad,Villa,3,3.0,1235.0,11,19,20,Yes,Semi-Furnished,0,0.8,6,2024-10-01,6809000
+H0957,Delhi,Apartment,1,2.0,904.0,4,7,25,No,Furnished,4,9.0,6,2026-05-21,6866000
+H0958,Vadodara,Apartment,2,1.0,854.0,5,2,5,Yes,Unfurnished,1,4.2,9,2024-10-24,2343000
+H0959,Delhi,Villa,3,3.0,1170.0,18,1,2,No,Furnished,1,8.7,3,2025-08-18,10486000
+H0960,Bangalore,Apartment,2,3.0,675.0,17,2,3,Yes,Semi-Furnished,1,8.6,3,2023-06-29,4385000
+H0961,Hyderabad,Villa,4,3.0,1970.0,15,11,14,Yes,Furnished,0,6.6,8,2024-06-21,14495000
+H0962,Ahmedabad,Apartment,2,3.0,954.0,22,5,27,Yes,Semi-Furnished,3,9.4,9,2024-06-10,5170000
+H0963,Surat,Apartment,2,2.0,864.0,10,19,30,Yes,Semi-Furnished,0,7.1,6,2023-01-22,3117000
+H0964,Vadodara,Apartment,2,2.0,685.0,4,5,14,Yes,Semi-Furnished,0,3.7,6,2024-07-30,3051000
+H0965,Ahmedabad,Villa,2,3.0,880.0,8,2,3,Yes,Furnished,0,8.9,8,2025-02-01,5885000
+H0966,Delhi,Apartment,3,2.0,1779.0,2,2,20,Yes,Furnished,3,7.2,4,2025-07-10,14251000
+H0967,Bangalore,Villa,3,3.0,964.0,7,22,23,Yes,Furnished,2,0.4,5,2025-11-10,9911000
+H0968,Mumbai,Apartment,3,3.0,1236.0,5,4,25,Yes,Unfurnished,4,10.8,7,2025-01-14,10749000
+H0969,Chennai,Apartment,4,5.0,2073.0,3,10,17,Yes,Semi-Furnished,2,6.7,7,2026-05-13,10765000
+H0970,Surat,Row House,4,4.0,1975.0,11,2,13,Yes,Semi-Furnished,2,10.5,10,2024-11-02,7792000
+H0971,Chennai,Villa,4,3.0,1647.0,11,2,2,Yes,Furnished,0,10.6,8,2026-02-05,11877000
+H0972,Ahmedabad,Apartment,1,1.0,587.0,24,1,10,Yes,Unfurnished,2,5.5,9,2024-09-28,2659000
+H0973,Bangalore,Penthouse,3,3.0,1433.0,20,6,18,No,Furnished,0,6.2,10,2025-10-20,15047000
+H0974,Bangalore,Apartment,2,2.0,974.0,15,11,11,No,Furnished,0,5.2,7,2023-06-01,7317000
+H0975,Delhi,Apartment,2,1.0,1271.0,9,10,19,No,Semi-Furnished,4,5.6,3,2023-01-13,8294000
+H0976,Jaipur,Apartment,3,4.0,1411.0,21,13,20,Yes,Unfurnished,1,10.8,9,2024-12-15,5388000
+H0977,Delhi,Villa,2,2.0,1154.0,13,1,8,No,Furnished,0,9.5,10,2026-01-07,11846000
+H0978,Jaipur,Villa,1,2.0,583.0,12,2,26,No,Furnished,2,1.8,9,2025-06-24,2474000
+H0979,Jaipur,Apartment,2,2.0,584.0,8,3,20,No,Semi-Furnished,4,7.4,10,2026-04-07,2122000
+H0980,Surat,Row House,1,1.0,500.0,6,9,25,Yes,Furnished,2,12.0,3,2023-09-06,2229000
+H0981,Delhi,Apartment,4,5.0,1573.0,11,5,16,No,Semi-Furnished,1,7.3,4,2026-02-18,10084000
+H0982,Mumbai,Apartment,1,,505.0,4,10,10,Yes,Semi-Furnished,3,9.5,8,2024-01-22,4315000
+H0983,Pune,Apartment,2,,1324.0,17,10,11,No,Semi-Furnished,1,9.3,3,2024-03-14,5174000
+H0984,Pune,Apartment,3,4.0,1415.0,3,12,24,Yes,Furnished,4,4.4,8,2023-10-27,9652000
+H0985,Delhi,Apartment,2,2.0,931.0,1,18,21,Yes,Furnished,1,4.7,8,2024-12-21,8128000
+H0986,Delhi,Villa,4,3.0,1973.0,2,21,21,Yes,Unfurnished,1,8.8,10,2024-04-17,19506000
+H0987,Chennai,Penthouse,1,1.0,500.0,25,5,5,Yes,Unfurnished,4,6.1,9,2026-03-27,3388000
+H0988,Surat,Apartment,3,3.0,1262.0,11,1,7,Yes,Furnished,4,7.0,6,2025-10-03,4577000
+H0989,Delhi,Apartment,3,3.0,1235.0,2,3,5,No,Furnished,2,8.6,5,2024-09-24,9958000
+H0990,Chennai,Apartment,4,5.0,1822.0,3,5,6,Yes,Furnished,0,9.4,5,2026-06-04,8999000
+H0991,Jaipur,Apartment,3,4.0,1511.0,5,9,10,Yes,Semi-Furnished,3,3.5,8,2024-02-25,5095000
+H0992,Bangalore,Apartment,4,3.0,1835.0,11,10,13,Yes,Semi-Furnished,3,2.0,5,2025-08-13,11820000
+H0993,Bangalore,Villa,2,3.0,1038.0,18,17,24,Yes,Semi-Furnished,3,3.7,5,2025-08-30,8550000
+H0994,Jaipur,Apartment,2,1.0,885.0,9,8,9,Yes,Semi-Furnished,1,6.2,7,2023-01-24,3122000
+H0995,Vadodara,Villa,2,2.0,1008.0,0,17,22,Yes,Semi-Furnished,4,4.3,9,2024-06-21,4348000
+H0996,Chennai,Row House,4,5.0,1599.0,16,1,6,Yes,Unfurnished,4,6.9,7,2025-02-15,8350000
+H0997,Chennai,Apartment,2,2.0,1071.0,15,6,30,Yes,Furnished,4,0.9,6,2024-09-29,5230000
+H0998,Jaipur,Penthouse,2,3.0,860.0,8,1,12,Yes,,0,6.3,4,2024-06-23,5470000
+H0999,Mumbai,Apartment,2,1.0,748.0,24,8,24,Yes,Furnished,4,4.6,9,2025-06-21,7588000
+H1000,Hyderabad,Villa,1,1.0,557.0,20,5,12,Yes,Unfurnished,4,6.6,3,2026-02-25,2420000
+H1001,Ahmedabad,Apartment,2,1.0,606.0,8,7,14,No,Semi-Furnished,1,5.2,10,2026-01-22,3012000
+H1002,Jaipur,Apartment,5,5.0,2415.0,22,7,15,Yes,Semi-Furnished,2,3.6,10,2024-02-25,8895000
+H1003,Delhi,Apartment,3,2.0,1493.0,8,15,29,Yes,Furnished,3,10.9,10,2024-04-28,12713000
+H1004,Delhi,Apartment,3,2.0,1411.0,11,7,9,Yes,Furnished,1,2.5,3,2025-10-25,9652000
+H1005,Surat,Apartment,3,3.0,1058.0,22,22,26,Yes,Furnished,1,8.3,7,2023-06-06,3940000
+H1006,Jaipur,Apartment,2,2.0,824.0,8,8,19,Yes,Semi-Furnished,1,11.1,8,2023-02-21,3808000
+H1007,Surat,Apartment,2,3.0,957.0,14,9,20,Yes,Furnished,3,6.6,5,2023-08-31,3767000
+H1008,Jaipur,Row House,2,2.0,903.0,1,12,13,Yes,Furnished,1,10.6,6,2025-02-12,5277000
+H1009,Chennai,Villa,2,2.0,646.0,10,2,13,Yes,Semi-Furnished,2,1.8,4,2024-02-24,3846000
+H1010,Ahmedabad,Apartment,3,2.0,1113.0,10,7,19,Yes,Furnished,4,6.1,7,2024-02-29,5520000
+H1011,Chennai,Apartment,2,2.0,899.0,7,2,11,Yes,Semi-Furnished,2,5.6,8,2023-03-21,4811000
+H1012,Hyderabad,Row House,1,1.0,500.0,22,6,8,No,Furnished,4,0.4,6,2024-11-25,2717000
+H1013,Bangalore,Penthouse,3,2.0,1597.0,5,18,29,Yes,Unfurnished,4,5.5,10,2023-12-20,16797000
+H1014,Pune,Villa,4,4.0,1839.0,20,10,19,Yes,Semi-Furnished,1,4.6,8,2023-10-20,12864000
+H1015,Jaipur,Apartment,4,3.0,1605.0,19,6,13,No,Unfurnished,1,8.1,6,2024-12-17,4491000
+H1016,Hyderabad,Apartment,4,4.0,1960.0,6,2,15,No,Semi-Furnished,3,11.3,7,2026-02-13,11148000
+H1017,Bangalore,Apartment,4,4.0,1924.0,2,1,16,Yes,Unfurnished,0,1.3,6,2024-06-12,12728000
+H1018,Vadodara,Apartment,2,2.0,1002.0,7,7,17,Yes,Unfurnished,2,4.1,9,2024-04-24,4177000
+H1019,Ahmedabad,Penthouse,3,2.0,1343.0,17,3,3,Yes,Semi-Furnished,3,5.5,5,2024-04-21,8499000
+H1020,Surat,Villa,2,2.0,896.0,16,14,19,Yes,Unfurnished,3,5.6,6,2023-01-25,3670000
+H1021,Surat,Villa,3,2.0,1253.0,10,12,13,Yes,Furnished,2,9.4,4,2024-03-06,5965000
+H1022,Chennai,Row House,3,3.0,1109.0,1,14,17,Yes,Semi-Furnished,2,5.5,6,2023-11-13,7367000
+H1023,Delhi,Villa,1,1.0,825.0,24,13,14,Yes,Furnished,4,0.6,9,2024-09-29,7363000
+H1024,Bangalore,Apartment,4,4.0,1656.0,20,4,21,Yes,Semi-Furnished,0,8.6,3,2023-12-24,9190000
+H1025,Vadodara,Apartment,4,,1755.0,23,13,18,Yes,Semi-Furnished,1,10.7,9,2024-11-20,5795000
+H1026,Hyderabad,Row House,2,2.0,786.0,18,16,19,Yes,Semi-Furnished,0,6.3,6,2023-12-10,3890000
+H1027,Ahmedabad,Apartment,4,4.0,1703.0,6,4,4,Yes,Furnished,0,7.1,10,2024-07-12,8969000
+H1028,Bangalore,Row House,2,2.0,1463.0,17,22,24,Yes,Semi-Furnished,1,2.2,8,2024-12-12,11042000
+H1029,Vadodara,Penthouse,3,3.0,1219.0,7,5,11,Yes,Furnished,0,2.9,10,2024-07-16,7132000
+H1030,Pune,Apartment,3,4.0,1611.0,13,2,2,Yes,Semi-Furnished,3,3.1,10,2024-03-14,10024000
+H1031,Jaipur,Apartment,3,3.0,1345.0,6,1,7,No,Furnished,3,5.3,7,2025-11-10,6027000
+H1032,Surat,Row House,4,4.0,1872.0,20,2,4,Yes,Unfurnished,1,11.2,3,2023-05-23,5632000
+H1033,Hyderabad,Apartment,4,3.0,1974.0,3,6,20,Yes,Furnished,1,6.4,7,2025-05-17,12270000
+H1034,Surat,Row House,4,4.0,1799.0,16,2,5,No,Furnished,2,2.5,8,2023-12-19,7881000
+H1035,Hyderabad,Row House,2,3.0,887.0,4,6,30,Yes,Unfurnished,2,3.4,4,2025-10-13,5106000
+H1036,Chennai,Apartment,4,3.0,1717.0,11,7,21,No,Semi-Furnished,0,4.8,5,2024-04-12,7829000
+H1037,Delhi,Apartment,2,2.0,923.0,8,24,24,Yes,Furnished,0,7.6,4,2025-05-26,6329000
+H1038,Hyderabad,Row House,4,5.0,2086.0,25,3,4,Yes,Semi-Furnished,1,5.4,3,2025-07-07,10048000
+H1039,Surat,Villa,2,3.0,683.0,19,8,9,Yes,Furnished,0,4.9,8,2025-12-17,2949000
+H1040,Chennai,Apartment,1,2.0,500.0,12,9,9,Yes,Unfurnished,4,6.9,10,2026-02-23,3017000
+H1041,Hyderabad,Apartment,3,3.0,1043.0,24,26,28,Yes,Semi-Furnished,3,3.1,8,2025-04-20,5218000
+H1042,Pune,Apartment,2,3.0,789.0,17,27,30,No,Furnished,0,1.2,10,2025-05-27,4903000
+H1043,Delhi,Row House,2,3.0,1076.0,19,5,8,Yes,Semi-Furnished,0,0.6,5,2023-02-21,8555000
+H1044,Hyderabad,Penthouse,2,1.0,1087.0,8,3,3,Yes,Furnished,2,3.2,6,2025-10-08,9543000
+H1045,Chennai,Villa,1,1.0,500.0,3,1,22,No,Semi-Furnished,4,1.4,3,2025-03-24,3732000
+H1046,Bangalore,Apartment,2,2.0,945.0,20,7,7,Yes,Unfurnished,0,4.2,5,2023-09-26,5126000
+H1047,Mumbai,Apartment,1,1.0,500.0,7,4,29,Yes,Unfurnished,3,9.3,9,2023-04-06,4823000
+H1048,Vadodara,Row House,3,2.0,1166.0,0,5,17,Yes,Furnished,0,8.7,9,2023-09-30,5632000
+H1049,Mumbai,Apartment,2,2.0,1054.0,16,1,11,No,Furnished,1,7.4,7,2023-05-13,9263000
+H1050,Mumbai,Apartment,3,4.0,1539.0,24,3,5,Yes,Furnished,4,10.3,10,2025-07-16,13950000
+H1051,Ahmedabad,Apartment,2,3.0,864.0,8,3,14,Yes,Semi-Furnished,0,3.6,5,2023-03-30,4601000
+H1052,Pune,Villa,4,4.0,2044.0,19,1,11,No,Semi-Furnished,4,10.7,7,2024-11-15,13563000
+H1053,Bangalore,Row House,4,4.0,1924.0,12,1,22,Yes,Semi-Furnished,0,5.0,9,2025-04-03,14426000
+H1054,Jaipur,Apartment,2,2.0,1237.0,1,7,15,Yes,Unfurnished,3,5.0,9,2023-01-05,4625000
+H1055,Hyderabad,Apartment,4,3.0,1696.0,12,4,10,Yes,Furnished,3,5.0,7,2023-12-23,9301000
+H1056,Vadodara,Villa,4,4.0,2024.0,8,9,12,Yes,Furnished,4,1.4,8,2023-07-23,10101000
+H1057,Delhi,Row House,5,4.0,2542.0,19,23,24,Yes,Furnished,2,11.7,5,2024-04-15,19892000
+H1058,Bangalore,Apartment,3,4.0,1276.0,5,5,19,No,Furnished,2,1.9,8,2024-04-08,9849000
+H1059,Surat,Apartment,2,2.0,922.0,0,7,12,Yes,Furnished,1,4.3,9,2024-05-11,3887000
+H1060,Jaipur,Apartment,3,4.0,1179.0,24,6,18,Yes,Semi-Furnished,2,,8,2024-12-02,4301000
+H1061,Ahmedabad,Row House,3,4.0,1144.0,4,1,3,Yes,Furnished,4,1.2,10,2025-04-16,6783000
+H1062,Ahmedabad,Apartment,3,4.0,1146.0,2,2,4,Yes,Furnished,2,2.1,4,2023-03-04,4839000
+H1063,Bangalore,Apartment,2,2.0,804.0,3,1,12,Yes,Semi-Furnished,1,0.8,4,2023-08-27,5569000
+H1064,Chennai,Villa,4,4.0,1799.0,0,13,19,No,Furnished,0,3.7,8,2024-06-23,15056000
+H1065,Mumbai,Penthouse,5,5.0,2012.0,13,12,28,Yes,Semi-Furnished,2,10.4,8,2023-07-17,27595000
+H1066,Surat,Apartment,2,2.0,994.0,8,4,4,Yes,Furnished,4,4.3,10,2025-02-19,3270000
+H1067,Ahmedabad,Penthouse,2,2.0,998.0,23,8,27,Yes,Semi-Furnished,4,1.7,7,2023-01-30,6713000
+H1068,Vadodara,Apartment,2,1.0,865.0,3,16,16,Yes,Unfurnished,1,7.9,8,2024-10-27,3301000
+H1069,Ahmedabad,Apartment,4,5.0,1739.0,17,5,12,Yes,Furnished,1,12.0,3,2026-05-17,7330000
+H1070,Delhi,Apartment,3,3.0,1255.0,13,5,12,No,Semi-Furnished,3,3.0,5,2025-12-22,8174000
+H1071,Hyderabad,Villa,3,3.0,1294.0,24,13,29,Yes,,3,3.6,3,2025-12-16,7120000
+H1072,Ahmedabad,Apartment,3,3.0,1204.0,3,26,29,No,Semi-Furnished,3,11.7,4,2026-02-04,5226000
+H1073,Delhi,Row House,3,3.0,1365.0,24,11,26,Yes,Furnished,0,2.4,3,2024-08-22,10442000
+H1074,Bangalore,Villa,2,2.0,842.0,9,8,21,Yes,Semi-Furnished,4,6.3,6,2025-10-14,8141000
+H1075,Bangalore,Villa,3,2.0,1140.0,2,8,29,Yes,Semi-Furnished,3,3.1,6,2024-09-11,11241000
+H1076,Jaipur,Penthouse,4,5.0,1857.0,22,1,26,Yes,Unfurnished,4,11.2,4,2025-12-05,7882000
+H1077,Ahmedabad,Villa,5,5.0,2263.0,6,5,12,No,Furnished,1,11.8,3,2023-03-18,13121000
+H1078,Vadodara,Apartment,4,5.0,1950.0,9,8,20,Yes,Furnished,0,9.8,5,2024-12-29,6528000
+H1079,Ahmedabad,Apartment,4,4.0,1566.0,12,17,29,Yes,Furnished,1,4.0,10,2026-04-07,8401000
+H1080,Vadodara,Row House,3,3.0,1263.0,3,1,2,No,Furnished,4,5.0,4,2025-03-24,4677000
+H1081,Pune,Apartment,3,3.0,1391.0,17,23,28,Yes,Furnished,3,3.1,6,2026-02-26,7676000
+H1082,Jaipur,Villa,3,4.0,1260.0,10,5,6,No,Furnished,1,10.7,4,2024-12-08,5642000
+H1083,Pune,Row House,4,4.0,1853.0,24,9,11,Yes,Furnished,2,11.0,3,2023-09-25,10033000
+H1084,Ahmedabad,Apartment,2,2.0,1040.0,3,2,11,Yes,Furnished,0,5.2,3,2025-02-03,4573000
+H1085,Jaipur,Villa,2,2.0,1036.0,23,15,15,No,Unfurnished,4,8.0,3,2024-08-07,3691000
+H1086,Pune,Apartment,2,1.0,1213.0,13,3,3,Yes,Furnished,3,2.2,7,2024-02-23,6608000
+H1087,Mumbai,Apartment,3,2.0,1466.0,17,4,5,No,Furnished,1,5.4,3,2025-05-19,12800000
+H1088,Ahmedabad,Apartment,2,2.0,978.0,7,1,3,Yes,Furnished,0,7.7,8,2026-03-30,4799000
+H1089,Pune,Apartment,2,1.0,915.0,9,7,19,No,Unfurnished,3,4.8,6,2025-12-17,4254000
+H1090,Mumbai,Villa,1,1.0,528.0,4,14,14,Yes,Semi-Furnished,1,4.5,9,2024-01-19,7619000
+H1091,Mumbai,Penthouse,2,2.0,758.0,22,3,20,Yes,Semi-Furnished,4,0.3,6,2025-03-13,10633000
+H1092,Bangalore,Penthouse,4,4.0,1432.0,6,3,6,No,Furnished,2,9.7,7,2024-05-24,15970000
+H1093,Ahmedabad,Apartment,2,3.0,1033.0,11,19,21,Yes,Unfurnished,2,10.7,6,2024-03-05,4030000
+H1094,Mumbai,Apartment,3,3.0,1570.0,24,1,3,Yes,Semi-Furnished,4,11.6,6,2024-07-31,12126000
+H1095,Bangalore,Villa,3,4.0,,2,10,12,No,Furnished,0,8.7,4,2025-07-28,12613000
+H1096,Pune,Apartment,4,4.0,2036.0,25,14,27,Yes,Semi-Furnished,4,6.7,9,2025-11-15,10860000
+H1097,Delhi,Row House,2,3.0,918.0,3,18,19,No,Unfurnished,1,3.5,9,2024-08-11,7411000
+H1098,Ahmedabad,Penthouse,5,5.0,1798.0,9,2,7,Yes,Semi-Furnished,0,12.0,3,2025-03-08,10998000
+H1099,Jaipur,Villa,3,3.0,1515.0,3,15,24,Yes,Unfurnished,2,7.2,8,2024-01-07,7737000
+H1100,Vadodara,Row House,5,5.0,2064.0,14,26,29,Yes,Unfurnished,1,8.3,8,2025-07-16,7677000
+H1101,Vadodara,Apartment,4,4.0,1932.0,9,1,11,Yes,Furnished,3,8.3,4,2025-11-25,7425000
+H1102,Pune,Villa,2,2.0,720.0,20,6,23,Yes,Semi-Furnished,3,10.2,8,2025-11-08,4940000
+H1103,Chennai,Apartment,1,1.0,624.0,21,15,24,Yes,Furnished,3,0.4,4,2023-05-20,3401000
+H1104,Chennai,Row House,2,2.0,806.0,15,6,18,Yes,Unfurnished,2,2.9,9,2023-03-08,4424000
+H1105,Pune,Apartment,3,3.0,1386.0,14,18,23,Yes,Furnished,4,8.1,9,2025-10-11,7516000
+H1106,Mumbai,Villa,2,2.0,1088.0,18,1,12,Yes,Unfurnished,0,10.8,10,2023-09-18,12807000
+H1107,Ahmedabad,Row House,2,3.0,1046.0,19,3,20,No,Furnished,2,8.3,9,2025-08-31,5347000
+H1108,Vadodara,Apartment,3,4.0,1362.0,18,17,18,Yes,Semi-Furnished,1,5.1,8,2024-09-18,4860000
+H1109,Vadodara,Apartment,1,1.0,500.0,17,16,25,Yes,Furnished,1,4.5,6,2024-08-01,2334000
+H1110,Mumbai,Penthouse,2,2.0,1081.0,25,4,5,No,Furnished,3,8.9,9,2025-10-18,14759000
+H1111,Vadodara,Apartment,3,4.0,1536.0,11,17,27,Yes,Unfurnished,0,9.0,10,2026-05-11,4583000
+H1112,Jaipur,Apartment,1,1.0,500.0,24,8,25,No,Furnished,3,7.4,5,2024-09-30,2002000
+H1113,Ahmedabad,Apartment,2,2.0,789.0,15,17,27,Yes,Semi-Furnished,1,3.7,3,2024-02-14,3541000
+H1114,Hyderabad,Apartment,3,2.0,1543.0,0,9,15,Yes,Furnished,1,11.1,5,2025-04-12,8371000
+H1115,Vadodara,Penthouse,3,3.0,1312.0,15,9,28,Yes,Semi-Furnished,4,6.8,6,2026-01-08,7205000
+H1116,Pune,Apartment,4,4.0,1593.0,1,12,21,Yes,Furnished,4,9.5,7,2023-04-23,10124000
+H1117,Jaipur,Apartment,3,3.0,1399.0,23,5,5,Yes,Furnished,4,2.8,4,2024-09-14,5382000
+H1118,Vadodara,Apartment,3,3.0,1235.0,14,25,29,No,Unfurnished,3,4.3,10,2025-03-31,3701000
+H1119,Jaipur,Apartment,3,3.0,1379.0,6,3,15,Yes,Semi-Furnished,0,10.5,8,2026-03-06,5354000
+H1120,Bangalore,Apartment,4,4.0,1676.0,0,4,27,Yes,Furnished,4,0.9,8,2025-04-19,13425000
+H1121,Hyderabad,Apartment,4,4.0,1691.0,4,5,5,Yes,Semi-Furnished,2,6.3,6,2023-07-08,10558000
+H1122,Surat,Apartment,4,4.0,1950.0,9,6,7,Yes,Furnished,4,5.9,8,2023-10-04,8666000
+H1123,Pune,Apartment,3,2.0,906.0,21,9,10,Yes,Furnished,3,9.1,6,2023-04-13,4850000
+H1124,Pune,Villa,2,2.0,1050.0,20,11,22,No,Semi-Furnished,0,3.6,10,2023-04-17,8034000
+H1125,Ahmedabad,Apartment,2,2.0,1120.0,3,12,13,Yes,Furnished,4,2.9,5,2025-01-26,5382000
+H1126,Jaipur,Villa,1,1.0,500.0,13,4,30,Yes,Semi-Furnished,0,11.1,7,2023-06-22,3629000
+H1127,Mumbai,Apartment,4,5.0,1919.0,12,14,27,Yes,Semi-Furnished,2,7.0,4,2025-09-25,16855000
+H1128,Pune,Apartment,3,4.0,1177.0,0,6,9,No,Semi-Furnished,1,1.5,8,2024-12-22,7337000
+H1129,Jaipur,Villa,3,3.0,1231.0,15,17,25,No,Unfurnished,0,2.6,7,2026-04-29,5347000
+H1130,Jaipur,Apartment,2,1.0,810.0,22,2,5,Yes,Furnished,4,12.0,7,2025-04-10,3467000
+H1131,Delhi,Row House,4,4.0,1921.0,8,8,28,No,Furnished,3,2.6,7,2023-08-13,17033000
+H1132,Delhi,Villa,2,2.0,636.0,21,4,27,No,,3,7.4,3,2023-05-14,4866000
+H1133,Surat,Apartment,1,2.0,845.0,15,10,26,No,Furnished,3,5.2,7,2025-11-26,2994000
+H1134,Bangalore,Penthouse,2,3.0,895.0,18,7,26,Yes,Unfurnished,3,10.7,9,2023-04-03,7963000
+H1135,Surat,Villa,3,3.0,1461.0,14,4,6,Yes,Semi-Furnished,0,9.1,6,2023-03-16,6357000
+H1136,Vadodara,Apartment,3,3.0,1445.0,25,6,7,Yes,Semi-Furnished,3,7.3,3,2025-01-25,4682000
+H1137,Mumbai,Apartment,4,3.0,1777.0,13,1,6,Yes,Semi-Furnished,1,0.4,9,2023-07-02,16721000
+H1138,Vadodara,Apartment,2,1.0,842.0,19,9,20,Yes,,2,10.6,3,2024-12-17,2579000
+H1139,Chennai,Row House,3,3.0,1574.0,9,4,28,Yes,Semi-Furnished,0,5.5,7,2024-04-03,8436000
+H1140,Vadodara,Villa,3,3.0,1257.0,20,8,9,Yes,Semi-Furnished,0,11.2,8,2024-09-18,5027000
+H1141,Ahmedabad,Row House,2,2.0,818.0,11,6,10,No,Semi-Furnished,3,6.1,8,2024-02-13,4054000
+H1142,Vadodara,Villa,4,4.0,1908.0,0,1,16,Yes,Furnished,3,8.4,8,2023-07-26,10780000
+H1143,Surat,Apartment,3,4.0,1376.0,20,1,5,Yes,Semi-Furnished,0,1.1,8,2026-06-22,4253000
+H1144,Pune,Apartment,3,3.0,1594.0,16,19,26,Yes,Semi-Furnished,3,9.0,6,2024-11-03,8484000
+H1145,Pune,Villa,4,3.0,1739.0,8,8,10,No,Semi-Furnished,3,4.3,10,2025-10-09,13926000
+H1146,Delhi,Villa,3,4.0,1233.0,22,7,8,No,Semi-Furnished,3,4.4,8,2025-01-17,11344000
+H1147,Mumbai,Row House,2,3.0,999.0,18,9,9,Yes,Semi-Furnished,3,1.7,4,2023-09-30,9358000
+H1148,Mumbai,Apartment,3,4.0,1269.0,24,3,16,Yes,Semi-Furnished,3,2.0,7,2024-01-14,10645000
+H1149,Ahmedabad,Apartment,2,3.0,838.0,17,1,20,Yes,Unfurnished,4,2.5,3,2024-09-17,3729000
+H1150,Surat,Villa,2,2.0,1100.0,6,1,16,Yes,Furnished,4,4.1,4,2024-10-25,5038000
+H1151,Delhi,Villa,1,1.0,880.0,8,5,6,Yes,Unfurnished,4,10.7,8,2025-11-15,8338000
+H1152,Chennai,Apartment,3,2.0,1306.0,21,13,20,No,Semi-Furnished,0,4.6,4,2024-11-10,4804000
+H1153,Mumbai,Penthouse,3,2.0,1175.0,25,6,8,No,Semi-Furnished,2,8.8,3,2024-06-27,13145000
+H1154,Pune,Apartment,2,3.0,922.0,20,1,7,Yes,Unfurnished,0,1.3,8,2025-01-02,4449000
+H1155,Vadodara,Villa,3,4.0,1443.0,11,16,28,Yes,Semi-Furnished,4,7.2,4,2023-04-01,5725000
+H1156,Vadodara,Villa,4,4.0,1796.0,6,14,20,Yes,Unfurnished,0,5.9,6,2024-04-20,7956000
+H1157,Delhi,Row House,2,3.0,1165.0,13,4,26,Yes,Furnished,2,11.7,6,2024-12-26,10264000
+H1158,Surat,Penthouse,2,1.0,1070.0,14,23,29,Yes,Furnished,3,10.2,7,2026-04-26,6511000
+H1159,Surat,Apartment,3,2.0,1151.0,14,12,18,Yes,Semi-Furnished,1,5.6,10,2026-05-03,4646000
+H1160,Bangalore,Apartment,2,2.0,861.0,5,9,11,No,Unfurnished,4,9.4,7,2024-06-17,4851000
+H1161,Hyderabad,Row House,3,3.0,1101.0,20,12,20,Yes,Unfurnished,4,2.6,9,2024-11-28,5951000
+H1162,Mumbai,Apartment,2,1.0,1156.0,13,1,12,Yes,Semi-Furnished,2,6.9,4,2025-05-29,10265000
+H1163,Surat,Row House,3,2.0,991.0,1,5,16,No,Semi-Furnished,3,1.2,3,2023-03-26,4519000
+H1164,Pune,Apartment,3,3.0,1119.0,7,10,11,Yes,Furnished,3,4.4,6,2024-08-14,7489000
+H1165,Delhi,Villa,3,3.0,1258.0,12,3,12,Yes,Unfurnished,1,2.9,5,2025-04-20,10620000
+H1166,Chennai,Penthouse,4,3.0,1852.0,22,23,24,Yes,Furnished,3,8.7,10,2023-03-18,14088000
+H1167,Bangalore,Row House,4,5.0,1656.0,5,4,4,Yes,Semi-Furnished,2,6.0,7,2023-11-26,12498000
+H1168,Jaipur,Apartment,3,3.0,1284.0,4,4,4,Yes,Semi-Furnished,3,9.1,9,2024-01-18,5887000
+H1169,Ahmedabad,Villa,3,2.0,1288.0,4,12,19,Yes,Semi-Furnished,2,6.3,6,2024-01-12,7764000
+H1170,Chennai,Apartment,1,2.0,581.0,24,1,26,Yes,Semi-Furnished,4,1.3,9,2023-12-07,2204000
+H1171,Jaipur,Apartment,3,2.0,1130.0,0,1,12,Yes,Unfurnished,4,8.9,8,2026-04-15,4914000
+H1172,Vadodara,Villa,1,1.0,500.0,8,10,21,Yes,Semi-Furnished,4,10.0,4,2024-02-28,3025000
+H1173,Ahmedabad,Villa,4,4.0,2053.0,5,18,27,No,Unfurnished,0,10.9,9,2023-06-23,11871000
+H1174,Mumbai,Row House,2,2.0,1022.0,19,15,30,Yes,Furnished,4,7.0,10,2024-02-10,11631000
+H1175,Pune,Apartment,3,3.0,1487.0,25,2,23,No,Semi-Furnished,2,9.1,6,2023-03-23,7453000
+H1176,Ahmedabad,Apartment,2,2.0,960.0,6,17,19,Yes,Semi-Furnished,1,9.1,6,2023-01-21,3047000
+H1177,Hyderabad,Apartment,4,4.0,1725.0,8,8,26,Yes,Semi-Furnished,3,2.1,4,2024-11-21,9869000
+H1178,Jaipur,Apartment,4,4.0,1832.0,4,6,16,Yes,Unfurnished,4,2.2,7,2025-10-06,6343000
+H1179,Mumbai,Apartment,2,3.0,1081.0,13,6,8,Yes,Furnished,0,1.1,7,2024-02-02,10013000
+H1180,Hyderabad,Penthouse,4,5.0,1902.0,4,10,11,Yes,Furnished,0,4.0,5,2023-11-26,16346000
+H1181,Vadodara,Apartment,2,3.0,927.0,7,9,22,Yes,Semi-Furnished,2,5.8,10,2023-08-13,3387000
+H1182,Hyderabad,Row House,3,2.0,1522.0,6,21,24,Yes,Furnished,1,12.0,5,2025-02-19,10636000
+H1183,Bangalore,Row House,4,4.0,1306.0,12,20,21,No,Unfurnished,4,5.3,7,2025-06-12,9359000
+H1184,Bangalore,Villa,2,2.0,1111.0,12,11,30,No,Furnished,4,8.8,7,2024-03-13,9953000
+H1185,Delhi,Row House,5,5.0,2073.0,7,6,11,Yes,Semi-Furnished,0,8.4,10,2023-08-11,18311000
+H1186,Chennai,Penthouse,2,2.0,1050.0,10,8,14,Yes,Furnished,2,2.7,9,2024-05-23,10066000
+H1187,Chennai,Apartment,1,1.0,500.0,25,14,16,Yes,Semi-Furnished,0,1.0,10,2024-09-08,2690000
+H1188,Mumbai,Apartment,4,3.0,1511.0,17,1,24,No,Semi-Furnished,0,6.7,7,2025-12-01,12786000
+H1189,Vadodara,Apartment,1,2.0,611.0,24,7,19,No,Furnished,1,8.5,7,2026-04-14,1500000
+H1190,Surat,Apartment,5,5.0,1880.0,18,24,24,No,Furnished,2,12.0,6,2026-06-22,5716000
+H1191,Bangalore,Row House,5,5.0,2078.0,5,1,5,Yes,Semi-Furnished,1,4.5,5,2026-06-30,15617000
+H1192,Mumbai,Apartment,2,3.0,804.0,21,11,21,Yes,Unfurnished,2,10.8,4,2025-08-16,5980000
+H1193,Surat,Row House,3,3.0,1318.0,1,16,18,Yes,Furnished,4,4.8,10,2024-08-26,7149000
+H1194,Chennai,Villa,2,3.0,1093.0,12,19,29,Yes,Semi-Furnished,3,8.4,3,2025-10-31,6918000
+H1195,Delhi,Apartment,3,3.0,1262.0,22,2,4,No,Unfurnished,3,7.3,4,2023-06-01,7503000
+H1196,Hyderabad,Row House,1,1.0,607.0,24,15,22,Yes,Semi-Furnished,2,0.9,10,2023-07-08,3922000
+H1197,Bangalore,Apartment,2,3.0,1083.0,25,3,22,No,Unfurnished,3,1.2,8,2025-08-17,5218000
+H1198,Mumbai,Apartment,2,2.0,841.0,10,2,3,Yes,Unfurnished,0,0.5,10,2024-11-06,7837000
+H1199,Ahmedabad,Villa,3,3.0,1243.0,0,4,5,No,Semi-Furnished,4,4.6,3,2024-09-29,7313000
+H1200,Surat,Apartment,5,5.0,2396.0,23,1,2,Yes,Semi-Furnished,4,9.0,6,2023-07-30,7550000
+H1201,Hyderabad,Villa,4,5.0,1736.0,1,12,16,Yes,Furnished,3,2.3,8,2026-01-25,14367000
+H1202,Bangalore,Apartment,3,3.0,1442.0,16,4,26,Yes,Semi-Furnished,2,7.4,5,2023-12-05,8944000
+H1203,Chennai,Apartment,3,3.0,1440.0,7,2,2,Yes,Unfurnished,0,3.7,3,2023-02-16,5514000
+H1204,Vadodara,Row House,4,4.0,1534.0,1,2,7,Yes,Semi-Furnished,2,9.6,7,2025-03-30,5851000
+H1205,Surat,Apartment,2,3.0,813.0,5,6,8,Yes,Semi-Furnished,3,9.6,8,2025-09-01,4574000
+H1206,Chennai,Apartment,3,2.0,1418.0,21,14,20,Yes,Semi-Furnished,4,9.4,6,2025-12-16,5808000
+H1207,Bangalore,Apartment,5,5.0,1778.0,4,3,13,Yes,Furnished,4,6.4,10,2026-01-03,13610000
+H1208,Surat,Row House,2,3.0,912.0,15,1,2,Yes,Unfurnished,2,3.6,10,2026-07-01,3259000
+H1209,Hyderabad,Apartment,3,3.0,1194.0,7,3,8,Yes,Semi-Furnished,1,9.8,3,2025-04-16,6496000
+H1210,Bangalore,Apartment,4,4.0,1950.0,18,10,20,No,Furnished,2,2.5,7,2025-08-09,13182000
+H1211,Jaipur,Apartment,4,5.0,1812.0,15,10,14,No,Unfurnished,1,3.7,8,2024-08-20,5496000
+H1212,Mumbai,Apartment,3,3.0,1564.0,12,21,27,Yes,Semi-Furnished,2,2.5,6,2023-06-19,13894000
+H1213,Hyderabad,Penthouse,2,2.0,943.0,25,10,13,Yes,Semi-Furnished,1,8.2,10,2026-03-15,6992000
+H1214,Surat,Villa,2,2.0,929.0,19,10,13,Yes,Semi-Furnished,1,8.3,8,2025-04-18,4397000
+H1215,Vadodara,Apartment,1,1.0,500.0,6,3,23,Yes,Semi-Furnished,1,7.9,3,2025-11-22,1664000
+H1216,Chennai,Villa,3,3.0,1259.0,15,8,14,Yes,Unfurnished,1,5.2,7,2025-03-06,7073000
+H1217,Ahmedabad,Apartment,1,2.0,1033.0,22,26,29,Yes,Semi-Furnished,0,1.5,5,2026-02-23,3595000
+H1218,Chennai,Row House,4,3.0,1895.0,15,15,15,Yes,Semi-Furnished,1,11.0,9,2025-08-16,9679000
+H1219,Surat,Row House,2,2.0,758.0,11,17,23,Yes,Furnished,1,6.2,6,2026-02-10,3306000
+H1220,Chennai,Apartment,2,3.0,1425.0,13,11,13,Yes,Unfurnished,4,5.1,3,2025-03-25,5760000
+H1221,Mumbai,Penthouse,3,4.0,1277.0,23,18,21,Yes,Furnished,0,7.2,10,2023-12-08,17407000
+H1222,Bangalore,Penthouse,3,2.0,1408.0,17,3,13,Yes,Unfurnished,1,2.6,7,2023-02-17,12318000
+H1223,Ahmedabad,Apartment,2,2.0,1119.0,17,19,28,Yes,Semi-Furnished,3,1.9,5,2023-12-30,4420000
+H1224,Pune,Apartment,3,4.0,1073.0,15,4,7,Yes,Semi-Furnished,0,5.0,8,2026-05-03,5187000
+H1225,Surat,Apartment,3,4.0,1201.0,19,24,28,Yes,Unfurnished,4,3.0,7,2024-12-25,3497000
+H1226,Delhi,Penthouse,2,3.0,1247.0,15,5,11,Yes,Furnished,2,3.2,9,2023-05-18,14034000
+H1227,Pune,Row House,2,2.0,910.0,12,16,21,No,Semi-Furnished,4,10.7,5,2023-12-21,5475000
+H1228,Chennai,Penthouse,4,4.0,1930.0,25,30,30,Yes,Semi-Furnished,4,6.5,3,2025-12-29,12345000
+H1229,Surat,Penthouse,3,2.0,1268.0,8,15,25,Yes,Semi-Furnished,0,6.0,10,2025-03-21,7484000
+H1230,Jaipur,Villa,1,1.0,533.0,25,6,10,Yes,Semi-Furnished,0,8.4,7,2024-12-12,3093000
+H1231,Delhi,Penthouse,4,4.0,2071.0,8,3,3,Yes,Semi-Furnished,3,11.4,9,2023-02-28,23734000
+H1232,Ahmedabad,Penthouse,5,5.0,2229.0,12,4,8,Yes,Semi-Furnished,3,1.6,7,2025-02-09,14672000
+H1233,Vadodara,Apartment,3,3.0,1288.0,3,2,10,Yes,Unfurnished,0,10.1,4,2024-01-24,4182000
+H1234,Jaipur,Apartment,3,3.0,1227.0,8,20,26,No,Semi-Furnished,0,7.1,6,2025-04-25,5781000
+H1235,Pune,Penthouse,4,5.0,1643.0,14,9,13,Yes,Semi-Furnished,0,2.0,7,2025-05-18,13468000
+H1236,Bangalore,Apartment,5,4.0,2373.0,13,4,6,No,Unfurnished,2,3.8,9,2023-12-05,14998000
+H1237,Mumbai,Penthouse,3,3.0,1488.0,18,1,2,Yes,Semi-Furnished,4,5.9,5,2025-01-26,18759000
+H1238,Vadodara,Apartment,3,4.0,1143.0,11,21,23,No,Furnished,3,8.4,6,2024-08-18,4537000
+H1239,Jaipur,Apartment,3,3.0,1366.0,20,10,16,Yes,Semi-Furnished,3,3.1,3,2024-03-11,4869000
+H1240,Bangalore,Penthouse,3,3.0,1338.0,25,8,9,No,Furnished,1,6.6,9,2024-01-12,13368000
+H1241,Bangalore,Apartment,2,2.0,1007.0,24,2,2,Yes,Furnished,2,8.3,6,2024-01-26,5848000
+H1242,Surat,Apartment,3,3.0,1241.0,5,10,19,Yes,Furnished,0,5.6,4,2024-04-25,4283000
+H1243,Jaipur,Apartment,4,5.0,1948.0,2,7,14,Yes,Furnished,0,10.4,10,2025-03-31,8526000
+H1244,Ahmedabad,Row House,3,4.0,1350.0,25,22,30,No,Semi-Furnished,2,10.5,3,2023-04-24,5210000
+H1245,Chennai,Apartment,3,4.0,1417.0,24,2,2,No,Furnished,3,5.8,7,2025-02-12,6570000
+H1246,Delhi,Row House,3,3.0,1209.0,21,6,6,Yes,Furnished,0,11.7,9,2023-06-21,9836000
+H1247,Delhi,Apartment,2,2.0,818.0,19,5,19,No,Furnished,1,1.2,8,2023-01-18,4858000
+H1248,Pune,Row House,3,2.0,1828.0,15,16,17,Yes,Furnished,3,0.3,3,2023-08-23,11348000
+H1249,Pune,Row House,4,3.0,2074.0,19,15,27,Yes,Furnished,4,4.8,9,2024-12-23,13700000
+H1250,Delhi,Apartment,2,3.0,937.0,23,5,11,Yes,Semi-Furnished,2,7.3,10,2023-10-08,6551000
+H1251,Ahmedabad,Apartment,2,3.0,1226.0,22,3,5,Yes,Unfurnished,3,7.7,10,2025-04-10,5376000
+H1252,Mumbai,Apartment,5,5.0,2368.0,16,1,2,No,Unfurnished,4,5.9,3,2026-05-04,16586000
+H1253,Hyderabad,Villa,2,3.0,837.0,15,10,24,Yes,Unfurnished,1,1.8,4,2026-02-12,5031000
+H1254,Chennai,Apartment,2,1.0,820.0,5,5,9,Yes,Furnished,2,2.3,5,2024-02-22,4622000
+H1255,Mumbai,Apartment,5,4.0,2270.0,7,2,6,Yes,Furnished,0,10.3,3,2023-10-11,20659000
+H1256,Surat,Apartment,3,2.0,1397.0,18,1,3,Yes,Furnished,0,10.5,9,2024-08-07,4896000
+H1257,Hyderabad,Apartment,3,3.0,1278.0,24,8,25,Yes,Semi-Furnished,4,8.2,10,2024-09-13,7067000
+H1258,Hyderabad,Apartment,4,4.0,1880.0,25,2,18,Yes,Furnished,3,8.1,5,2023-08-09,9283000
+H1259,Jaipur,Villa,2,3.0,690.0,1,6,8,Yes,Semi-Furnished,1,7.3,6,2023-01-09,4181000
+H1260,Ahmedabad,Row House,3,3.0,1371.0,13,8,18,No,Furnished,4,2.7,8,2026-01-10,6683000
+H1261,Ahmedabad,Apartment,3,3.0,1127.0,21,23,29,No,Furnished,1,5.3,4,2025-04-11,4908000
+H1262,Hyderabad,Apartment,4,4.0,1533.0,11,4,7,Yes,Unfurnished,1,8.4,10,2024-01-10,7802000
+H1263,Jaipur,Apartment,3,3.0,1223.0,16,30,30,Yes,Semi-Furnished,1,6.6,7,2024-06-17,4738000
+H1264,Chennai,Penthouse,3,2.0,1415.0,14,19,23,Yes,Unfurnished,2,0.5,10,2026-01-27,10999000
+H1265,Hyderabad,Row House,3,2.0,1228.0,17,16,16,Yes,Semi-Furnished,4,11.5,9,2024-12-02,7992000
+H1266,Vadodara,Row House,3,3.0,1131.0,15,2,6,Yes,Unfurnished,2,10.2,9,2025-04-11,4366000
+H1267,Pune,Row House,3,3.0,1436.0,12,14,16,Yes,Semi-Furnished,3,3.3,9,2025-02-15,10112000
+H1268,Pune,Apartment,3,3.0,1619.0,20,1,19,Yes,Unfurnished,3,7.5,3,2025-07-28,6734000
+H1269,Mumbai,Penthouse,3,4.0,1465.0,16,15,19,No,Furnished,0,11.1,8,2024-03-22,21187000
+H1270,Surat,Villa,3,4.0,1674.0,7,18,26,Yes,Semi-Furnished,0,1.4,8,2024-11-10,7811000
+H1271,Pune,Apartment,3,3.0,,0,22,22,Yes,Semi-Furnished,0,6.2,5,2023-12-10,9140000
+H1272,Bangalore,Row House,3,3.0,1262.0,24,12,22,No,Semi-Furnished,3,5.6,3,2024-02-29,8658000
+H1273,Mumbai,Apartment,4,4.0,1864.0,25,1,24,Yes,Unfurnished,1,5.1,9,2024-09-16,14349000
+H1274,Pune,Villa,3,4.0,1334.0,2,7,7,Yes,Unfurnished,1,10.1,8,2023-11-02,10595000
+H1275,Surat,Apartment,4,4.0,1941.0,15,3,3,Yes,Semi-Furnished,4,4.8,10,2023-05-28,7076000
+H1276,Ahmedabad,Apartment,4,4.0,1733.0,1,28,28,No,Semi-Furnished,3,1.0,9,2025-04-28,8950000
+H1277,Ahmedabad,Villa,3,2.0,1208.0,14,1,18,Yes,Semi-Furnished,0,1.1,9,2025-01-01,7245000
+H1278,Chennai,Apartment,3,3.0,1597.0,0,7,22,No,Unfurnished,3,0.8,9,2024-03-29,7997000
+H1279,Hyderabad,Apartment,4,4.0,1807.0,8,2,5,Yes,Semi-Furnished,1,5.1,4,2025-07-26,9409000
+H1280,Vadodara,Apartment,3,4.0,1231.0,15,7,13,Yes,Furnished,1,8.7,7,2023-02-02,4622000
+H1281,Ahmedabad,Penthouse,4,4.0,1660.0,3,19,20,Yes,Semi-Furnished,2,2.7,6,2026-05-01,11334000
+H1282,Jaipur,Apartment,3,3.0,1229.0,11,3,3,Yes,Furnished,2,7.9,10,2026-04-18,4674000
+H1283,Pune,Apartment,3,4.0,1170.0,0,13,27,No,Semi-Furnished,4,8.3,6,2025-09-10,6860000
+H1284,Jaipur,Row House,2,3.0,864.0,0,1,3,Yes,Furnished,3,3.3,5,2024-01-26,4341000
+H1285,Surat,Penthouse,3,2.0,1417.0,6,8,15,Yes,Semi-Furnished,2,7.3,8,2023-12-23,8894000
+H1286,Ahmedabad,Apartment,5,5.0,2162.0,17,5,16,Yes,Semi-Furnished,2,8.3,6,2024-07-26,7764000
+H1287,Vadodara,Penthouse,3,3.0,1271.0,22,19,21,No,Furnished,3,5.8,5,2024-04-08,6628000
+H1288,Surat,Penthouse,3,4.0,1619.0,22,1,3,Yes,Furnished,1,4.2,7,2025-07-18,8844000
+H1289,Bangalore,Row House,4,3.0,1388.0,14,1,5,No,Semi-Furnished,4,7.5,9,2023-04-09,11153000
+H1290,Bangalore,Apartment,3,3.0,1405.0,25,18,20,Yes,Furnished,4,11.7,10,2023-05-28,9589000
+H1291,Jaipur,Apartment,3,4.0,1324.0,24,8,10,Yes,Furnished,4,5.3,10,2024-07-23,4646000
+H1292,Hyderabad,Apartment,3,3.0,1175.0,12,1,8,Yes,Unfurnished,2,4.9,3,2024-12-27,6421000
+H1293,Mumbai,Apartment,3,3.0,1416.0,15,11,14,Yes,Unfurnished,1,5.7,4,2025-09-28,11344000
+H1294,Hyderabad,Villa,2,2.0,910.0,6,28,28,Yes,Unfurnished,4,1.2,7,2026-04-20,6387000
+H1295,Chennai,Apartment,3,3.0,1574.0,15,5,13,Yes,Unfurnished,3,6.8,7,2023-10-30,7066000
+H1296,Hyderabad,Villa,3,4.0,1506.0,12,1,4,Yes,Furnished,4,4.1,6,2023-01-04,11002000
+H1297,Chennai,Apartment,2,2.0,1293.0,13,12,14,No,Furnished,0,1.7,6,2025-02-16,6603000
+H1298,Chennai,Apartment,3,4.0,1263.0,16,9,16,Yes,Furnished,1,5.8,4,2023-04-17,6139000
+H1299,Vadodara,Row House,3,4.0,,11,2,15,Yes,Unfurnished,0,0.3,10,2023-03-16,6088000
+H1300,Ahmedabad,Apartment,2,2.0,740.0,23,23,25,Yes,Semi-Furnished,1,5.0,3,2025-11-29,3155000
+H1301,Vadodara,Apartment,3,4.0,1330.0,23,1,10,Yes,Furnished,3,1.5,7,2024-09-30,5664000
+H1302,Chennai,Penthouse,1,1.0,500.0,19,3,14,Yes,Semi-Furnished,2,0.6,8,2024-11-25,3278000
+H1303,Surat,Apartment,3,3.0,1458.0,12,22,24,Yes,Semi-Furnished,2,,6,2026-02-16,5236000
+H1304,Bangalore,Villa,4,4.0,1854.0,23,10,23,Yes,Semi-Furnished,1,11.0,10,2023-03-14,16475000
+H1305,Chennai,Penthouse,3,3.0,1188.0,19,2,5,Yes,Unfurnished,4,2.7,7,2024-07-05,8129000
+H1306,Vadodara,Apartment,2,1.0,1068.0,14,7,22,Yes,Semi-Furnished,0,6.6,3,2026-05-12,3699000
+H1307,Surat,Penthouse,2,2.0,882.0,23,4,9,Yes,Unfurnished,3,3.6,10,2025-09-03,5765000
+H1308,Vadodara,Apartment,2,2.0,803.0,20,2,4,Yes,Semi-Furnished,4,6.1,5,2023-04-06,3185000
+H1309,Hyderabad,Apartment,3,3.0,1348.0,3,3,3,Yes,Semi-Furnished,2,5.4,3,2026-03-12,6885000
+H1310,Pune,Apartment,2,2.0,684.0,21,6,20,Yes,Unfurnished,4,3.4,7,2026-02-12,3071000
+H1311,Jaipur,Apartment,3,3.0,1518.0,1,10,29,Yes,Unfurnished,0,8.5,7,2025-06-02,5682000
+H1312,Mumbai,Row House,2,2.0,940.0,17,9,24,Yes,Furnished,2,1.8,4,2026-03-02,9192000
+H1313,Vadodara,Apartment,4,3.0,1744.0,1,8,9,Yes,Furnished,1,0.9,10,2026-04-06,7248000
+H1314,Mumbai,Apartment,2,3.0,934.0,24,11,18,Yes,Semi-Furnished,3,9.3,10,2026-06-22,8346000
+H1315,Delhi,Apartment,2,2.0,1246.0,14,9,14,Yes,Semi-Furnished,3,8.1,10,2023-10-04,9327000
+H1316,Vadodara,Villa,4,4.0,2023.0,25,4,8,Yes,Semi-Furnished,2,6.1,7,2023-09-16,6697000
+H1317,Pune,Apartment,2,1.0,1193.0,18,4,10,Yes,Unfurnished,1,5.8,10,2023-02-15,5690000
+H1318,Mumbai,Apartment,2,3.0,935.0,14,9,13,Yes,Furnished,0,6.1,10,2023-12-12,9858000
+H1319,Chennai,Villa,3,2.0,1149.0,25,8,30,Yes,Semi-Furnished,3,5.4,6,2025-04-26,7553000
+H1320,Vadodara,Apartment,3,3.0,1347.0,19,12,15,Yes,Furnished,2,4.9,8,2025-06-13,4528000
+H1321,Ahmedabad,Apartment,3,2.0,1407.0,9,15,15,Yes,Unfurnished,3,6.1,4,2026-06-14,5276000
+H1322,Jaipur,Apartment,2,3.0,1096.0,23,2,16,Yes,Unfurnished,1,6.5,7,2025-12-12,3475000
+H1323,Pune,Apartment,3,3.0,1406.0,19,4,4,Yes,Semi-Furnished,0,8.4,10,2026-03-17,8683000
+H1324,Mumbai,Row House,2,3.0,765.0,10,1,16,Yes,Furnished,1,8.6,3,2026-01-18,8080000
+H1325,Pune,Apartment,2,1.0,854.0,25,9,20,Yes,Semi-Furnished,4,4.7,7,2023-08-21,3264000
+H1326,Surat,Apartment,4,4.0,1637.0,9,9,25,Yes,Semi-Furnished,1,5.1,3,2023-02-20,6545000
+H1327,Jaipur,Apartment,3,3.0,1447.0,22,13,21,Yes,Semi-Furnished,1,4.7,3,2024-10-26,5050000
+H1328,Chennai,Villa,2,2.0,1051.0,4,15,15,Yes,Unfurnished,3,6.6,7,2026-05-22,6074000
+H1329,Vadodara,Villa,3,3.0,1475.0,8,8,9,Yes,Unfurnished,1,5.6,3,2024-03-26,5441000
+H1330,Vadodara,Apartment,2,3.0,1004.0,19,3,6,No,Semi-Furnished,2,10.7,8,2023-12-17,2718000
+H1331,Vadodara,Villa,4,4.0,1379.0,18,5,20,Yes,Semi-Furnished,3,8.4,5,2024-10-10,5687000
+H1332,Jaipur,Villa,2,3.0,639.0,12,5,5,Yes,Furnished,3,10.8,4,2025-05-27,4152000
+H1333,Ahmedabad,Row House,1,1.0,525.0,17,3,15,Yes,Semi-Furnished,4,8.6,7,2024-08-05,1719000
+H1334,Delhi,Penthouse,3,3.0,1368.0,16,4,17,No,Semi-Furnished,2,11.7,9,2023-09-02,14429000
+H1335,Bangalore,Apartment,3,4.0,1576.0,5,17,21,No,Furnished,1,7.7,5,2024-07-03,11181000
+H1336,Hyderabad,Apartment,3,3.0,1364.0,9,16,25,Yes,Furnished,4,11.6,10,2024-12-28,8418000
+H1337,Mumbai,Apartment,1,1.0,500.0,1,1,7,No,Furnished,2,2.2,3,2024-09-30,4350000
+H1338,Ahmedabad,Apartment,2,2.0,1069.0,23,20,24,Yes,Furnished,4,0.9,3,2024-08-06,4821000
+H1339,Chennai,Row House,3,4.0,1347.0,5,3,26,Yes,Semi-Furnished,0,7.1,4,2023-08-14,7534000
+H1340,Mumbai,Apartment,2,1.0,878.0,20,6,7,Yes,Semi-Furnished,1,11.8,5,2025-04-06,7115000
+H1341,Vadodara,Apartment,4,4.0,1459.0,12,1,4,Yes,Semi-Furnished,4,5.2,5,2024-03-16,5113000
+H1342,Pune,Penthouse,2,2.0,965.0,17,5,16,Yes,Semi-Furnished,0,2.8,7,2024-02-16,7664000
+H1343,Chennai,Apartment,3,3.0,1391.0,6,16,30,Yes,Semi-Furnished,1,6.4,10,2025-03-24,7419000
+H1344,Mumbai,Apartment,3,2.0,1171.0,1,3,4,Yes,Unfurnished,4,7.9,3,2023-09-03,9372000
+H1345,Vadodara,Apartment,2,3.0,1084.0,13,7,12,Yes,Semi-Furnished,4,4.0,9,2024-08-05,4924000
+H1346,Mumbai,Apartment,3,3.0,1468.0,4,2,4,No,Unfurnished,4,8.7,6,2024-05-14,12801000
+H1347,Pune,Villa,4,4.0,1759.0,17,10,29,Yes,Semi-Furnished,4,11.7,10,2025-09-08,12911000
+H1348,Vadodara,Apartment,2,2.0,952.0,10,9,11,Yes,Semi-Furnished,3,10.8,9,2024-07-03,4143000
+H1349,Delhi,Apartment,4,4.0,1920.0,9,15,19,Yes,Furnished,4,3.7,7,2023-04-27,15063000
+H1350,Ahmedabad,Apartment,3,3.0,1416.0,10,2,2,Yes,Semi-Furnished,3,4.1,7,2023-07-23,6345000
+H1351,Surat,Apartment,2,1.0,824.0,1,2,17,Yes,Unfurnished,3,4.6,7,2023-12-17,2590000
+H1352,Hyderabad,Villa,3,2.0,1314.0,14,17,17,No,Unfurnished,0,4.9,4,2023-11-15,7238000
+H1353,Jaipur,Apartment,2,2.0,1050.0,6,28,28,No,Unfurnished,1,1.5,4,2025-07-28,3892000
+H1354,Hyderabad,Apartment,3,3.0,984.0,8,1,11,No,Furnished,3,9.2,10,2024-05-03,6467000
+H1355,Chennai,Row House,4,5.0,1582.0,4,1,2,Yes,Semi-Furnished,2,4.6,7,2023-04-17,8909000
+H1356,Hyderabad,Villa,4,4.0,1873.0,6,4,5,Yes,Semi-Furnished,3,10.6,8,2024-10-15,13916000
+H1357,Vadodara,Apartment,5,5.0,2368.0,19,4,4,Yes,Semi-Furnished,2,11.1,6,2023-06-21,7705000
+H1358,Delhi,Apartment,4,4.0,1934.0,1,4,6,Yes,Furnished,0,0.6,5,2024-06-02,15789000
+H1359,Surat,Penthouse,3,3.0,1511.0,2,8,13,Yes,Unfurnished,2,11.9,5,2025-08-15,7854000
+H1360,Ahmedabad,Villa,2,2.0,973.0,1,1,26,Yes,Unfurnished,0,8.6,3,2025-03-23,4979000
+H1361,Ahmedabad,Apartment,3,3.0,1165.0,20,10,13,No,Semi-Furnished,0,6.4,5,2024-06-11,4614000
+H1362,Pune,Row House,1,2.0,515.0,21,3,14,Yes,Furnished,0,4.9,9,2023-11-16,3371000
+H1363,Jaipur,Apartment,3,4.0,991.0,22,11,25,Yes,Furnished,2,6.4,5,2025-11-26,3952000
+H1364,Mumbai,Apartment,3,2.0,1584.0,18,1,13,Yes,Semi-Furnished,2,4.1,6,2024-05-13,14046000
+H1365,Delhi,Apartment,1,1.0,500.0,3,25,26,Yes,Furnished,0,7.6,5,2023-09-22,3667000
+H1366,Mumbai,Apartment,1,1.0,500.0,23,10,17,No,Unfurnished,0,1.4,9,2025-06-26,3947000
+H1367,Surat,Penthouse,2,2.0,1141.0,19,12,14,Yes,Semi-Furnished,1,7.6,6,2024-02-06,5572000
+H1368,Hyderabad,Apartment,3,2.0,1059.0,6,1,6,Yes,Semi-Furnished,0,3.5,4,2025-09-13,5663000
+H1369,Ahmedabad,Apartment,3,3.0,1136.0,21,7,25,Yes,Semi-Furnished,4,0.5,6,2024-08-24,4625000
+H1370,Surat,Penthouse,3,3.0,1398.0,6,5,5,Yes,Furnished,1,,4,2025-08-09,8473000
+H1371,Hyderabad,Apartment,3,2.0,1444.0,16,12,22,Yes,Unfurnished,1,7.1,6,2023-08-06,7008000
+H1372,Ahmedabad,Apartment,3,2.0,1337.0,18,15,16,No,Semi-Furnished,1,5.3,7,2023-11-26,5152000
+H1373,Hyderabad,Apartment,2,2.0,943.0,21,8,13,Yes,Unfurnished,4,1.1,9,2023-07-05,4869000
+H1374,Jaipur,Apartment,2,2.0,1178.0,15,17,20,Yes,Semi-Furnished,1,10.8,8,2023-07-28,4156000
+H1375,Delhi,Apartment,3,4.0,1465.0,2,5,22,Yes,Semi-Furnished,1,7.5,10,2023-10-15,11063000
+H1376,Chennai,Villa,3,3.0,1440.0,14,14,29,Yes,Furnished,2,1.7,4,2023-03-29,8108000
+H1377,Surat,Apartment,1,2.0,690.0,13,2,20,Yes,Semi-Furnished,2,6.3,4,2025-09-29,2650000
+H1378,Surat,Apartment,2,1.0,896.0,14,16,22,Yes,Semi-Furnished,0,6.1,5,2023-05-16,3039000
+H1379,Bangalore,Penthouse,2,2.0,1341.0,13,1,12,Yes,Semi-Furnished,0,1.0,4,2023-06-07,13095000
+H1380,Vadodara,Villa,3,4.0,935.0,6,3,22,No,Semi-Furnished,3,7.4,6,2025-03-04,4452000
+H1381,Jaipur,Apartment,2,1.0,1212.0,24,7,7,Yes,Furnished,4,9.8,7,2025-07-08,4514000
+H1382,Jaipur,Apartment,3,3.0,1512.0,2,1,10,No,Unfurnished,2,9.1,7,2023-06-04,5165000
+H1383,Mumbai,Apartment,4,4.0,1795.0,16,1,2,No,Unfurnished,0,2.7,5,2023-08-08,13742000
+H1384,Hyderabad,Apartment,2,3.0,964.0,9,2,13,Yes,Furnished,4,10.4,6,2026-04-05,6367000
+H1385,Vadodara,Apartment,5,5.0,2122.0,14,18,27,Yes,Unfurnished,1,4.3,6,2023-11-18,5394000
+H1386,Delhi,Apartment,3,4.0,1549.0,5,4,15,No,Furnished,4,11.4,3,2024-11-21,11028000
+H1387,Delhi,Row House,3,2.0,1343.0,16,7,7,No,Semi-Furnished,2,1.1,10,2025-04-20,11640000
+H1388,Jaipur,Apartment,3,3.0,1219.0,16,2,2,Yes,Furnished,3,6.0,4,2024-05-26,4023000
+H1389,Delhi,Penthouse,3,4.0,1512.0,13,19,23,Yes,Unfurnished,2,7.3,5,2023-03-28,14120000
+H1390,Bangalore,Apartment,3,3.0,1635.0,23,3,3,No,Furnished,0,3.2,7,2023-10-02,9941000
+H1391,Surat,Penthouse,3,2.0,1003.0,24,10,25,Yes,Semi-Furnished,0,9.3,9,2023-05-21,5090000
+H1392,Pune,Villa,1,1.0,974.0,17,5,12,No,Semi-Furnished,4,7.6,8,2024-09-16,5777000
+H1393,Chennai,Penthouse,1,2.0,500.0,24,3,4,Yes,Furnished,2,0.5,3,2025-07-04,3927000
+H1394,Mumbai,Apartment,2,1.0,777.0,4,11,11,Yes,Semi-Furnished,0,7.4,10,2023-12-19,8227000
+H1395,Hyderabad,Apartment,2,2.0,726.0,7,7,7,Yes,Furnished,1,6.1,6,2025-10-25,3690000
+H1396,Chennai,Apartment,2,3.0,950.0,6,5,7,Yes,Semi-Furnished,1,2.6,4,2024-01-17,4964000
+H1397,Hyderabad,Villa,2,3.0,720.0,22,20,21,Yes,Unfurnished,3,12.0,7,2024-04-19,4565000
+H1398,Ahmedabad,Apartment,3,2.0,1142.0,3,12,22,Yes,Unfurnished,4,10.8,9,2025-07-16,4895000
+H1399,Chennai,Apartment,4,3.0,1626.0,17,3,3,Yes,Unfurnished,0,3.7,3,2023-01-30,7609000
+H1400,Pune,Apartment,4,4.0,1775.0,4,15,27,No,Semi-Furnished,3,6.6,6,2025-07-10,10298000
+H1401,Jaipur,Apartment,3,4.0,1392.0,15,12,27,Yes,Furnished,1,4.0,7,2024-08-16,6141000
+H1402,Bangalore,Apartment,3,2.0,,13,4,25,Yes,Semi-Furnished,3,9.4,7,2024-05-07,10357000
+H1403,Surat,Apartment,4,4.0,1969.0,18,2,11,Yes,Furnished,3,11.2,6,2024-05-09,6116000
+H1404,Surat,Row House,3,3.0,1534.0,13,17,24,Yes,Unfurnished,0,4.5,6,2024-01-23,4373000
+H1405,Bangalore,Villa,2,1.0,903.0,8,19,27,Yes,Furnished,0,9.7,5,2025-05-22,8094000
+H1406,Vadodara,Row House,4,5.0,1419.0,5,3,7,Yes,Unfurnished,0,6.1,7,2025-04-14,6114000
+H1407,Ahmedabad,Apartment,3,3.0,1015.0,16,2,24,Yes,Furnished,4,4.9,6,2026-06-30,4435000
+H1408,Hyderabad,Row House,3,3.0,1533.0,18,16,29,Yes,Unfurnished,3,11.3,8,2024-09-21,8747000
+H1409,Pune,Penthouse,2,2.0,1102.0,11,1,18,Yes,Furnished,3,6.3,10,2025-07-27,9890000
+H1410,Delhi,Villa,2,2.0,839.0,3,1,15,Yes,Furnished,4,5.8,9,2023-01-30,9243000
+H1411,Chennai,Villa,4,4.0,1491.0,15,2,6,Yes,Semi-Furnished,1,8.2,9,2024-09-14,9761000
+H1412,Ahmedabad,Apartment,3,2.0,1162.0,24,13,24,No,Furnished,2,3.4,8,2025-03-17,4979000
+H1413,Chennai,Penthouse,2,2.0,981.0,10,5,18,No,Semi-Furnished,1,4.1,9,2023-12-08,6866000
+H1414,Pune,Apartment,2,3.0,982.0,21,1,3,No,Semi-Furnished,4,11.2,3,2025-09-27,4099000
+H1415,Mumbai,Apartment,3,3.0,1538.0,3,8,10,No,Furnished,3,8.2,9,2023-09-01,16192000
+H1416,Mumbai,Apartment,3,2.0,1269.0,16,13,13,Yes,Unfurnished,3,10.0,4,2023-08-09,8933000
+H1417,Ahmedabad,Row House,2,2.0,906.0,7,6,20,Yes,Semi-Furnished,0,3.5,9,2026-03-25,4098000
+H1418,Jaipur,Penthouse,4,5.0,1953.0,13,1,23,Yes,Semi-Furnished,0,6.7,8,2024-01-08,11031000
+H1419,Pune,Row House,2,2.0,567.0,1,2,8,No,Semi-Furnished,3,11.7,5,2024-06-14,3113000
+H1420,Pune,Villa,2,2.0,1007.0,10,5,10,No,Semi-Furnished,3,4.0,6,2023-08-03,7779000
+H1421,Bangalore,Apartment,3,3.0,1290.0,10,1,22,No,Furnished,0,2.2,4,2024-01-02,9259000
+H1422,Jaipur,Apartment,2,3.0,1078.0,23,11,17,Yes,Furnished,0,6.3,5,2023-04-24,3556000
+H1423,Hyderabad,Apartment,4,4.0,1842.0,21,7,21,Yes,Semi-Furnished,1,4.8,7,2026-05-08,9423000
+H1424,Hyderabad,Apartment,3,3.0,1225.0,23,2,12,Yes,Semi-Furnished,3,2.2,4,2023-01-25,5786000
+H1425,Delhi,Apartment,4,4.0,1659.0,5,5,13,Yes,Semi-Furnished,3,10.7,8,2025-07-22,13324000
+H1426,Surat,Apartment,2,2.0,536.0,20,4,16,Yes,Semi-Furnished,4,11.9,5,2026-02-18,1810000
+H1427,Mumbai,Apartment,2,3.0,1085.0,20,10,19,Yes,Semi-Furnished,1,7.0,6,2024-09-02,9279000
+H1428,Hyderabad,Row House,2,3.0,993.0,13,15,20,No,Furnished,2,9.4,6,2025-05-07,6222000
+H1429,Jaipur,Apartment,3,3.0,1602.0,9,4,17,Yes,Furnished,2,10.4,9,2025-10-23,6898000
+H1430,Pune,Row House,3,3.0,1278.0,25,16,16,No,Semi-Furnished,2,8.5,5,2025-06-16,6461000
+H1431,Hyderabad,Villa,4,4.0,1915.0,7,4,6,Yes,Furnished,0,0.8,7,2025-02-11,15494000
+H1432,Pune,Apartment,3,2.0,1157.0,6,8,12,No,Furnished,2,2.1,9,2024-03-20,7122000
+H1433,Hyderabad,Apartment,4,4.0,,7,8,16,No,Furnished,4,1.1,8,2026-07-01,7403000
+H1434,Mumbai,Apartment,3,3.0,1333.0,7,18,30,No,Unfurnished,0,0.4,5,2023-01-20,10445000
+H1435,Chennai,Apartment,2,3.0,848.0,22,6,19,Yes,Semi-Furnished,0,3.9,3,2026-05-12,3395000
+H1436,Hyderabad,Villa,2,2.0,761.0,1,5,14,No,Furnished,2,4.9,5,2025-03-16,5798000
+H1437,Jaipur,Apartment,3,2.0,1512.0,15,2,5,Yes,Furnished,0,3.1,5,2023-05-08,5912000
+H1438,Hyderabad,Apartment,2,2.0,1167.0,8,12,18,Yes,,1,1.1,8,2023-12-24,6963000
+H1439,Surat,Apartment,2,3.0,969.0,12,2,5,Yes,Semi-Furnished,1,6.5,6,2026-04-12,3576000
+H1440,Mumbai,Row House,3,4.0,1317.0,22,4,17,No,Semi-Furnished,2,3.5,9,2025-05-30,13518000
+H1441,Jaipur,Penthouse,4,4.0,1761.0,11,23,24,Yes,Unfurnished,4,9.6,7,2025-11-26,9176000
+H1442,Bangalore,Villa,2,3.0,832.0,21,13,16,No,Semi-Furnished,0,0.4,9,2025-07-05,6133000
+H1443,Jaipur,Apartment,4,4.0,1851.0,24,1,15,Yes,Furnished,3,10.2,5,2026-01-12,5879000
+H1444,Surat,Penthouse,4,5.0,1473.0,16,9,13,Yes,Semi-Furnished,2,11.5,4,2024-05-24,7639000
+H1445,Chennai,Penthouse,3,3.0,1157.0,1,2,4,No,Unfurnished,0,8.7,6,2024-03-19,8110000
+H1446,Mumbai,Villa,1,1.0,500.0,12,1,11,Yes,Semi-Furnished,2,8.9,6,2026-05-13,5877000
+H1447,Bangalore,Row House,2,1.0,1047.0,0,5,9,No,Semi-Furnished,2,11.2,10,2025-02-17,8668000
+H1448,Surat,Apartment,3,3.0,1296.0,25,7,7,Yes,Furnished,4,2.7,5,2026-01-16,4158000
+H1449,Surat,Row House,3,3.0,1595.0,18,18,23,Yes,Semi-Furnished,3,11.9,8,2023-09-09,6047000
+H1450,Ahmedabad,Row House,4,5.0,1895.0,10,4,15,Yes,Semi-Furnished,0,9.3,4,2025-11-20,9200000
+H1451,Mumbai,Apartment,3,3.0,1206.0,4,2,18,Yes,Unfurnished,2,8.8,5,2024-02-25,10185000
+H1452,Jaipur,Apartment,2,3.0,1064.0,0,4,22,Yes,Semi-Furnished,2,4.5,4,2023-03-02,4844000
+H1453,Pune,Row House,2,1.0,877.0,19,15,20,Yes,Semi-Furnished,0,6.7,6,2024-08-01,4921000
+H1454,Chennai,Apartment,3,2.0,1435.0,12,6,17,Yes,Furnished,2,8.0,4,2026-06-03,7235000
+H1455,Pune,Apartment,2,1.0,1103.0,7,6,16,Yes,Furnished,2,7.6,9,2024-08-01,6222000
+H1456,Jaipur,Row House,2,3.0,1151.0,5,12,27,Yes,Semi-Furnished,2,8.5,5,2024-10-01,5345000
+H1457,Jaipur,Apartment,3,2.0,1386.0,16,13,16,No,Furnished,1,1.3,3,2023-04-21,4069000
+H1458,Mumbai,Apartment,1,1.0,838.0,11,2,2,Yes,Semi-Furnished,1,4.5,3,2024-05-05,7327000
+H1459,Jaipur,Villa,2,1.0,1029.0,0,20,25,No,Furnished,3,5.4,4,2023-02-03,4471000
+H1460,Ahmedabad,Apartment,3,2.0,1374.0,2,4,24,Yes,Semi-Furnished,4,3.3,8,2023-07-31,6146000
+H1461,Bangalore,Apartment,2,2.0,896.0,13,1,24,Yes,Unfurnished,0,2.3,5,2023-05-05,5774000
+H1462,Jaipur,Apartment,2,1.0,836.0,25,2,13,Yes,Semi-Furnished,4,1.9,7,2026-01-31,3787000
+H1463,Pune,Villa,3,2.0,1426.0,7,3,11,Yes,Furnished,4,4.6,3,2026-02-17,9297000
+H1464,Jaipur,Apartment,4,4.0,1768.0,10,13,15,Yes,Semi-Furnished,1,6.1,10,2025-06-12,6656000
+H1465,Ahmedabad,Villa,2,2.0,997.0,13,11,11,Yes,Unfurnished,3,1.0,6,2023-11-27,6076000
+H1466,Hyderabad,Villa,3,4.0,1437.0,7,5,11,No,Semi-Furnished,4,11.4,9,2024-02-16,10826000
+H1467,Hyderabad,Apartment,2,2.0,996.0,2,3,21,Yes,Furnished,4,9.3,5,2025-07-22,5437000
+H1468,Surat,Villa,3,2.0,1712.0,6,22,30,Yes,Furnished,2,8.9,5,2026-04-01,9201000
+H1469,Chennai,Apartment,4,3.0,1655.0,18,7,12,Yes,Furnished,0,2.3,9,2024-10-25,8966000
+H1470,Delhi,Villa,3,2.0,1428.0,3,6,23,Yes,Furnished,3,7.4,3,2025-12-24,14234000
+H1471,Bangalore,Apartment,4,5.0,1709.0,24,1,17,Yes,Unfurnished,0,6.5,9,2026-05-24,8891000
+H1472,Vadodara,Row House,2,1.0,507.0,15,19,30,Yes,Unfurnished,1,11.8,9,2024-08-25,3165000
+H1473,Surat,Apartment,1,1.0,515.0,12,7,10,No,Furnished,4,9.0,7,2023-01-26,1997000
+H1474,Chennai,Apartment,4,4.0,1581.0,19,4,16,Yes,Furnished,4,7.0,10,2024-10-30,8250000
+H1475,Hyderabad,Villa,2,3.0,938.0,18,12,15,No,Furnished,0,10.3,9,2024-08-06,7537000
+H1476,Pune,Apartment,2,2.0,945.0,4,20,20,Yes,Unfurnished,1,2.1,6,2025-12-03,4639000
+H1477,Vadodara,Apartment,3,2.0,1419.0,22,7,10,Yes,Semi-Furnished,2,0.5,7,2026-01-18,3940000
+H1478,Chennai,Apartment,4,3.0,1655.0,4,1,5,Yes,Semi-Furnished,2,8.4,6,2026-03-02,8150000
+H1479,Chennai,Villa,4,3.0,1677.0,19,18,22,Yes,Semi-Furnished,4,1.5,3,2026-03-30,9382000
+H1480,Surat,Villa,2,2.0,1076.0,23,1,8,Yes,Semi-Furnished,4,1.7,5,2024-01-15,4484000
+H1481,Vadodara,Apartment,4,4.0,1604.0,3,19,23,Yes,Semi-Furnished,3,9.0,6,2024-01-04,6132000
+H1482,Mumbai,Apartment,1,2.0,500.0,1,22,27,Yes,Furnished,0,3.5,5,2026-02-08,4587000
+H1483,Delhi,Apartment,1,1.0,578.0,25,4,9,Yes,Semi-Furnished,4,7.7,4,2026-01-05,3729000
+H1484,Mumbai,Villa,3,2.0,1543.0,12,1,25,Yes,Semi-Furnished,1,11.0,4,2023-07-28,17146000
+H1485,Vadodara,Villa,1,1.0,674.0,15,9,9,Yes,Furnished,0,4.0,10,2025-11-02,3289000
+H1486,Mumbai,Apartment,2,1.0,982.0,21,15,20,Yes,Furnished,3,2.8,3,2023-01-25,8729000
+H1487,Ahmedabad,Apartment,3,2.0,1575.0,1,6,16,Yes,Semi-Furnished,2,1.5,10,2024-06-29,8124000
+H1488,Hyderabad,Apartment,2,2.0,1145.0,18,8,17,Yes,Semi-Furnished,3,1.8,3,2026-03-09,5678000
+H1489,Ahmedabad,Apartment,2,2.0,890.0,16,15,27,Yes,Semi-Furnished,0,1.0,8,2023-10-02,3664000
+H1490,Jaipur,Apartment,2,2.0,995.0,4,15,23,Yes,Unfurnished,2,1.3,3,2025-05-23,4439000
+H1491,Mumbai,Apartment,3,4.0,1402.0,24,18,24,Yes,Furnished,1,5.4,4,2023-08-10,11782000
+H1492,Jaipur,Villa,3,3.0,1334.0,17,7,10,Yes,Furnished,2,4.1,6,2025-11-26,6450000
+H1493,Pune,Apartment,4,3.0,1954.0,22,22,27,Yes,Furnished,2,8.6,9,2025-05-24,11472000
+H1494,Bangalore,Row House,3,3.0,1323.0,20,18,27,Yes,Semi-Furnished,1,10.5,9,2026-02-26,10190000
+H1495,Pune,Apartment,3,3.0,1260.0,17,2,13,Yes,Semi-Furnished,4,9.5,9,2023-08-06,6440000
+H1496,Vadodara,Penthouse,4,4.0,1284.0,7,4,17,Yes,Semi-Furnished,4,6.5,7,2026-06-25,7035000
+H1497,Chennai,Villa,2,3.0,806.0,14,4,5,No,Furnished,2,1.5,9,2023-04-21,5152000
+H1498,Hyderabad,Apartment,2,3.0,713.0,12,3,6,Yes,Semi-Furnished,2,8.6,3,2025-03-26,2713000
+H1499,Mumbai,Apartment,4,3.0,1743.0,12,8,9,Yes,Unfurnished,3,4.5,9,2024-12-08,14753000
+H1500,Surat,Villa,2,3.0,724.0,15,2,2,Yes,Unfurnished,4,1.3,7,2023-05-27,3805000
+H1501,Bangalore,Apartment,5,5.0,2260.0,21,23,29,Yes,Unfurnished,1,10.2,7,2024-07-05,13491000
+H1502,Delhi,Row House,3,4.0,1550.0,19,2,7,Yes,Semi-Furnished,2,4.3,4,2023-05-14,10832000
+H1503,Delhi,Apartment,4,3.0,1744.0,12,3,16,No,Unfurnished,2,2.9,8,2024-04-08,11151000
+H1504,Delhi,Row House,3,3.0,1173.0,19,2,5,No,Furnished,3,10.5,6,2025-05-13,9915000
+H1505,Mumbai,Apartment,3,4.0,1402.0,1,5,22,Yes,Furnished,3,10.9,4,2026-04-29,14229000
+H1506,Delhi,Villa,2,3.0,1291.0,2,2,12,Yes,Furnished,3,4.3,3,2026-04-01,13080000
+H1507,Ahmedabad,Villa,3,3.0,1635.0,14,3,6,Yes,Semi-Furnished,0,4.5,4,2024-03-31,8693000
+H1508,Bangalore,Villa,3,2.0,1097.0,22,2,19,Yes,Unfurnished,1,7.1,4,2025-12-20,8204000
+H1509,Ahmedabad,Apartment,4,5.0,1490.0,18,2,25,Yes,Furnished,0,8.9,4,2025-10-25,6335000
+H1510,Chennai,Villa,2,2.0,644.0,12,6,16,Yes,Semi-Furnished,2,1.0,3,2025-11-26,4885000
+H1511,Bangalore,Apartment,2,2.0,745.0,4,18,19,Yes,Semi-Furnished,3,7.2,3,2024-04-04,5049000
+H1512,Ahmedabad,Villa,2,2.0,995.0,25,20,21,Yes,Unfurnished,3,11.4,10,2026-05-25,4949000
+H1513,Bangalore,Apartment,3,3.0,1250.0,21,25,29,Yes,Semi-Furnished,3,3.4,4,2023-05-19,6399000
+H1514,Chennai,Row House,4,5.0,1599.0,5,5,14,No,Unfurnished,4,10.9,4,2024-09-09,8554000
+H1515,Jaipur,Apartment,2,3.0,1137.0,13,6,6,Yes,Furnished,1,11.4,7,2026-01-27,4057000
+H1516,Mumbai,Penthouse,3,4.0,1445.0,3,2,2,No,Furnished,0,3.4,10,2024-11-10,22830000
+H1517,Mumbai,Row House,2,2.0,643.0,21,15,23,Yes,Semi-Furnished,1,9.1,6,2025-08-18,6181000
+H1518,Delhi,Penthouse,3,3.0,1527.0,18,12,19,Yes,Semi-Furnished,3,3.1,7,2024-08-21,15404000
+H1519,Pune,Apartment,4,3.0,1841.0,22,11,15,Yes,Furnished,2,8.9,8,2024-08-18,10352000
+H1520,Delhi,Apartment,2,2.0,1045.0,6,3,6,Yes,Semi-Furnished,4,9.6,6,2026-06-01,8022000
+H1521,Vadodara,Row House,3,4.0,1247.0,3,6,7,Yes,Semi-Furnished,1,3.2,10,2023-01-11,5108000
+H1522,Ahmedabad,Apartment,5,4.0,2116.0,1,7,28,No,Semi-Furnished,2,8.7,8,2023-11-23,11367000
+H1523,Bangalore,Apartment,4,4.0,1395.0,6,12,25,No,Furnished,3,9.8,6,2024-01-14,10078000
+H1524,Pune,Villa,3,2.0,1506.0,2,16,26,Yes,Semi-Furnished,3,4.5,4,2023-08-19,10369000
+H1525,Chennai,Villa,3,4.0,1170.0,14,5,30,Yes,Semi-Furnished,3,2.3,10,2026-03-10,8901000
+H1526,Vadodara,Apartment,2,2.0,793.0,0,2,29,Yes,Furnished,3,1.4,10,2024-09-09,3828000
+H1527,Chennai,Villa,3,3.0,1191.0,1,16,17,Yes,Semi-Furnished,4,7.0,7,2025-02-03,8825000
+H1528,Mumbai,Penthouse,4,5.0,2074.0,9,23,23,Yes,Furnished,4,11.7,6,2023-02-18,30219000
+H1529,Mumbai,Apartment,3,3.0,1230.0,15,15,22,Yes,Furnished,1,9.9,8,2024-03-26,11924000
+H1530,Delhi,Row House,2,3.0,1120.0,24,11,13,Yes,Semi-Furnished,3,5.4,6,2024-05-05,6943000
+H1531,Ahmedabad,Apartment,2,2.0,946.0,14,6,21,Yes,Furnished,4,6.6,3,2026-05-13,3954000
+H1532,Pune,Apartment,2,2.0,801.0,23,13,19,Yes,Unfurnished,2,3.6,6,2024-02-11,5027000
+H1533,Hyderabad,Apartment,2,2.0,768.0,14,2,3,Yes,Semi-Furnished,4,2.2,9,2025-12-10,3911000
+H1534,Vadodara,Apartment,2,2.0,837.0,13,19,24,Yes,Unfurnished,4,5.9,4,2023-06-24,2696000
+H1535,Vadodara,Row House,3,3.0,1337.0,21,10,22,No,Furnished,1,5.7,5,2024-04-24,3839000
+H1536,Delhi,Apartment,2,3.0,1058.0,13,24,24,Yes,Semi-Furnished,4,6.4,3,2023-08-11,6656000
+H1537,Mumbai,Apartment,2,2.0,865.0,5,3,14,No,Furnished,2,11.4,5,2023-09-26,7724000
+H1538,Delhi,Apartment,3,4.0,1258.0,13,5,28,No,Unfurnished,3,7.4,10,2025-03-20,8628000
+H1539,Bangalore,Villa,2,1.0,791.0,16,7,18,No,Semi-Furnished,0,7.4,4,2025-06-11,6431000
+H1540,Pune,Villa,1,1.0,500.0,17,11,18,No,Furnished,1,1.8,9,2025-06-19,3139000
+H1541,Ahmedabad,Apartment,2,2.0,720.0,19,14,17,Yes,Unfurnished,2,12.0,10,2025-07-07,3132000
+H1542,Jaipur,Apartment,2,1.0,1128.0,18,21,22,No,Semi-Furnished,1,9.3,5,2023-11-14,3755000
+H1543,Surat,Row House,3,2.0,1255.0,16,16,19,Yes,Furnished,3,10.6,10,2024-01-20,5721000
+H1544,Surat,Apartment,2,2.0,871.0,15,2,9,Yes,Semi-Furnished,4,5.1,6,2024-09-17,3568000
+H1545,Delhi,Apartment,3,3.0,1230.0,7,1,4,No,Semi-Furnished,4,6.2,5,2026-05-27,9393000
+H1546,Bangalore,Apartment,4,5.0,1693.0,6,4,18,Yes,Furnished,2,6.4,7,2025-12-13,12421000
+H1547,Pune,Penthouse,3,2.0,1417.0,19,1,30,No,Semi-Furnished,3,2.6,4,2026-05-08,10085000
+H1548,Hyderabad,Apartment,3,4.0,1262.0,11,15,19,Yes,Furnished,0,8.4,7,2024-10-04,7240000
+H1549,Surat,Apartment,4,5.0,1783.0,8,14,27,No,Semi-Furnished,0,10.9,5,2024-12-04,5469000
+H1550,Pune,Apartment,3,2.0,1605.0,13,19,27,Yes,Semi-Furnished,4,2.2,10,2023-11-01,8784000
+H1551,Ahmedabad,Row House,1,1.0,500.0,19,5,24,Yes,Semi-Furnished,3,1.3,9,2026-06-22,2877000
+H1552,Chennai,Apartment,2,1.0,871.0,0,4,7,Yes,Semi-Furnished,3,8.9,10,2025-04-21,6114000
+H1553,Bangalore,Penthouse,4,4.0,1865.0,9,13,29,No,Furnished,2,3.5,10,2026-05-16,21112000
+H1554,Mumbai,Apartment,2,1.0,1220.0,16,2,9,No,Furnished,0,7.6,7,2024-05-25,12227000
+H1555,Pune,Apartment,1,1.0,500.0,16,12,24,No,Furnished,2,8.4,3,2023-06-12,2255000
+H1556,Ahmedabad,Penthouse,3,4.0,1044.0,16,23,27,Yes,Semi-Furnished,1,4.1,5,2025-01-07,7140000
+H1557,Hyderabad,Apartment,4,5.0,1750.0,3,14,14,Yes,Semi-Furnished,3,9.8,8,2023-12-07,10480000
+H1558,Jaipur,Row House,2,2.0,931.0,16,5,9,Yes,Unfurnished,0,6.7,7,2025-07-20,3748000
+H1559,Mumbai,Row House,3,3.0,1476.0,17,15,20,No,Furnished,2,10.5,6,2024-06-13,14781000
+H1560,Jaipur,Penthouse,2,2.0,1049.0,19,6,7,Yes,Semi-Furnished,4,9.2,5,2023-02-03,5403000
+H1561,Hyderabad,Apartment,3,4.0,1344.0,22,23,30,Yes,Semi-Furnished,1,10.5,9,2025-09-24,6577000
+H1562,Ahmedabad,Penthouse,2,2.0,1139.0,1,9,24,Yes,Semi-Furnished,2,0.5,8,2023-11-19,8746000
+H1563,Surat,Apartment,2,1.0,,7,4,16,No,Unfurnished,4,3.1,9,2026-04-19,3403000
+H1564,Jaipur,Row House,4,5.0,1788.0,12,5,11,No,Furnished,0,1.4,3,2023-12-13,6933000
+H1565,Mumbai,Villa,3,3.0,1131.0,22,9,28,No,Furnished,0,5.5,6,2026-04-30,12107000
+H1566,Delhi,Penthouse,3,4.0,1342.0,24,13,18,Yes,Semi-Furnished,1,10.7,5,2024-12-21,12349000
+H1567,Vadodara,Apartment,3,2.0,1087.0,21,2,2,Yes,Furnished,4,5.8,9,2026-06-23,4951000
+H1568,Pune,Apartment,2,1.0,749.0,19,3,8,Yes,Furnished,3,10.2,6,2023-09-02,4388000
+H1569,Surat,Apartment,3,3.0,1658.0,21,16,30,Yes,Furnished,0,4.1,5,2024-11-08,6143000
+H1570,Jaipur,Penthouse,2,3.0,622.0,14,13,28,No,Furnished,3,4.3,5,2025-07-03,3045000
+H1571,Chennai,Apartment,2,3.0,911.0,19,4,14,Yes,Semi-Furnished,3,10.8,4,2024-12-23,3898000
+H1572,Pune,Apartment,2,3.0,1099.0,22,1,4,Yes,Furnished,2,5.3,7,2025-09-30,5817000
+H1573,Delhi,Penthouse,3,3.0,1750.0,8,13,20,Yes,Semi-Furnished,2,9.5,5,2023-05-13,17959000
+H1574,Hyderabad,Villa,4,4.0,1782.0,2,5,16,Yes,Semi-Furnished,0,3.1,3,2026-05-05,12623000
+H1575,Vadodara,Apartment,5,4.0,2192.0,2,5,6,No,Semi-Furnished,3,11.4,8,2025-06-28,7475000
+H1576,Ahmedabad,Villa,3,2.0,1357.0,1,4,12,Yes,Unfurnished,2,7.0,7,2023-02-18,8274000
+H1577,Delhi,Apartment,2,2.0,1140.0,0,20,23,Yes,Furnished,4,9.2,4,2025-12-23,8951000
+H1578,Delhi,Apartment,3,2.0,1428.0,13,13,19,Yes,Unfurnished,4,1.3,7,2026-02-01,9938000
+H1579,Hyderabad,Apartment,4,3.0,1646.0,16,3,4,Yes,Semi-Furnished,4,6.1,7,2023-08-01,7759000
+H1580,Bangalore,Apartment,2,2.0,1151.0,12,3,7,Yes,Semi-Furnished,4,10.8,5,2023-04-29,7167000
+H1581,Hyderabad,Apartment,5,4.0,2067.0,18,1,4,Yes,Semi-Furnished,3,10.6,3,2025-05-05,9534000
+H1582,Bangalore,Villa,2,3.0,662.0,22,6,6,No,Semi-Furnished,4,0.8,5,2025-01-30,5403000
+H1583,Bangalore,Apartment,5,5.0,1863.0,14,6,10,Yes,Unfurnished,3,3.9,9,2024-11-09,11570000
+H1584,Surat,Apartment,4,4.0,1714.0,24,28,29,Yes,Unfurnished,0,5.5,3,2025-06-13,5671000
+H1585,Surat,Row House,4,4.0,1769.0,13,6,20,Yes,Furnished,0,2.3,9,2026-06-19,7760000
+H1586,Mumbai,Apartment,2,1.0,1122.0,1,26,29,Yes,Furnished,4,8.8,3,2023-10-07,10416000
+H1587,Jaipur,Apartment,1,1.0,665.0,6,5,28,No,Semi-Furnished,4,2.5,6,2024-02-28,2344000
+H1588,Jaipur,Penthouse,2,3.0,964.0,16,13,14,Yes,Unfurnished,4,4.4,5,2023-12-29,4530000
+H1589,Ahmedabad,Row House,2,2.0,1132.0,17,29,30,Yes,Furnished,0,8.1,10,2025-10-17,6525000
+H1590,Jaipur,Villa,1,1.0,552.0,5,5,7,No,Semi-Furnished,2,5.9,10,2023-11-10,2737000
+H1591,Surat,Villa,3,3.0,1118.0,20,9,12,Yes,Semi-Furnished,0,8.9,9,2026-04-05,4506000
+H1592,Mumbai,Penthouse,3,3.0,1078.0,7,13,22,Yes,Semi-Furnished,4,11.5,4,2025-02-08,14817000
+H1593,Mumbai,Apartment,3,3.0,1580.0,1,20,22,Yes,Semi-Furnished,2,1.7,8,2025-12-22,15581000
+H1594,Bangalore,Penthouse,3,3.0,946.0,0,23,28,Yes,Semi-Furnished,2,8.6,10,2023-09-29,10900000
+H1595,Hyderabad,Apartment,2,2.0,914.0,15,8,15,Yes,Unfurnished,1,3.0,10,2025-11-26,4740000
+H1596,Ahmedabad,Row House,5,5.0,2687.0,6,4,7,Yes,Semi-Furnished,3,5.1,7,2025-11-05,13637000
+H1597,Bangalore,Apartment,2,3.0,1033.0,21,1,7,No,Semi-Furnished,4,0.7,6,2023-12-09,6001000
+H1598,Hyderabad,Apartment,3,3.0,1312.0,23,15,18,Yes,Furnished,3,1.9,9,2023-12-12,7256000
+H1599,Jaipur,Apartment,3,3.0,1047.0,10,10,12,No,Semi-Furnished,1,4.0,4,2023-08-21,3470000
+H1600,Bangalore,Villa,4,3.0,2041.0,14,6,16,Yes,Furnished,3,4.3,8,2025-09-16,19323000
+H1601,Pune,Apartment,2,2.0,1168.0,12,10,10,Yes,Furnished,4,10.8,8,2024-07-29,6712000
+H1602,Jaipur,Row House,3,2.0,1473.0,23,11,22,Yes,Semi-Furnished,1,9.0,5,2024-02-20,5969000
+H1603,Hyderabad,Penthouse,3,3.0,1350.0,1,5,18,Yes,Semi-Furnished,3,11.7,3,2025-06-23,10939000
+H1604,Ahmedabad,Apartment,2,2.0,1053.0,13,9,25,Yes,Semi-Furnished,0,7.3,9,2023-09-24,5672000
+H1605,Hyderabad,Penthouse,3,3.0,1323.0,23,5,8,Yes,Furnished,2,3.1,5,2025-09-23,9677000
+H1606,Bangalore,Penthouse,4,4.0,1575.0,5,3,8,Yes,Semi-Furnished,1,4.1,8,2025-01-13,17565000
+H1607,Bangalore,Villa,5,5.0,2322.0,8,19,22,Yes,Semi-Furnished,0,4.0,5,2025-06-29,20974000
+H1608,Delhi,Apartment,1,1.0,541.0,6,2,2,Yes,Semi-Furnished,4,4.1,6,2024-03-18,4368000
+H1609,Ahmedabad,Apartment,2,3.0,1044.0,17,6,26,No,Furnished,2,8.2,9,2024-07-13,4702000
+H1610,Chennai,Apartment,2,2.0,928.0,23,23,28,No,Semi-Furnished,1,6.5,4,2023-03-17,3988000
+H1611,Jaipur,Apartment,2,1.0,1033.0,8,21,26,Yes,Unfurnished,2,4.8,8,2023-09-04,4083000
+H1612,Mumbai,Row House,2,2.0,947.0,22,1,9,No,Furnished,1,2.0,9,2024-08-02,9929000
+H1613,Ahmedabad,Apartment,2,1.0,933.0,3,3,6,No,Furnished,1,0.6,10,2023-11-09,4755000
+H1614,Mumbai,Penthouse,5,5.0,2155.0,8,3,20,Yes,Semi-Furnished,3,2.9,6,2024-07-29,30438000
+H1615,Ahmedabad,Apartment,4,5.0,2283.0,3,4,9,Yes,Semi-Furnished,2,1.6,4,2023-12-09,9815000
+H1616,Ahmedabad,Apartment,1,2.0,694.0,11,5,18,Yes,,2,9.5,10,2024-12-15,2815000
+H1617,Hyderabad,Penthouse,2,2.0,1415.0,3,17,20,Yes,Semi-Furnished,0,1.6,6,2026-04-20,12888000
+H1618,Ahmedabad,Row House,3,3.0,1349.0,24,6,13,Yes,Semi-Furnished,4,8.8,7,2025-09-10,6551000
+H1619,Delhi,Apartment,2,2.0,894.0,23,14,28,Yes,Semi-Furnished,0,4.8,3,2024-12-26,4994000
+H1620,Chennai,Apartment,3,4.0,1157.0,19,14,24,Yes,Furnished,3,1.2,10,2024-09-23,6107000
+H1621,Bangalore,Apartment,3,4.0,1639.0,13,9,16,Yes,Furnished,1,9.8,10,2024-02-03,11929000
+H1622,Vadodara,Apartment,4,4.0,1587.0,23,3,5,No,Semi-Furnished,3,7.1,3,2026-06-18,4188000
+H1623,Mumbai,Apartment,3,4.0,1676.0,23,17,24,Yes,Furnished,3,3.1,3,2024-12-14,13812000
+H1624,Bangalore,Apartment,3,3.0,1167.0,6,8,13,Yes,Unfurnished,0,10.8,7,2025-07-12,7479000
+H1625,Vadodara,Apartment,3,2.0,1510.0,25,8,28,No,Unfurnished,1,0.8,8,2023-10-19,5023000
+H1626,Chennai,Villa,2,1.0,664.0,12,3,14,Yes,Unfurnished,4,2.7,8,2023-02-23,3385000
+H1627,Chennai,Apartment,3,4.0,1270.0,21,15,15,Yes,Unfurnished,3,9.1,7,2026-03-14,5433000
+H1628,Mumbai,Apartment,3,3.0,1354.0,7,5,6,No,Semi-Furnished,4,8.6,3,2025-09-09,10893000
+H1629,Mumbai,Apartment,2,2.0,842.0,22,9,23,No,Unfurnished,1,3.7,3,2024-04-21,5920000
+H1630,Chennai,Villa,2,1.0,920.0,4,11,17,Yes,Furnished,1,1.0,4,2023-01-22,6735000
+H1631,Vadodara,Row House,2,2.0,920.0,11,5,8,Yes,Furnished,0,10.3,4,2026-06-13,4120000
+H1632,Ahmedabad,Apartment,4,5.0,1895.0,12,13,16,No,Semi-Furnished,2,4.0,10,2025-11-18,7856000
+H1633,Jaipur,Penthouse,2,3.0,574.0,19,11,14,Yes,Furnished,0,2.6,5,2024-11-25,3594000
+H1634,Pune,Apartment,2,1.0,849.0,13,24,27,Yes,Unfurnished,4,6.3,10,2023-06-09,4223000
+H1635,Bangalore,Apartment,2,3.0,1176.0,17,5,17,Yes,Semi-Furnished,0,10.9,9,2025-06-28,7917000
+H1636,Hyderabad,Apartment,3,3.0,1451.0,23,9,13,Yes,Semi-Furnished,1,0.8,9,2024-06-13,7142000
+H1637,Bangalore,Apartment,2,3.0,1179.0,24,7,8,Yes,Furnished,3,9.3,9,2023-04-11,7237000
+H1638,Hyderabad,Villa,5,5.0,2287.0,19,3,17,Yes,Semi-Furnished,2,7.0,6,2026-04-11,15192000
+H1639,Vadodara,Row House,4,5.0,1555.0,3,19,24,No,Furnished,1,5.3,4,2023-12-09,6115000
+H1640,Hyderabad,Apartment,3,3.0,1469.0,20,5,24,Yes,Unfurnished,3,9.0,4,2024-08-01,6770000
+H1641,Mumbai,Villa,3,3.0,1368.0,17,8,28,Yes,Furnished,4,11.6,4,2026-04-29,16301000
+H1642,Jaipur,Villa,1,1.0,958.0,6,14,14,Yes,Semi-Furnished,4,3.0,4,2025-02-28,5286000
+H1643,Jaipur,Apartment,2,1.0,1094.0,14,24,30,No,Furnished,4,2.0,10,2025-04-24,4093000
+H1644,Mumbai,Apartment,4,3.0,1844.0,20,3,24,Yes,Furnished,0,11.0,7,2023-05-05,16081000
+H1645,Delhi,Apartment,1,2.0,670.0,5,4,4,Yes,Semi-Furnished,4,8.1,5,2025-06-08,5521000
+H1646,Vadodara,Apartment,2,2.0,1034.0,15,13,16,No,Furnished,4,5.4,4,2024-10-30,3294000
+H1647,Delhi,Apartment,3,3.0,1430.0,19,11,29,Yes,Semi-Furnished,0,7.0,8,2024-05-17,10466000
+H1648,Delhi,Apartment,2,3.0,902.0,23,1,4,Yes,Furnished,3,9.0,6,2023-06-22,5599000
+H1649,Bangalore,Apartment,4,5.0,1846.0,7,8,8,No,Furnished,1,9.3,9,2025-06-05,14333000
+H1650,Chennai,Villa,2,3.0,1121.0,20,19,19,No,Semi-Furnished,2,11.1,4,2023-04-30,6231000
+H1651,Bangalore,Apartment,4,4.0,1941.0,15,10,15,Yes,Furnished,4,5.3,7,2023-09-30,13417000
+H1652,Chennai,Row House,3,2.0,1519.0,21,18,19,No,Semi-Furnished,4,3.7,8,2025-07-01,7660000
+H1653,Pune,Apartment,3,3.0,1621.0,15,18,20,Yes,Unfurnished,4,7.8,9,2025-05-25,7698000
+H1654,Hyderabad,Villa,2,1.0,1152.0,2,9,15,Yes,Furnished,0,5.2,3,2025-05-07,8943000
+H1655,Chennai,Row House,3,3.0,1463.0,16,7,21,No,Furnished,0,7.3,10,2023-09-18,8521000
+H1656,Mumbai,Villa,4,4.0,1544.0,8,6,7,No,Furnished,0,5.2,3,2026-02-21,18793000
+H1657,Bangalore,Apartment,3,4.0,1144.0,24,16,30,Yes,Semi-Furnished,2,2.1,9,2023-10-05,8324000
+H1658,Vadodara,Villa,2,3.0,905.0,2,7,9,Yes,Semi-Furnished,1,5.8,5,2023-04-03,4009000
+H1659,Hyderabad,Apartment,3,4.0,1358.0,19,24,27,Yes,Semi-Furnished,4,8.4,3,2025-08-16,6238000
+H1660,Pune,Apartment,3,2.0,1602.0,6,1,27,Yes,Semi-Furnished,3,9.7,4,2025-04-02,8633000
+H1661,Chennai,Apartment,3,3.0,850.0,17,8,8,Yes,Furnished,4,6.1,9,2023-05-08,4558000
+H1662,Pune,Apartment,4,4.0,1564.0,11,19,21,Yes,Semi-Furnished,4,2.2,7,2024-06-15,8675000
+H1663,Vadodara,Apartment,2,2.0,915.0,18,3,19,Yes,Semi-Furnished,4,5.2,5,2025-02-11,3328000
+H1664,Delhi,Row House,3,4.0,1171.0,15,6,19,Yes,Semi-Furnished,4,9.5,8,2023-06-16,10246000
+H1665,Jaipur,Villa,3,3.0,1206.0,21,4,16,Yes,Unfurnished,1,5.1,4,2025-04-10,4976000
+H1666,Vadodara,Apartment,3,3.0,1260.0,23,4,21,No,Semi-Furnished,3,8.4,3,2023-08-24,3866000
+H1667,Surat,Row House,4,5.0,1580.0,16,4,23,Yes,Unfurnished,0,6.2,6,2025-11-21,5610000
+H1668,Vadodara,Apartment,5,5.0,2011.0,19,10,20,Yes,Furnished,3,3.1,10,2026-06-08,7168000
+H1669,Pune,Row House,3,4.0,1595.0,14,9,23,No,Furnished,4,9.6,4,2023-07-10,9381000
+H1670,Mumbai,Apartment,2,2.0,1061.0,0,8,22,Yes,Furnished,3,1.3,6,2024-10-18,10690000
+H1671,Bangalore,Apartment,1,1.0,688.0,1,19,22,Yes,Semi-Furnished,4,6.4,8,2024-09-04,5834000
+H1672,Mumbai,Penthouse,3,3.0,1344.0,7,1,3,Yes,Furnished,3,2.7,6,2023-09-12,19952000
+H1673,Pune,Villa,4,5.0,1932.0,21,1,9,Yes,Furnished,2,1.1,8,2025-08-30,14426000
+H1674,Bangalore,Penthouse,2,2.0,1103.0,24,1,22,Yes,Semi-Furnished,3,6.2,5,2025-12-15,9269000
+H1675,Surat,Row House,2,1.0,1058.0,1,4,12,Yes,Furnished,0,6.1,7,2024-10-10,5020000
+H1676,Jaipur,Penthouse,1,1.0,500.0,18,14,19,Yes,Furnished,0,8.6,3,2023-04-16,2776000
+H1677,Hyderabad,Villa,4,3.0,1670.0,8,22,24,Yes,Furnished,3,9.0,10,2023-07-11,13361000
+H1678,Pune,Penthouse,2,,1140.0,8,4,14,Yes,Unfurnished,3,8.8,3,2025-09-29,8062000
+H1679,Chennai,Villa,3,4.0,1257.0,12,3,10,Yes,Furnished,1,5.1,10,2023-06-24,8810000
+H1680,Pune,Apartment,3,4.0,1118.0,5,8,10,No,Semi-Furnished,3,7.7,4,2024-09-26,6099000
+H1681,Pune,Row House,4,3.0,1654.0,14,8,18,Yes,Semi-Furnished,0,7.1,9,2023-03-26,9855000
+H1682,Bangalore,Apartment,3,4.0,1631.0,18,6,8,Yes,Semi-Furnished,2,5.2,3,2025-08-05,9496000
+H1683,Ahmedabad,Villa,3,3.0,1254.0,20,9,10,Yes,Furnished,0,7.3,5,2024-12-28,7297000
+H1684,Vadodara,Row House,2,2.0,1009.0,14,10,23,Yes,Semi-Furnished,1,11.4,3,2026-05-24,3597000
+H1685,Ahmedabad,Villa,3,4.0,1239.0,17,1,2,No,Semi-Furnished,3,2.6,4,2025-11-03,5942000
+H1686,Surat,Villa,3,3.0,1487.0,6,1,3,Yes,Semi-Furnished,2,10.9,3,2025-11-26,6415000
+H1687,Chennai,Villa,5,5.0,2247.0,25,1,5,No,Furnished,0,0.9,7,2025-11-16,14208000
+H1688,Jaipur,Apartment,2,2.0,682.0,10,4,15,Yes,Furnished,2,3.9,8,2023-03-11,3138000
+H1689,Delhi,Row House,1,1.0,598.0,7,5,5,No,Unfurnished,4,3.7,6,2023-06-03,4792000
+H1690,Surat,Apartment,1,2.0,500.0,5,3,3,Yes,Semi-Furnished,0,7.6,6,2025-02-03,2494000
+H1691,Delhi,Apartment,2,1.0,850.0,7,8,9,Yes,Semi-Furnished,4,1.8,8,2023-09-28,6343000
+H1692,Delhi,Apartment,4,5.0,1748.0,1,9,19,Yes,Semi-Furnished,2,10.6,6,2024-06-24,12807000
+H1693,Jaipur,Apartment,1,1.0,882.0,18,12,20,Yes,Unfurnished,3,10.0,7,2026-01-02,3230000
+H1694,Mumbai,Apartment,3,4.0,1407.0,15,6,15,Yes,Semi-Furnished,3,7.9,5,2024-07-24,11533000
+H1695,Ahmedabad,Penthouse,2,2.0,812.0,6,9,21,Yes,Semi-Furnished,3,5.7,4,2023-05-29,5098000
+H1696,Pune,Apartment,1,1.0,500.0,9,20,26,Yes,Unfurnished,4,11.2,7,2023-01-10,2808000
+H1697,Hyderabad,Apartment,3,4.0,1516.0,11,8,11,No,Semi-Furnished,3,10.0,4,2024-10-05,7311000
+H1698,Delhi,Apartment,2,1.0,814.0,16,3,18,Yes,Furnished,1,6.1,5,2023-03-03,4714000
+H1699,Chennai,Apartment,2,2.0,1147.0,6,4,9,No,Furnished,0,8.5,7,2025-02-12,5467000
+H1700,Surat,Villa,3,2.0,1256.0,21,10,29,No,Semi-Furnished,0,6.9,3,2026-06-09,5413000
+H1701,Mumbai,Apartment,3,3.0,1185.0,7,4,15,No,Unfurnished,2,7.2,9,2024-06-11,10433000
+H1702,Delhi,Apartment,2,2.0,862.0,6,22,22,Yes,Semi-Furnished,4,4.2,5,2024-03-20,6684000
+H1703,Mumbai,Apartment,5,4.0,1859.0,3,9,24,Yes,Semi-Furnished,0,5.7,6,2026-01-11,17464000
+H1704,Mumbai,Apartment,3,4.0,959.0,2,6,9,Yes,Semi-Furnished,4,1.2,7,2023-01-17,9109000
+H1705,Delhi,Apartment,3,3.0,1335.0,18,1,6,Yes,Semi-Furnished,2,4.5,5,2024-01-04,9093000
+H1706,Bangalore,Apartment,1,1.0,538.0,14,5,17,Yes,Semi-Furnished,3,8.4,5,2024-11-14,4209000
+H1707,Vadodara,Villa,1,1.0,596.0,3,9,9,No,Furnished,2,11.5,7,2025-06-26,2426000
+H1708,Chennai,Penthouse,1,2.0,534.0,24,5,11,Yes,Unfurnished,1,11.6,6,2024-08-05,3850000
+H1709,Pune,Apartment,2,3.0,1369.0,8,6,28,Yes,Semi-Furnished,3,6.8,8,2023-09-12,7408000
+H1710,Pune,Row House,3,3.0,1380.0,12,3,9,No,Semi-Furnished,3,7.4,6,2024-03-31,7514000
+H1711,Chennai,Apartment,4,5.0,1502.0,17,8,10,Yes,Furnished,3,2.5,5,2024-10-04,7724000
+H1712,Bangalore,Apartment,3,3.0,1148.0,20,10,19,Yes,Furnished,2,8.4,4,2024-07-14,6876000
+H1713,Pune,Row House,2,2.0,950.0,15,3,4,Yes,Semi-Furnished,1,1.1,8,2024-06-16,5457000
+H1714,Mumbai,Apartment,3,3.0,1272.0,0,13,18,Yes,Semi-Furnished,4,3.6,10,2023-11-16,12961000
+H1715,Jaipur,Row House,2,1.0,729.0,3,20,21,Yes,Semi-Furnished,2,8.1,8,2023-08-08,3443000
+H1716,Surat,Apartment,3,3.0,1339.0,17,4,16,Yes,Semi-Furnished,0,3.9,5,2024-11-29,3676000
+H1717,Ahmedabad,Apartment,3,3.0,1342.0,7,11,22,No,Semi-Furnished,0,0.9,7,2023-02-01,6218000
+H1718,Pune,Apartment,4,4.0,2037.0,19,12,28,Yes,Unfurnished,2,10.0,7,2024-12-15,9864000
+H1719,Chennai,Villa,5,5.0,1985.0,15,5,18,Yes,Furnished,4,3.9,7,2025-01-23,13731000
+H1720,Jaipur,Villa,2,3.0,875.0,20,9,9,Yes,Semi-Furnished,0,1.0,6,2025-11-05,4718000
+H1721,Delhi,Villa,3,2.0,1637.0,10,1,3,Yes,Semi-Furnished,4,1.2,3,2024-02-13,14840000
+H1722,Vadodara,Apartment,4,4.0,1809.0,19,7,18,Yes,Semi-Furnished,3,3.2,7,2025-04-07,5364000
+H1723,Chennai,Apartment,4,4.0,1584.0,20,9,19,Yes,Semi-Furnished,2,2.4,7,2023-06-22,7794000
+H1724,Mumbai,Apartment,3,3.0,1221.0,20,9,30,Yes,Semi-Furnished,3,9.4,8,2026-04-17,11206000
+H1725,Vadodara,Apartment,4,5.0,1531.0,20,2,6,Yes,Unfurnished,0,4.1,4,2025-07-24,4785000
+H1726,Surat,Row House,1,1.0,564.0,18,10,10,Yes,Furnished,4,9.7,4,2026-02-01,2760000
+H1727,Surat,Apartment,4,4.0,1936.0,22,2,10,Yes,Semi-Furnished,3,2.3,5,2024-12-07,6051000
+H1728,Bangalore,Penthouse,1,1.0,844.0,18,1,3,Yes,Furnished,0,6.1,5,2025-09-02,7977000
+H1729,Hyderabad,Penthouse,3,3.0,1082.0,17,2,3,Yes,Furnished,1,8.4,5,2025-02-21,8570000
+H1730,Bangalore,Apartment,4,3.0,1906.0,18,17,20,Yes,Semi-Furnished,3,7.9,7,2026-04-19,11773000
+H1731,Jaipur,Villa,2,2.0,980.0,10,13,24,Yes,Furnished,1,7.3,4,2023-05-12,5513000
+H1732,Vadodara,Apartment,3,3.0,1303.0,2,21,28,No,Unfurnished,1,11.1,5,2024-10-24,4140000
+H1733,Hyderabad,Apartment,2,2.0,875.0,7,4,4,Yes,Unfurnished,0,3.0,10,2026-03-24,5253000
+H1734,Delhi,Apartment,5,5.0,1804.0,19,18,18,Yes,Furnished,2,6.1,4,2023-12-25,11490000
+H1735,Mumbai,Villa,4,5.0,1865.0,18,2,15,Yes,Semi-Furnished,4,10.6,7,2026-06-12,21101000
+H1736,Vadodara,Apartment,3,3.0,1113.0,9,13,15,Yes,Semi-Furnished,0,1.2,8,2025-01-29,3604000
+H1737,Bangalore,Apartment,3,3.0,1215.0,15,8,15,Yes,Unfurnished,3,1.0,7,2023-06-14,6571000
+H1738,Ahmedabad,Apartment,4,3.0,1825.0,4,2,7,Yes,Semi-Furnished,4,3.0,5,2024-12-17,8304000
+H1739,Hyderabad,Apartment,2,1.0,623.0,19,4,4,Yes,,2,7.7,7,2024-03-02,3059000
+H1740,Hyderabad,Villa,3,3.0,1112.0,8,2,2,Yes,Semi-Furnished,0,3.3,7,2024-11-07,8098000
+H1741,Mumbai,Villa,3,3.0,1569.0,7,1,17,Yes,Semi-Furnished,2,2.5,10,2024-05-02,20422000
+H1742,Pune,Apartment,2,2.0,972.0,10,20,30,No,Semi-Furnished,3,5.7,4,2023-08-01,4796000
+H1743,Surat,Apartment,1,2.0,500.0,15,2,5,Yes,Unfurnished,0,7.5,3,2025-02-04,1953000
+H1744,Surat,Villa,1,1.0,573.0,6,3,30,Yes,Unfurnished,3,3.2,10,2023-06-06,2370000
+H1745,Ahmedabad,Apartment,2,1.0,1071.0,14,2,2,No,Semi-Furnished,4,3.8,6,2026-01-03,4093000
+H1746,Jaipur,Villa,4,5.0,1952.0,23,13,18,No,Semi-Furnished,4,7.5,10,2024-03-10,9261000
+H1747,Jaipur,Apartment,3,4.0,1150.0,20,10,29,Yes,Unfurnished,2,11.4,5,2026-04-16,4112000
+H1748,Delhi,Apartment,3,4.0,1166.0,19,15,19,Yes,Furnished,2,8.2,9,2025-04-21,8575000
+H1749,Vadodara,Apartment,2,2.0,1060.0,22,20,27,Yes,Furnished,4,9.5,3,2024-10-06,3458000
+H1750,Chennai,Apartment,2,1.0,1065.0,16,2,9,No,Furnished,1,4.6,8,2023-11-08,5732000
+H1751,Pune,Villa,2,2.0,708.0,5,3,3,Yes,Unfurnished,4,3.5,9,2023-05-07,4880000
+H1752,Bangalore,Apartment,4,4.0,1572.0,14,3,28,No,Semi-Furnished,0,5.6,5,2024-01-12,9477000
+H1753,Chennai,Penthouse,3,3.0,1315.0,7,14,19,Yes,Furnished,3,9.7,3,2023-08-13,9837000
+H1754,Chennai,Penthouse,4,5.0,1754.0,6,7,28,Yes,Unfurnished,4,5.6,7,2025-11-06,12702000
+H1755,Hyderabad,Apartment,3,4.0,1359.0,1,8,28,No,Semi-Furnished,4,10.2,5,2024-05-11,7511000
+H1756,Ahmedabad,Villa,3,3.0,1105.0,12,11,17,Yes,Unfurnished,3,11.9,3,2024-04-17,5553000
+H1757,Surat,Apartment,3,2.0,1358.0,22,22,27,Yes,Furnished,3,1.1,6,2026-03-06,4222000
+H1758,Delhi,Apartment,4,5.0,1621.0,5,4,11,Yes,Semi-Furnished,0,0.8,7,2024-04-19,12709000
+H1759,Jaipur,Villa,4,4.0,1540.0,4,6,9,Yes,Semi-Furnished,3,2.1,10,2023-08-05,8459000
+H1760,Ahmedabad,Apartment,1,,548.0,19,13,13,Yes,Semi-Furnished,2,4.8,5,2023-07-15,2188000
+H1761,Hyderabad,Villa,3,3.0,1330.0,0,11,23,Yes,Semi-Furnished,4,1.8,8,2023-07-20,10695000
+H1762,Bangalore,Apartment,3,3.0,1494.0,17,17,17,Yes,Unfurnished,3,10.5,10,2024-01-01,10270000
+H1763,Delhi,Villa,3,2.0,1195.0,14,13,13,Yes,Semi-Furnished,0,0.6,8,2024-12-19,11119000
+H1764,Hyderabad,Row House,2,3.0,992.0,22,10,12,Yes,Unfurnished,3,4.0,5,2024-02-04,4600000
+H1765,Surat,Row House,4,4.0,1468.0,9,17,21,No,Furnished,4,2.5,3,2024-08-12,5694000
+H1766,Surat,Villa,5,5.0,2101.0,2,2,20,Yes,Furnished,1,11.2,10,2023-08-02,12521000
+H1767,Surat,Villa,2,3.0,1033.0,4,2,2,Yes,Furnished,3,8.1,10,2023-12-07,5916000
+H1768,Ahmedabad,Apartment,4,4.0,1849.0,23,6,28,Yes,Semi-Furnished,2,11.0,5,2025-08-16,7276000
+H1769,Ahmedabad,Villa,2,2.0,1050.0,12,1,4,Yes,Semi-Furnished,4,11.7,9,2023-04-29,6722000
+H1770,Jaipur,Apartment,1,1.0,695.0,7,5,13,No,Unfurnished,0,6.1,7,2025-04-15,2892000
+H1771,Jaipur,Apartment,2,2.0,870.0,21,4,10,No,Semi-Furnished,4,3.0,4,2025-04-21,2452000
+H1772,Bangalore,Apartment,1,1.0,639.0,20,2,22,Yes,Semi-Furnished,1,2.6,10,2025-05-16,4607000
+H1773,Delhi,Row House,4,3.0,2086.0,1,12,30,Yes,Semi-Furnished,0,2.9,8,2026-04-17,19267000
+H1774,Mumbai,Apartment,1,1.0,500.0,8,3,23,No,Furnished,1,8.6,10,2025-08-02,5298000
+H1775,Mumbai,Apartment,2,2.0,1198.0,16,6,6,No,Furnished,1,0.8,10,2024-02-06,11152000
+H1776,Hyderabad,Apartment,2,2.0,1108.0,17,2,2,No,Semi-Furnished,2,0.9,3,2025-06-01,4520000
+H1777,Surat,Villa,2,3.0,902.0,12,8,11,Yes,Semi-Furnished,3,7.4,6,2024-07-19,4498000
+H1778,Delhi,Villa,2,1.0,917.0,0,14,18,No,Semi-Furnished,2,7.8,10,2026-01-07,9391000
+H1779,Chennai,Apartment,3,2.0,1371.0,11,5,5,Yes,Semi-Furnished,2,8.1,5,2024-02-28,6238000
+H1780,Ahmedabad,Apartment,2,3.0,1098.0,19,3,16,Yes,Semi-Furnished,2,4.7,7,2023-04-28,4326000
+H1781,Vadodara,Penthouse,4,5.0,1822.0,19,16,20,Yes,Semi-Furnished,0,9.7,5,2024-01-03,8416000
+H1782,Pune,Apartment,4,4.0,1665.0,20,15,28,Yes,Unfurnished,3,6.5,6,2026-02-03,8094000
+H1783,Bangalore,Apartment,1,2.0,500.0,4,7,9,Yes,Furnished,3,1.5,7,2026-02-02,3612000
+H1784,Surat,Villa,4,3.0,1871.0,7,15,29,No,Semi-Furnished,0,9.6,6,2024-09-21,8013000
+H1785,Surat,Penthouse,1,2.0,500.0,14,13,29,Yes,Semi-Furnished,2,11.5,7,2023-05-28,3186000
+H1786,Surat,Apartment,2,2.0,704.0,2,6,24,Yes,Unfurnished,2,1.0,4,2023-05-30,2915000
+H1787,Ahmedabad,Penthouse,1,,500.0,5,15,16,Yes,Furnished,1,4.9,8,2025-03-26,4134000
+H1788,Ahmedabad,Penthouse,2,2.0,731.0,12,17,28,Yes,Semi-Furnished,1,6.0,7,2023-09-13,5161000
+H1789,Pune,Apartment,3,2.0,1407.0,11,4,8,Yes,Furnished,4,2.0,6,2023-03-23,8021000
+H1790,Chennai,Row House,4,4.0,1697.0,18,6,16,No,Semi-Furnished,1,10.5,3,2023-01-16,8101000
+H1791,Delhi,Penthouse,2,3.0,1091.0,17,6,9,Yes,Furnished,3,3.6,10,2025-06-19,12759000
+H1792,Surat,Penthouse,3,3.0,1061.0,23,27,27,Yes,Furnished,0,9.5,8,2023-07-12,5329000
+H1793,Mumbai,Villa,2,2.0,831.0,0,14,24,Yes,Semi-Furnished,2,8.2,10,2024-12-23,12079000
+H1794,Jaipur,Apartment,3,3.0,1351.0,24,3,11,No,Furnished,4,7.3,9,2026-01-02,4965000
+H1795,Mumbai,Apartment,2,3.0,958.0,6,10,19,Yes,Furnished,1,2.5,4,2025-12-20,9134000
+H1796,Hyderabad,Apartment,2,3.0,1075.0,11,4,5,Yes,Furnished,4,2.9,5,2025-08-30,6411000
+H1797,Mumbai,Apartment,2,3.0,785.0,9,9,16,Yes,Furnished,0,0.9,4,2025-08-08,7410000
+H1798,Hyderabad,Apartment,2,2.0,866.0,11,9,12,Yes,Unfurnished,0,3.1,4,2024-06-19,4491000
+H1799,Vadodara,Row House,3,4.0,1441.0,10,2,23,No,Semi-Furnished,4,4.3,5,2023-12-09,4583000
+H1800,Jaipur,Penthouse,4,5.0,1354.0,3,4,4,Yes,Unfurnished,4,10.0,7,2024-01-30,8072000
+H1801,Mumbai,Villa,1,1.0,619.0,18,9,16,Yes,Semi-Furnished,4,4.6,10,2025-07-31,7931000
+H1802,Vadodara,Penthouse,3,3.0,1488.0,5,3,4,No,Unfurnished,2,9.1,4,2023-09-15,7605000
+H1803,Bangalore,Penthouse,3,4.0,1110.0,24,14,16,Yes,Semi-Furnished,3,5.4,10,2026-05-06,11718000
+H1804,Delhi,Apartment,4,3.0,1693.0,8,5,7,Yes,Semi-Furnished,1,9.5,8,2023-02-22,13198000
+H1805,Vadodara,Apartment,2,1.0,1219.0,19,2,2,Yes,Semi-Furnished,1,11.7,10,2024-10-12,3842000
+H1806,Delhi,Apartment,3,4.0,1469.0,9,8,15,Yes,Semi-Furnished,1,3.1,4,2023-09-28,9626000
+H1807,Mumbai,Villa,4,3.0,1830.0,4,16,17,Yes,Semi-Furnished,4,10.4,3,2023-07-20,21272000
+H1808,Chennai,Apartment,3,3.0,1528.0,12,1,2,Yes,Furnished,4,7.6,8,2024-01-31,8427000
+H1809,Vadodara,Villa,2,2.0,1275.0,8,10,22,No,Furnished,4,9.9,3,2024-01-13,6039000
+H1810,Jaipur,Apartment,2,2.0,953.0,1,8,18,Yes,Semi-Furnished,2,7.9,8,2024-11-06,3488000
+H1811,Mumbai,Villa,2,2.0,877.0,17,1,27,Yes,Semi-Furnished,2,5.3,6,2024-06-18,9639000
+H1812,Surat,Penthouse,3,2.0,1528.0,20,2,9,Yes,Furnished,2,3.0,5,2025-07-11,7736000
+H1813,Ahmedabad,Villa,3,2.0,1316.0,0,3,19,Yes,Semi-Furnished,2,1.1,8,2026-01-16,7967000
+H1814,Vadodara,Row House,2,3.0,783.0,23,11,17,Yes,Semi-Furnished,0,6.6,8,2024-02-02,2769000
+H1815,Jaipur,Penthouse,3,2.0,1253.0,20,2,7,Yes,Unfurnished,2,11.9,7,2026-04-20,6740000
+H1816,Bangalore,Row House,3,2.0,1406.0,11,3,11,Yes,Furnished,2,8.9,10,2025-05-16,12622000
+H1817,Surat,Row House,3,4.0,1269.0,9,8,11,Yes,Furnished,2,4.1,7,2024-07-14,6105000
+H1818,Bangalore,Penthouse,3,4.0,1283.0,1,3,6,Yes,Unfurnished,1,10.0,10,2023-07-09,13326000
+H1819,Mumbai,Villa,4,4.0,1565.0,8,27,27,Yes,Semi-Furnished,1,9.3,6,2023-07-24,18364000
+H1820,Ahmedabad,Apartment,2,1.0,1208.0,1,28,29,Yes,Furnished,1,3.6,7,2025-08-25,5855000
+H1821,Vadodara,Apartment,4,4.0,1688.0,22,6,13,Yes,Unfurnished,3,0.5,9,2023-02-13,3935000
+H1822,Vadodara,Apartment,2,2.0,822.0,23,15,21,Yes,Semi-Furnished,0,1.7,10,2025-09-30,3087000
+H1823,Chennai,Apartment,2,2.0,841.0,21,14,18,No,Semi-Furnished,4,10.6,9,2025-10-15,4296000
+H1824,Chennai,Apartment,2,1.0,1094.0,13,7,15,Yes,Unfurnished,2,10.1,7,2024-10-01,4561000
+H1825,Mumbai,Row House,2,1.0,1053.0,10,10,15,No,Unfurnished,1,3.8,9,2025-09-20,10574000
+H1826,Mumbai,Row House,2,2.0,860.0,22,3,4,Yes,Semi-Furnished,0,3.6,10,2024-12-01,9074000
+H1827,Ahmedabad,Penthouse,2,2.0,956.0,10,29,30,No,Furnished,2,9.6,3,2024-12-13,5484000
+H1828,Chennai,Apartment,4,3.0,1800.0,16,10,13,Yes,Furnished,3,11.3,9,2024-09-28,9318000
+H1829,Jaipur,Apartment,2,2.0,823.0,3,17,21,Yes,Furnished,4,9.4,7,2025-03-14,3461000
+H1830,Jaipur,Apartment,3,3.0,1073.0,12,19,19,Yes,Furnished,2,7.4,7,2023-11-07,4964000
+H1831,Ahmedabad,Apartment,1,2.0,643.0,6,13,13,Yes,Semi-Furnished,4,3.1,9,2025-05-27,3522000
+H1832,Jaipur,Apartment,4,4.0,1633.0,15,1,3,Yes,Unfurnished,2,6.5,10,2025-05-06,6213000
+H1833,Hyderabad,Apartment,3,2.0,1429.0,0,3,3,Yes,Unfurnished,3,3.0,6,2023-10-01,7250000
+H1834,Delhi,Row House,1,2.0,608.0,12,26,28,No,Semi-Furnished,0,9.8,6,2024-06-14,5374000
+H1835,Ahmedabad,Villa,3,3.0,1360.0,0,12,18,Yes,Semi-Furnished,4,4.8,10,2023-01-17,9225000
+H1836,Ahmedabad,Apartment,3,3.0,1273.0,10,9,11,Yes,Furnished,4,10.1,4,2024-12-18,5998000
+H1837,Pune,Apartment,3,4.0,1236.0,5,9,19,Yes,Furnished,0,4.8,7,2025-11-19,8670000
+H1838,Surat,Apartment,3,4.0,1145.0,19,5,23,No,Furnished,4,9.9,7,2024-04-14,4359000
+H1839,Surat,Apartment,3,4.0,1239.0,2,4,20,No,Semi-Furnished,1,4.2,8,2025-03-21,4691000
+H1840,Hyderabad,Row House,4,3.0,1852.0,11,12,27,No,Furnished,0,5.4,7,2024-07-08,11534000
+H1841,Chennai,Apartment,3,2.0,1602.0,4,16,22,Yes,Unfurnished,3,7.5,3,2023-04-03,6207000
+H1842,Mumbai,Apartment,1,1.0,775.0,8,1,2,Yes,Semi-Furnished,2,1.1,9,2025-05-31,6801000
+H1843,Mumbai,Apartment,4,4.0,1776.0,25,25,25,Yes,Furnished,2,11.4,8,2024-07-31,15981000
+H1844,Bangalore,Apartment,2,2.0,1202.0,25,3,30,Yes,Furnished,0,7.0,7,2024-09-22,6649000
+H1845,Hyderabad,Villa,3,2.0,1295.0,11,5,5,Yes,Semi-Furnished,1,6.2,3,2025-03-31,9079000
+H1846,Ahmedabad,Villa,1,1.0,500.0,9,3,26,Yes,Unfurnished,3,10.1,4,2024-08-06,3093000
+H1847,Hyderabad,Villa,3,4.0,1696.0,18,2,5,Yes,Semi-Furnished,2,10.4,8,2025-04-25,11071000
+H1848,Hyderabad,Apartment,5,5.0,2246.0,4,2,3,Yes,Furnished,2,6.4,9,2026-03-31,14141000
+H1849,Hyderabad,Apartment,2,1.0,674.0,25,17,20,Yes,Semi-Furnished,1,11.1,9,2025-04-21,3872000
+H1850,Surat,Apartment,2,3.0,1231.0,4,10,22,No,Furnished,4,1.1,10,2023-11-24,5017000
+H1851,Hyderabad,Row House,3,3.0,1216.0,8,2,13,Yes,Unfurnished,0,1.6,10,2024-12-30,8116000
+H1852,Delhi,Apartment,4,4.0,1655.0,25,8,11,No,Semi-Furnished,1,7.3,5,2023-09-11,9210000
+H1853,Mumbai,Apartment,3,3.0,1534.0,19,11,14,Yes,Semi-Furnished,1,4.4,7,2024-07-24,13310000
+H1854,Bangalore,Villa,2,2.0,1195.0,16,24,30,Yes,Semi-Furnished,1,5.7,8,2024-06-27,10172000
+H1855,Delhi,Villa,4,3.0,1570.0,9,3,23,Yes,Semi-Furnished,1,4.1,9,2025-04-30,15034000
+H1856,Bangalore,Apartment,3,4.0,1615.0,20,23,24,Yes,Furnished,4,5.0,6,2023-04-30,9905000
+H1857,Pune,Apartment,2,2.0,1107.0,0,2,21,Yes,Furnished,3,9.9,8,2025-09-01,7057000
+H1858,Bangalore,Apartment,1,1.0,500.0,21,9,24,No,Semi-Furnished,1,7.2,6,2025-04-01,2975000
+H1859,Mumbai,Row House,3,3.0,1306.0,15,3,16,Yes,Unfurnished,1,12.0,7,2024-05-28,11609000
+H1860,Mumbai,Apartment,2,2.0,1223.0,25,2,27,Yes,Semi-Furnished,0,9.5,3,2025-09-05,8801000
+H1861,Hyderabad,Row House,2,2.0,669.0,25,4,4,Yes,Furnished,2,3.5,6,2023-04-07,3820000
+H1862,Vadodara,Apartment,4,4.0,1999.0,14,19,24,Yes,Unfurnished,4,3.4,8,2025-05-20,5722000
+H1863,Pune,Row House,2,1.0,1102.0,22,2,21,No,Furnished,1,4.2,10,2023-09-14,6669000
+H1864,Ahmedabad,Penthouse,3,3.0,1442.0,16,15,30,Yes,Furnished,3,10.2,8,2023-05-08,10155000
+H1865,Jaipur,Apartment,2,2.0,974.0,25,8,14,Yes,Furnished,3,0.6,9,2026-03-25,4555000
+H1866,Bangalore,Row House,3,3.0,1705.0,19,5,9,Yes,Semi-Furnished,3,3.0,10,2023-02-26,13025000
+H1867,Vadodara,Apartment,3,4.0,1731.0,24,3,26,No,Semi-Furnished,0,10.9,6,2024-08-04,4949000
+H1868,Hyderabad,Row House,1,1.0,500.0,12,5,8,Yes,Semi-Furnished,3,7.8,4,2024-07-09,2986000
+H1869,Surat,Villa,3,2.0,1460.0,0,11,25,No,Semi-Furnished,0,3.0,9,2024-12-24,7353000
+H1870,Ahmedabad,Apartment,2,2.0,1287.0,24,8,9,Yes,Furnished,4,2.9,4,2024-10-14,5322000
+H1871,Chennai,Villa,4,,1609.0,7,7,19,No,Semi-Furnished,3,10.4,4,2026-01-04,10624000
+H1872,Vadodara,Row House,4,5.0,1794.0,4,6,10,Yes,Furnished,2,10.8,6,2023-06-07,7021000
+H1873,Surat,Apartment,3,3.0,1531.0,5,6,7,Yes,Semi-Furnished,1,3.3,6,2023-03-26,6188000
+H1874,Pune,Apartment,3,2.0,987.0,22,1,28,Yes,Semi-Furnished,4,5.2,8,2023-11-18,6175000
+H1875,Hyderabad,Villa,2,1.0,1099.0,19,2,5,Yes,Semi-Furnished,2,10.1,7,2023-11-05,6837000
+H1876,Ahmedabad,Penthouse,3,2.0,1154.0,13,1,16,Yes,Semi-Furnished,4,9.3,7,2023-10-11,8081000
+H1877,Ahmedabad,Apartment,2,1.0,985.0,21,1,6,Yes,Semi-Furnished,3,9.8,3,2025-12-01,4605000
+H1878,Ahmedabad,Apartment,2,3.0,1156.0,22,14,27,Yes,Furnished,4,6.4,10,2025-09-29,5575000
+H1879,Pune,Apartment,3,4.0,920.0,10,2,6,No,Unfurnished,4,11.0,6,2023-05-14,4569000
+H1880,Bangalore,Apartment,2,2.0,1091.0,5,6,8,Yes,Furnished,4,4.1,9,2024-09-05,8986000
+H1881,Chennai,Apartment,3,3.0,1717.0,10,8,10,Yes,Furnished,0,2.1,10,2024-10-10,9195000
+H1882,Pune,Row House,1,1.0,500.0,12,8,8,Yes,Semi-Furnished,2,8.6,9,2026-05-30,3286000
+H1883,Jaipur,Apartment,3,4.0,1454.0,11,7,10,No,Semi-Furnished,3,6.6,10,2023-08-17,5261000
+H1884,Chennai,Villa,2,1.0,1190.0,21,6,21,Yes,Furnished,1,10.3,7,2025-09-24,6956000
+H1885,Mumbai,Apartment,2,1.0,663.0,1,4,11,Yes,Unfurnished,3,1.2,7,2023-04-29,6224000
+H1886,Hyderabad,Apartment,3,3.0,1486.0,20,1,27,Yes,Unfurnished,3,10.2,4,2025-07-26,6559000
+H1887,Pune,Apartment,5,4.0,2334.0,2,1,5,Yes,Semi-Furnished,0,3.7,4,2023-11-20,13401000
+H1888,Surat,Apartment,3,3.0,1465.0,22,7,7,Yes,Semi-Furnished,0,8.0,9,2025-07-09,2808000
+H1889,Chennai,Villa,2,2.0,966.0,3,1,25,Yes,Semi-Furnished,4,0.8,9,2023-06-08,7231000
+H1890,Jaipur,Row House,2,3.0,770.0,16,4,15,Yes,Furnished,3,7.4,4,2023-08-27,3420000
+H1891,Mumbai,Villa,4,4.0,2000.0,21,3,10,Yes,Semi-Furnished,2,8.7,5,2024-01-31,20737000
+H1892,Bangalore,Row House,3,2.0,1356.0,5,1,2,Yes,Unfurnished,0,4.6,10,2023-11-16,10433000
+H1893,Surat,Row House,2,2.0,787.0,6,5,18,Yes,Unfurnished,0,2.8,7,2026-04-27,3620000
+H1894,Chennai,Villa,4,4.0,1693.0,14,5,14,Yes,Unfurnished,2,6.6,4,2023-11-05,9435000
+H1895,Hyderabad,Penthouse,4,3.0,1816.0,10,4,25,No,Furnished,0,10.0,4,2023-09-06,14549000
+H1896,Surat,Villa,5,5.0,1869.0,23,17,28,No,Furnished,2,4.1,6,2024-06-21,8622000
+H1897,Mumbai,Apartment,4,4.0,1753.0,2,5,8,Yes,Furnished,1,3.3,9,2024-12-01,20231000
+H1898,Surat,Villa,4,4.0,1675.0,5,4,10,Yes,Semi-Furnished,2,3.6,8,2024-01-29,8387000
+H1899,Delhi,Apartment,1,1.0,790.0,25,10,12,Yes,Furnished,1,11.4,4,2024-10-13,5156000
+H1900,Vadodara,Villa,2,1.0,613.0,1,1,4,Yes,Semi-Furnished,4,4.5,6,2025-10-14,2706000
+H1901,Bangalore,Villa,3,3.0,1519.0,13,8,27,Yes,Semi-Furnished,4,0.3,3,2024-02-10,13386000
+H1902,Mumbai,Apartment,3,3.0,1605.0,8,2,13,Yes,Semi-Furnished,0,9.4,4,2025-09-26,13791000
+H1903,Surat,Apartment,3,3.0,1019.0,17,8,22,No,Semi-Furnished,2,8.5,8,2026-04-19,2652000
+H1904,Vadodara,Row House,2,2.0,641.0,18,1,4,No,Unfurnished,0,1.8,6,2023-01-21,2420000
+H1905,Vadodara,Villa,3,4.0,1671.0,11,13,16,Yes,Furnished,2,11.8,8,2023-06-04,7153000
+H1906,Surat,Apartment,3,3.0,1187.0,12,4,22,Yes,Furnished,0,7.4,4,2025-05-16,5049000
+H1907,Hyderabad,Villa,1,1.0,1107.0,25,3,11,No,Semi-Furnished,4,6.2,3,2024-07-12,6349000
+H1908,Delhi,Villa,2,1.0,625.0,11,1,2,No,Semi-Furnished,4,,4,2023-07-13,5074000
+H1909,Pune,Apartment,3,2.0,1381.0,11,13,15,No,Semi-Furnished,0,10.8,6,2026-06-01,7705000
+H1910,Delhi,Row House,3,2.0,1346.0,17,5,28,Yes,Furnished,2,3.2,3,2024-02-03,10114000
+H1911,Surat,Villa,2,1.0,913.0,8,21,21,Yes,Furnished,3,3.6,3,2023-10-07,4653000
+H1912,Bangalore,Apartment,3,4.0,1433.0,16,4,7,Yes,Semi-Furnished,2,1.7,3,2025-09-06,7958000
+H1913,Pune,Penthouse,3,3.0,1444.0,20,3,3,Yes,Unfurnished,0,9.2,5,2025-10-30,9171000
+H1914,Mumbai,Row House,3,3.0,1320.0,15,12,30,Yes,Unfurnished,2,7.3,6,2024-04-16,12096000
+H1915,Delhi,Apartment,1,1.0,500.0,16,20,24,Yes,Semi-Furnished,1,7.4,5,2023-06-01,4406000
+H1916,Surat,Apartment,3,2.0,1539.0,20,1,9,No,Semi-Furnished,2,2.9,8,2026-02-21,4688000
+H1917,Delhi,Apartment,2,1.0,1063.0,23,1,2,No,Unfurnished,4,7.9,3,2025-03-12,5210000
+H1918,Pune,Villa,4,4.0,1771.0,7,17,30,Yes,Semi-Furnished,4,9.3,5,2024-07-06,12811000
+H1919,Jaipur,Villa,2,1.0,1057.0,10,2,5,No,Semi-Furnished,1,4.5,4,2024-12-30,4149000
+H1920,Chennai,Villa,3,3.0,1488.0,23,11,28,Yes,Unfurnished,2,9.7,5,2024-05-27,8028000
+H1921,Delhi,Row House,1,1.0,500.0,1,1,5,No,Semi-Furnished,3,4.4,7,2025-10-09,4788000
+H1922,Mumbai,Penthouse,3,3.0,1451.0,7,27,30,Yes,Unfurnished,2,9.2,8,2023-06-20,19578000
+H1923,Mumbai,Apartment,3,3.0,1250.0,11,3,6,Yes,Furnished,4,0.7,3,2025-04-29,11184000
+H1924,Ahmedabad,Apartment,2,3.0,1094.0,20,29,29,Yes,Semi-Furnished,4,6.7,3,2025-03-04,3668000
+H1925,Delhi,Apartment,3,3.0,1315.0,0,22,29,Yes,Unfurnished,0,11.6,9,2023-05-05,10837000
+H1926,Chennai,Apartment,2,1.0,1060.0,22,6,21,Yes,Furnished,4,11.8,10,2023-06-24,5043000
+H1927,Hyderabad,Villa,2,1.0,872.0,12,6,10,Yes,Semi-Furnished,0,3.6,8,2024-05-18,5976000
+H1928,Vadodara,Row House,3,2.0,1469.0,21,11,24,No,Furnished,4,5.5,8,2024-12-11,4513000
+H1929,Chennai,Apartment,2,1.0,774.0,20,13,14,Yes,Unfurnished,4,1.0,6,2023-04-16,2698000
+H1930,Vadodara,Apartment,4,5.0,1757.0,16,18,19,Yes,Semi-Furnished,3,10.5,4,2024-06-11,5670000
+H1931,Vadodara,Penthouse,3,2.0,1527.0,13,18,18,Yes,Furnished,0,7.0,9,2023-02-07,8124000
+H1932,Jaipur,Apartment,3,4.0,1434.0,13,22,26,Yes,Semi-Furnished,0,4.8,8,2024-01-30,5084000
+H1933,Ahmedabad,Apartment,1,1.0,585.0,15,2,2,Yes,Semi-Furnished,4,1.6,9,2025-07-09,2319000
+H1934,Chennai,Apartment,3,3.0,1675.0,16,5,23,Yes,Semi-Furnished,0,11.4,8,2024-04-21,7851000
+H1935,Chennai,Apartment,3,2.0,1534.0,5,14,16,Yes,Semi-Furnished,4,6.5,9,2024-12-22,7992000
+H1936,Jaipur,Row House,2,2.0,1104.0,25,3,3,Yes,Unfurnished,4,3.6,6,2023-11-11,4552000
+H1937,Delhi,Apartment,4,4.0,1868.0,6,15,17,Yes,Semi-Furnished,2,4.4,8,2023-12-31,13996000
+H1938,Delhi,Apartment,2,2.0,1091.0,25,21,21,Yes,Semi-Furnished,0,3.5,5,2023-06-30,6757000
+H1939,Delhi,Apartment,4,3.0,2048.0,25,20,23,Yes,Furnished,1,7.3,7,2025-01-03,13709000
+H1940,Bangalore,Row House,2,2.0,875.0,0,4,6,No,Unfurnished,0,11.2,7,2025-05-25,6637000
+H1941,Vadodara,Apartment,4,4.0,1932.0,24,21,28,Yes,Furnished,0,10.3,7,2025-09-20,6057000
+H1942,Bangalore,Apartment,3,2.0,1414.0,14,21,23,Yes,Semi-Furnished,3,5.7,8,2024-10-22,9323000
+H1943,Ahmedabad,Apartment,2,3.0,881.0,19,1,20,No,Unfurnished,1,10.0,9,2023-09-01,3665000
+H1944,Jaipur,Apartment,2,1.0,932.0,20,1,6,Yes,Furnished,1,5.3,7,2023-11-09,3725000
+H1945,Chennai,Apartment,3,3.0,1389.0,17,3,3,Yes,Semi-Furnished,3,3.3,4,2023-03-17,5900000
+H1946,Vadodara,Villa,5,4.0,1995.0,25,7,8,No,Furnished,3,11.8,5,2023-09-19,6446000
+H1947,Bangalore,Apartment,2,1.0,1106.0,12,2,4,Yes,Semi-Furnished,0,3.9,7,2023-08-19,7154000
+H1948,Bangalore,Apartment,2,2.0,931.0,23,18,18,Yes,Semi-Furnished,2,4.1,3,2024-12-03,4672000
+H1949,Surat,Penthouse,3,2.0,1365.0,1,2,25,No,Unfurnished,3,11.9,8,2024-10-07,6688000
+H1950,Bangalore,Apartment,3,2.0,1594.0,18,6,25,No,Unfurnished,1,1.9,5,2025-01-26,7955000
+H1951,Hyderabad,Apartment,3,3.0,1373.0,14,1,4,Yes,Semi-Furnished,1,9.2,4,2025-04-21,7441000
+H1952,Chennai,Apartment,3,3.0,1629.0,11,1,14,Yes,Semi-Furnished,0,11.2,7,2025-05-28,8654000
+H1953,Hyderabad,Row House,2,2.0,856.0,14,6,8,No,Semi-Furnished,2,6.3,4,2024-05-30,5096000
+H1954,Chennai,Apartment,4,3.0,1553.0,24,21,26,Yes,Semi-Furnished,4,0.3,8,2024-03-17,7047000
+H1955,Jaipur,Row House,3,4.0,1298.0,17,22,25,Yes,Semi-Furnished,3,4.7,7,2024-08-05,5101000
+H1956,Chennai,Penthouse,2,3.0,500.0,13,1,4,Yes,Unfurnished,3,1.6,3,2023-09-19,2657000
+H1957,Hyderabad,Apartment,3,3.0,1513.0,5,7,16,Yes,Semi-Furnished,0,5.2,5,2025-01-18,8664000
+H1958,Chennai,Row House,3,4.0,1163.0,11,1,30,No,Furnished,2,9.5,9,2025-03-29,7620000
+H1959,Jaipur,Apartment,2,1.0,839.0,19,13,19,No,Semi-Furnished,1,5.4,3,2025-09-28,2936000
+H1960,Jaipur,Apartment,3,2.0,1479.0,22,19,30,No,Semi-Furnished,1,5.4,7,2025-05-16,4369000
+H1961,Ahmedabad,Penthouse,2,2.0,971.0,5,6,11,No,Furnished,4,6.8,6,2024-08-30,6645000
+H1962,Chennai,Villa,3,2.0,1271.0,25,1,24,Yes,Semi-Furnished,1,7.1,10,2025-06-28,7892000
+H1963,Surat,Villa,4,4.0,1383.0,8,5,8,Yes,Semi-Furnished,3,10.3,5,2026-06-04,5747000
+H1964,Delhi,Apartment,2,1.0,1184.0,24,7,10,Yes,Semi-Furnished,4,3.9,4,2024-06-06,7839000
+H1965,Mumbai,Apartment,2,2.0,1080.0,25,4,6,Yes,Semi-Furnished,2,9.9,7,2026-04-27,8082000
+H1966,Jaipur,Penthouse,4,4.0,2120.0,3,3,21,Yes,Semi-Furnished,4,6.9,3,2026-05-17,11230000
+H1967,Pune,Apartment,5,5.0,2043.0,16,9,9,Yes,Unfurnished,2,3.8,8,2025-11-02,9355000
+H1968,Delhi,Apartment,3,4.0,1088.0,1,1,15,No,Unfurnished,1,3.8,9,2023-06-11,7822000
+H1969,Vadodara,Apartment,3,2.0,1529.0,15,1,5,Yes,Semi-Furnished,0,4.5,6,2023-01-05,4841000
+H1970,Chennai,Apartment,3,3.0,1316.0,23,13,21,Yes,Furnished,4,7.6,9,2023-07-21,7120000
+H1971,Hyderabad,Row House,4,5.0,1863.0,13,14,29,Yes,Unfurnished,4,3.0,8,2024-02-20,9950000
+H1972,Mumbai,Apartment,4,5.0,2042.0,25,5,15,Yes,Semi-Furnished,3,11.1,7,2025-11-01,15826000
+H1973,Pune,Row House,2,1.0,1020.0,7,10,13,Yes,Furnished,3,7.0,10,2025-08-05,7644000
+H1974,Delhi,Apartment,3,2.0,1380.0,13,2,3,No,Furnished,2,11.1,4,2025-01-21,8476000
+H1975,Chennai,Villa,3,3.0,1391.0,1,7,14,Yes,Furnished,0,0.8,3,2025-08-07,10393000
+H1976,Ahmedabad,Apartment,4,5.0,1455.0,15,1,2,Yes,Furnished,3,4.3,5,2024-01-08,5836000
+H1977,Vadodara,Apartment,3,3.0,1549.0,3,6,21,Yes,Furnished,3,0.6,6,2026-06-02,6720000
+H1978,Mumbai,Apartment,3,4.0,1561.0,0,3,8,Yes,Unfurnished,1,3.5,7,2026-04-20,13721000
+H1979,Surat,Apartment,5,5.0,2246.0,22,22,29,No,Semi-Furnished,1,10.4,7,2024-03-06,6430000
+H1980,Ahmedabad,Apartment,1,2.0,500.0,19,6,26,No,Semi-Furnished,3,0.7,7,2024-11-20,2272000
+H1981,Pune,Row House,2,1.0,928.0,13,5,10,No,Unfurnished,2,5.4,7,2023-04-28,5419000
+H1982,Mumbai,Villa,3,4.0,1609.0,7,8,29,Yes,Semi-Furnished,0,1.7,3,2024-08-10,18797000
+H1983,Ahmedabad,Apartment,2,3.0,848.0,24,13,27,Yes,Unfurnished,3,5.2,5,2025-12-05,3163000
+H1984,Vadodara,Apartment,1,2.0,763.0,24,18,18,Yes,Unfurnished,2,10.1,4,2023-08-15,3211000
+H1985,Surat,Apartment,2,2.0,960.0,2,4,22,Yes,Semi-Furnished,2,7.6,6,2026-06-17,3069000
+H1986,Ahmedabad,Apartment,3,2.0,1478.0,4,17,24,No,Unfurnished,3,8.9,9,2023-12-14,6958000
+H1987,Bangalore,Penthouse,4,4.0,1676.0,5,13,14,Yes,Semi-Furnished,2,4.4,10,2023-05-21,18376000
+H1988,Surat,Row House,3,2.0,1365.0,21,5,24,No,Furnished,4,11.3,7,2023-07-23,6088000
+H1989,Pune,Apartment,3,3.0,1429.0,25,3,11,Yes,Semi-Furnished,2,8.6,8,2025-09-30,7430000
+H1990,Vadodara,Apartment,2,2.0,755.0,7,4,17,Yes,Semi-Furnished,3,5.2,7,2025-05-10,3638000
+H1991,Chennai,Apartment,3,3.0,1399.0,5,7,7,Yes,Unfurnished,2,5.3,5,2025-04-24,6923000
+H1992,Hyderabad,Villa,3,4.0,866.0,5,5,17,Yes,Semi-Furnished,3,11.0,5,2025-09-21,5413000
+H1993,Hyderabad,Apartment,3,3.0,1242.0,3,4,12,Yes,Semi-Furnished,1,7.0,10,2023-11-09,7492000
+H1994,Hyderabad,Villa,2,2.0,1048.0,6,17,27,Yes,Furnished,3,8.6,3,2023-05-17,7018000
+H1995,Mumbai,Villa,2,2.0,1152.0,23,6,21,Yes,Furnished,2,5.2,3,2023-12-17,13062000
+H1996,Pune,Apartment,1,1.0,635.0,18,3,4,Yes,Furnished,3,2.9,8,2026-03-30,4124000
+H1997,Vadodara,Penthouse,3,2.0,1100.0,6,10,29,Yes,Semi-Furnished,0,8.8,8,2023-06-22,6144000
+H1998,Surat,Apartment,4,4.0,1936.0,2,22,30,Yes,Unfurnished,3,7.4,3,2026-02-27,6091000
+H1999,Mumbai,Villa,4,3.0,1545.0,7,7,10,Yes,Furnished,3,6.2,6,2023-03-20,20589000
+H2000,Pune,Apartment,3,2.0,1461.0,0,16,16,Yes,Semi-Furnished,0,7.6,8,2025-09-05,8597000
